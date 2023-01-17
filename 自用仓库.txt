@@ -13,6 +13,6 @@
                 {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀liucn线路"
-        },
+        }
     ]
 }
