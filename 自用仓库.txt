@@ -14,5 +14,9 @@
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀liucn线路"
         }
+                        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🚀小苹果线路"
+        },
     ]
 }
