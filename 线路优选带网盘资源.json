@@ -1,8 +1,8 @@
 {"spider": "https://gitlab.com/hztv/ros/-/raw/master/jar/top.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
-//{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
-//{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"},
+#{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
+#{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"},
 {"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
