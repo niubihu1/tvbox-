@@ -48,17 +48,18 @@
 		"type": 1,
 		"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
 	}, {
-		"name": "OKjx嗅探",
-		"type": 0,
-		"url": "https://okjx.cc/?url="
-	}, {
-		"name": "rx2",
-		"type": 1,
-		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-	},{
 		"name": "Q1官解",
 		"type": 1,
 		"url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
+	}, {
+		"name": "OKjx嗅探",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+
+	},{
+		"name": "rx2",
+		"type": 1,
+		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
 	}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
