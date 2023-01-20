@@ -1,4 +1,4 @@
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/top.jar",
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/panda230118.jar;md5;C05BADC650CB9F99D5F788D542B563EC",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key": "纸条","name": "阿里云盘 | 🔖纸条","type": 3,"api": "csp_Paper","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
