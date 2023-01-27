@@ -30,7 +30,8 @@
 {"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
+#"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
@@ -50,7 +51,7 @@
 		"url": "Web"
 	}, 
 {"name": "全部","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="},
-{"name": "Q1官解","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20230117?url="},
+{"name": "Q1官解","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/3c57ea68207d34984cec843dbd318295?url="},
 {"name" : "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
 {"name": "OKJX","type": 0,"url": "https://okjx.cc/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
