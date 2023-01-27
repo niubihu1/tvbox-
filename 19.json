@@ -1,9 +1,9 @@
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duox.jar;md5;9E983D8088D8591CBCEDD8FD14731E31",
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230118.jar;md5;C05BADC650CB9F99D5F788D542B563EC",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"drpy_js_双十电影","name":"🔟双十电影 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"},
 {"key":"drpy_js_酷客影院","name":"🎉酷客影院 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
-{"key": "小苹果","name": "🍎小苹果 | 影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
+{"key": "小苹果","name": "🍏小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1},
 {"key":"drpy_js_爱看电影","name":"♥️爱看电影 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"},
 {"key":"csp_Bttoo","name":"✌两个BT | 影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQHiker_片库","name":"🌌片库 | 影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_片库.json"},
