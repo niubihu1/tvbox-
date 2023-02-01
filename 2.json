@@ -1,9 +1,9 @@
 {"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230130.jar;md5;CBDD0FBC4C46D813B2910CB876EE407E",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-{"key": "纸条","name": "阿里云盘 | 🔖纸条","type": 3,"api": "csp_Paper","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "易搜","name": "阿里云盘 | 🎯易搜","type": 3,"api": "csp_YiSo","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "盘搜","name": "阿里云盘 | 😻盘搜","type": 3,"api": "csp_PanSou","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key": "纸条","name": "🔖纸条 | 阿里云盘","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "http://ali.饭太硬.ml/tok"},
 {"key":"drpy_js_双十电影","name":"🔟双十电影 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"},
 {"key":"drpy_js_酷客影院","name":"🎉酷客影院 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"},
 {"key": "小苹果","name": "🍎小苹果 | 影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1},
@@ -30,7 +30,7 @@
 {"key":"drpy_js_乐猪TV","name":"🐷乐猪TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"},
 {"key":"drpy_js_胖虎影视","name":"🐯胖虎影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"},
 {"key":"csp_Nkdy","name":"⏺南柯电影","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
+{"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"}],
 #"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
 "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
 "rules":[
