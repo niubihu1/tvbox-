@@ -1,4 +1,4 @@
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230118.jar;md5;C05BADC650CB9F99D5F788D542B563EC",
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"drpy_js_双十电影","name":"🔟双十电影 | 影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"},
@@ -27,10 +27,10 @@
 {"key":"drpy_js_乐猪TV","name":"🐷乐猪TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"},
 {"key":"drpy_js_胖虎影视","name":"🐯胖虎影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"},
 {"key":"csp_Nkdy","name":"⏺南柯电影","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "纸条","name": "🔖纸条 | 阿里云盘","type": 3,"api": "csp_Paper","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}],
+{"key": "纸条","name": "🔖纸条 | 阿里云盘","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"}],
 #"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
 "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
 "rules":[
@@ -52,10 +52,8 @@
 		"type": 3,
 		"url": "Web"
 	}, 
-{"name": "全部","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="},
-{"name": "Q1官解","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/3c57ea68207d34984cec843dbd318295?url="},
-{"name" : "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
 {"name": "OKJX","type": 0,"url": "https://okjx.cc/?url="},
+{"name" : "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name" : "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
 {"name":"6-麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
