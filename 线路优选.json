@@ -32,7 +32,9 @@
 {"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "http://ali.饭太硬.ml/tok"},
 {"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"}],
 #"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
+#"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
+#"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly95eWRzeXMudG9wL2R1by90eHQvdi50eHQ="]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
