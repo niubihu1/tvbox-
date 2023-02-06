@@ -1,6 +1,6 @@
 {"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134",
  "sites":[
-{"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://id.ganggang.live:63/js/js_drpy.js"},
 {"key": "纸条","name": "🔖纸条 | 阿里云盘","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
 {"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "http://ali.饭太硬.ml/tok"},
 {"key": "盘搜","name": "😻盘搜 | 阿里云盘","type": 3,"api": "csp_PanSou","ext": "http://ali.饭太硬.ml/tok"},
