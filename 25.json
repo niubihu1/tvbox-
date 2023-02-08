@@ -1,8 +1,7 @@
 {"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-{"key": "Alist1","name": "🅿┃Alis┃网盘","type": 3,"api": "http://我不是.肥猫.love:63/JS/alist.min.js","ext": "http://我不是.肥猫.love:63/alist.json"},
-{"key": "Alist2","name": "🅿┃Alis┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/alist3.json","jar": "http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
+{"key": "Alist1","name": "🅿┃Alis┃网盘","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/alist.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/alist.json"},
 {"key": "Zhaozy","name": "🐺找资源┃搜4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://ali.饭太硬.ml/nn"},
 {"key": "纸条","name": "🔖纸条 | 阿里云盘","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
 {"key": "易搜","name": "🎯易搜 | 阿里云盘","type": 3,"api": "csp_YiSo","ext": "http://ali.饭太硬.ml/tok"},
