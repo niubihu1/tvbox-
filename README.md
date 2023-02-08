@@ -10,7 +10,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.j
 https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
 ````
 
-3：优选接口含网盘
+3：网盘优选
 ````bash
 https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json
 ````
