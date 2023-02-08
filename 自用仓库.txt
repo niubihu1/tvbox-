@@ -8,20 +8,12 @@
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
-            "name": "🏡自用优选线路"
+            "name": "🏡优选线路"
         },
                 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
-            "name": "🏡自用网盘优选线路"
-        },
-        
-                {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀liucn线路"
-        },
-                        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果线路"
+            "name": "🏡阿里云盘线路"
+
         }
     ]
 }
