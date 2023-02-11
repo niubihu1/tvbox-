@@ -1,4 +1,4 @@
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134",
+{"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134",
  "sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣首页","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://id.ganggang.live:63/js/js_drpy.js"},
 {"key": "Zhaozy","name": "🐺找资源 | 阿里云盘","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/toｋen.php"},
@@ -11,7 +11,7 @@
 {"key": "push_agent","name": "阿里 | 📨推送","type": 3,"api": "csp_Push","ext": "http://我不是.肥猫.love:63/toｋen.php"}],
 #"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
 #"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"]}]}],
 #"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
