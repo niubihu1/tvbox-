@@ -258,23 +258,8 @@
             "type": "alist"
         },
         {
-            "name": "🐱梓澪の妙妙屋(H)",
-            "server": "https://xn--i0v44m.xyz",
-            "type": "alist"
-        },
-        {
             "name": "🔮嗨翻",
             "server": "https://pan.hikerfans.com",
-            "type": "alist"
-        },
-        {
-            "name": "🦀9T(Adult)",
-            "server": "https://drive.9t.ee",
-            "type": "alist"
-        },
-        {
-            "name": "🐋一只鱼",
-            "server": "https://alist.youte.ml",
             "type": "alist"
         },
         {
@@ -310,11 +295,6 @@
         {
             "name": "🐉神族九帝",
             "server": "https://alist.shenzjd.com",
-            "type": "alist"
-        },
-        {
-            "name": "🌤☃姬路白雪",
-            "server": "https://pan.jlbx.xyz",
             "type": "alist"
         },
         {
@@ -384,7 +364,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/86014/alist.json?sign=klTSIgCkIgmU3bBJ5aLesnbQ5dqyxNvWpfl7LMRLtn0%3D%3A0",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;5013870b5cce8147c2a877f4da966cf0"
         },
         {
