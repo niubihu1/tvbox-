@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;3af7eaf917576c6392ce1a07981895ef",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
@@ -46,16 +46,6 @@
             "ext": "http://cdn.饭太硬.ga/x/json/alist.json"
         },
         {
-            "key": "csp_Alist2",
-            "name": "🅿小丫┃搜索",
-            "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/alist.min.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/txt/json/alist.json"
-        },
-        {
             "key": "csp_Bili",
             "name": "🅱哔哩┃合集",
             "type": 3,
@@ -83,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "Zhaozy",
@@ -93,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/nn$$$xxooo$$$qq112233"
+            "ext": "http://ali.饭太硬.ml/token$$$xxooo$$$qq112233"
         },
         {
             "key": "csp_kuaikan",
@@ -112,7 +102,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
         },
         {
             "key": "csp_BuLei",
@@ -158,7 +148,8 @@
             "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
         },
         {
             "key": "csp_Czsapp",
@@ -365,24 +356,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Lezhu",
-            "name": "🐷乐猪┃SP",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_555",
-            "name": "5️⃣️555┃SP",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Dm84",
             "name": "🚌动漫巴士┃SP",
             "type": 3,
@@ -536,7 +509,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "PanSou",
@@ -546,7 +519,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "UpYun",
@@ -556,7 +529,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "push_agent",
@@ -566,7 +539,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "csp_XYQH外剧",
