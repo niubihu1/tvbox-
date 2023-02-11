@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://tv.nxog.top/api/api/t",
-    "spider": "https://nxog.ouhaibo1.repl.co/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23",
+    "spider": "https://nxog.ouhaibo2.repl.co/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23",
     "lives": [
         {
             "group": "redirect",
@@ -246,7 +246,18 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "110c922de7d69804467fb83d3bb664b5",
-            "jar": "http://w5.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "🇨🇳jar丨图图2",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg==",
+            "jar": "https://w.nxog.top/d/tvbox/jar/Yoursmile.jar?sign=uyJqhqiS79eCEQaIwPxqKyBf9mYt8KC1mGbHYVe2OCw=:0"
         },
         {
             "key": "LiteApple",
@@ -257,7 +268,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "6deed4548c44b18d268a5d828f04d86e",
-            "jar": "http://w5.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
         },
         {
             "key": "Tbook",
@@ -268,7 +279,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "d16d1517e9eaad9909cb35c55ba0b784",
-            "jar": "http://w5.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
         },
         {
             "key": "csp_XYQ_lu1",
@@ -288,7 +299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://w5.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
         },
         {
             "key": "mtv_pc_腾讯视频",
@@ -298,7 +309,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://w5.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
         },
         {
             "key": "mtv_pc_芒果视频",
@@ -308,7 +319,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://w5.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
+            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
         },
         {
             "key": "a3〔网盘〕",
