@@ -63,26 +63,6 @@
             "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
-            "key": "AppTT",
-            "name": "🐰图图1〔SP〕",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🐰图图2〔SP〕",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
-        },
-        {
             "key": "csp_Ysgc",
             "name": "🎥影视工厂〔SP〕",
             "type": 3,
@@ -463,7 +443,7 @@
         {
             "name": "云you解析①",
             "type": 1,
-            "url": "https://chaloli.cn/api/?key=bb22f39a69278dff2a48c4222eea4a5c&url="
+            "url": "https://chaloli.cn/api/?key=f37b43d84e1f63717b11c711effe4187&url="
         },
         {
             "name": "Q1解析",
