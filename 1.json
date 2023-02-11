@@ -97,12 +97,13 @@
                 ]
             }
         },
-{"name": "OKJX","type": 0,"url": "https://okjx.cc/?url="},
-{"name" : "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
-{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
-{"name" : "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
-{"name":"6-麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"Web4","type":0,"url":"https://dm.xmflv.com:4433/?url="}],
+{"name" : "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
+{"name" : "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
+{"name": "OKJX","type": 0,"url": "https://okjx.cc/?url="},
+{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
+{"name":"6-麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
+
 "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
