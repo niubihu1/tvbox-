@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "Zhaozy",
@@ -93,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok$$$xxooo$$$qq112233"
+            "ext": "http://ali.饭太硬.ml/nn$$$xxooo$$$qq112233"
         },
         {
             "key": "csp_kuaikan",
@@ -499,10 +499,10 @@
             "ext": "http://cdn.饭太硬.ga/x/XYQ/酷奇MV.json"
         },
         {
-            "key": "csp_XYQBiu_虎牙直播",
+            "key": "csp_XYQHiker_虎牙直播",
             "name": "🐯虎牙直播",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -536,7 +536,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "PanSou",
@@ -546,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "UpYun",
@@ -556,7 +556,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "push_agent",
@@ -566,7 +566,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/nn"
         },
         {
             "key": "csp_XYQH外剧",
@@ -607,16 +607,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://cdn.饭太硬.ga/x/xbpq/爱看.json"
-        },
-        {
-            "key": "csp_xBPQ_莫扎兔",
-            "name": "🌸莫扎兔┃XB",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xbpq/莫扎兔.json"
         },
         {
             "key": "csp_If101",
