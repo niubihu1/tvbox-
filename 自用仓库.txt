@@ -8,7 +8,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
-            "name": "🏡优选线路"
+            "name": "❤️优选线路❤️"
         },
                 {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
