@@ -11,33 +11,14 @@
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
     {
-      "key": "drpy_js_双十电影",
-      "name": "🔟双十电影 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "key": "YQ_jk",
+      "name": "🧊极客影视",
+      "type": 0,
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
-    },
-    {
-      "key": "drpy_js_酷客影院",
-      "name": "🎉酷客影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
-    },
-    {
-      "key": "小苹果",
-      "name": "🍎小苹果 | 影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://yydsys.top/duo/json/jike.json"
     },
     {
       "key": "drpy_js_爱看电影",
@@ -48,15 +29,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "✌两个BT | 影视",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_XYQHiker_片库",
@@ -87,6 +59,54 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+    },
+    {
+      "key": "csp_xBPQ_qiyou",
+      "name": "🎖奇优影院",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "小苹果",
+      "name": "🍎小苹果 | 影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "🔟双十电影 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
+    },
+    {
+      "key": "drpy_js_酷客影院",
+      "name": "🎉酷客影院 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌两个BT | 影视",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "drpy_js_厂长资源",
@@ -167,16 +187,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
-    },
-    {
-      "key": "YQ_jk",
-      "name": "🧊极客影视",
-      "type": 0,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/jike.json"
     },
     {
       "key": "drpy_js_量子影视",
