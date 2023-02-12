@@ -169,6 +169,16 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
     },
     {
+      "key": "YQ_jk",
+      "name": "🧊极客影视",
+      "type": 0,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/jike.json"
+    },
+    {
       "key": "drpy_js_量子影视",
       "name": "☀量子影视 | 影视",
       "type": 3,
