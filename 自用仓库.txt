@@ -3,15 +3,15 @@
 {
     "urls": [
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://niubihu1.github.io/1.json",
             "name": "🔔点击选择下方线路"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://niubihu1.github.io/1.json",
             "name": "❤️优选线路❤️"
         },
                 {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
+            "url": "https://niubihu1.github.io/2.json",
             "name": "🏡阿里云盘线路"
 
         }
