@@ -363,7 +363,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
+            "proxy://do=live&type=txt&ext=https://niubihu1.github.io/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
           ]
         }
       ]
@@ -684,5 +684,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+  "spider": "https://niubihu1.github.io/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
 }
