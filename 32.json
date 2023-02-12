@@ -109,14 +109,14 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
     },
     {
-      "key": "drpy_js_360影视",
+      "key": "csp_SP360",
       "name": "💫360影视 | 官源",
       "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
+      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
     },
     {
       "key": "drpy_js_奇珍异兽",
