@@ -10,7 +10,6 @@
       "filterable": 1,
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
-
     {
       "key": "Zhaozy",
       "name": "🐺找资源 | 阿里云盘",
@@ -119,7 +118,7 @@
     {
       "name": "星辰云解析",
       "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
       "ext": {
         "flag": [
           "qq",
