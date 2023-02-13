@@ -41,16 +41,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
     },
     {
-      "key": "csp_XYQHiker_奈飞中文",
-      "name": "🍁奈飞中文 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
-    },
-    {
       "key": "csp_AppTT",
       "name": "🐰图图 | 影视",
       "type": 3,
