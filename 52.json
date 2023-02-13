@@ -99,6 +99,16 @@
       "filterable": 1
     },
     {
+      "key": "YQ_ht",
+      "name": "🌷荷塘 | 影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
+    },
+    {
       "key": "drpy_js_厂长资源",
       "name": "🏭厂长资源 | 影视",
       "type": 3,
