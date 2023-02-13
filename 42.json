@@ -383,7 +383,7 @@
     {
       "name": "星辰云解析",
       "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
       "ext": {
         "flag": [
           "qq",
@@ -437,11 +437,6 @@
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
-    },
-    {
-      "name": "星辰云解析2",
-      "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
     }
   ],
   "flags": [
