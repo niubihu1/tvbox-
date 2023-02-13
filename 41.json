@@ -52,7 +52,7 @@
     },
     {
       "key": "csp_xBPQ_qiyou",
-      "name": "🎖奇优影院",
+      "name": "🎖奇优 | 影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -437,6 +437,11 @@
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+    },
+    {
+      "name": "星辰云解析2",
+      "type": 1,
+      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
     }
   ],
   "flags": [
