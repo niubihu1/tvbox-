@@ -10,6 +10,7 @@
       "filterable": 1,
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
+    
     {
       "key": "Zhaozy",
       "name": "🐺找资源 | 阿里云盘",
@@ -20,6 +21,19 @@
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/toｋen.php"
     },
+##
+    {
+      "key": "drpy_js_Alist",
+      "name": "🅿Alis | 阿里云盘",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/hztv/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/hztv/alist.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
+    },
+##
     {
       "key": "Upyunso",
       "name": "🌤️云搜 | 阿里云盘",
@@ -49,16 +63,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/toｋen.php"
-    },
-    {
-      "key": "Alist1",
-      "name": "🅿┃Alis┃网盘",
-      "type": 3,
-      "api": "http://我不是.肥猫.love:63/JS/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/alist.json"
     },
     {
       "key": "纸条",
