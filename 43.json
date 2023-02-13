@@ -316,14 +316,14 @@
       "ext": "http://我不是.肥猫.love:63/toｋen.php"
     },
     {
-      "key": "Alist1",
+      "key": "drpy_js_Alist",
       "name": "🅿┃Alis┃网盘",
       "type": 3,
-      "api": "http://我不是.肥猫.love:63/JS/alist.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/alist.json"
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json"
     },
     {
       "key": "纸条",
