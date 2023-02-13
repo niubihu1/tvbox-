@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/jike.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
     {
       "key": "drpy_js_爱看电影",
@@ -38,17 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_片库.json"
-    },
-    {
-      "key": "csp_XYQHiker_奈飞中文",
-      "name": "🍁奈飞中文 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_奈飞中文.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "csp_AppTT",
@@ -62,7 +52,7 @@
     },
     {
       "key": "csp_xBPQ_qiyou",
-      "name": "🎖奇优影院",
+      "name": "🎖奇优 | 影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -393,7 +383,7 @@
     {
       "name": "星辰云解析",
       "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
       "ext": {
         "flag": [
           "qq",
