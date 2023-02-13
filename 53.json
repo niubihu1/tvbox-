@@ -229,16 +229,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
     },
     {
-      "key": "drpy_js_Voflix",
-      "name": "📦Voflix | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/voflix.js"
-    },
-    {
       "key": "csp_Smdyy",
       "name": "🦄神马 | 影视",
       "type": 3,
@@ -275,15 +265,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "⏺南柯电影",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Zhaozy",
