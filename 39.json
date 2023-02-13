@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/jike.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
     {
       "key": "drpy_js_爱看电影",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_片库.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "csp_XYQHiker_奈飞中文",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_奈飞中文.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
     },
     {
       "key": "csp_AppTT",
