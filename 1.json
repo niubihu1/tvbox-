@@ -99,6 +99,16 @@
       "filterable": 1
     },
     {
+      "key": "YQ_ht",
+      "name": "🌷荷塘 | 影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
+    },
+    {
       "key": "drpy_js_厂长资源",
       "name": "🏭厂长资源 | 影视",
       "type": 3,
@@ -189,16 +199,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
     },
     {
-      "key": "drpy_js_真不卡",
-      "name": "🎋真不卡 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"
-    },
-    {
       "key": "drpy_js_秋霞影院",
       "name": "🌷秋霞影院 | 影视",
       "type": 3,
@@ -217,16 +217,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
-    },
-    {
-      "key": "drpy_js_Voflix",
-      "name": "📦Voflix | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/voflix.js"
     },
     {
       "key": "csp_Smdyy",
@@ -265,15 +255,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "⏺南柯电影",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Zhaozy",
