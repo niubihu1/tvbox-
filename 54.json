@@ -199,16 +199,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
     },
     {
-      "key": "drpy_js_真不卡",
-      "name": "🎋真不卡 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"
-    },
-    {
       "key": "drpy_js_秋霞影院",
       "name": "🌷秋霞影院 | 影视",
       "type": 3,
