@@ -17,8 +17,8 @@ https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.js
 
 软件下载
 🔰官方原版 Tvbox
-(https://liucn.lanzouf.com/iI9hZ0jsjv0d)
+https://liucn.lanzouf.com/iI9hZ0jsjv0d
 
 🔰原版 影视仓 
-（https://wwtc.lanzoum.com/iTvQm0n7z04f）
+https://wwtc.lanzoum.com/iTvQm0n7z04f
 密码 25542
