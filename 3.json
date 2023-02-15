@@ -330,20 +330,7 @@
       "ext": "http://我不是.肥猫.love:63/toｋen.php"
     }
   ],
- # "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
-          ]
-        }
-      ]
-    }
-  ],
-  #
+
   "parses": [
     {
       "name": "GGTV",
