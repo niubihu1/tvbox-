@@ -107,10 +107,7 @@
             "name": "🚀阿里专线"
         }, 
 
-        {
-            "url": "http://饭太硬.ga/x/o.json",
-            "name": "🚀饭太硬线路"
-        },              
+            
                                 
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
