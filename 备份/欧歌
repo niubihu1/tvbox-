@@ -1,6 +1,6 @@
 {
-    "wallpaper": "http://tv.nxog.top/api/api/t",
-    "spider": "https://nxog.ouhaibo2.repl.co/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23",
+    "wallpaper": "./t/",
+    "spider": "http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23",
     "lives": [
         {
             "group": "redirect",
@@ -8,7 +8,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=http://tv.nxog.top/m/tv"
+                        "proxy://do=live&type=txt&ext=./tv/index.php"
                     ]
                 }
             ]
@@ -17,17 +17,17 @@
     "sites": [
         {
             "key": "drpy_js_榜单荐片",
-            "name": "❤更新:2/8❤",
+            "name": "❤更新:2/15❤",
             "type": 3,
             "api": "./js/lib/drpy.min.js",
             "ext": "./js/js/drpy.js"
         },
         {
             "key": "drpy_js_榜单荐片2",
-            "name": "长期维护，切勿贩卖。",
+            "name": "tv.nxog.top多仓接口",
             "type": 3,
-            "api": "http://tv.nxog.top/m/js/drpy.js",
-            "ext": "http://tv.nxog.top/m/MaooXX/欧歌聚合搜索.js"
+            "api": "./m/js/drpy.js",
+            "ext": "./m/MaooXX/欧歌聚合搜索.js"
         },
         {
             "key": "爬虫〔爬虫〕",
@@ -37,6 +37,16 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "csp_XYQ_lu1",
+            "name": "️🇨🇳电视直播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./MaooXX/ds.json"
         },
         {
             "key": "mtv_pc_酷云七七",
@@ -227,99 +237,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "多🇨🇳丨〔JAR〕",
-            "name": "↓多JAR🇨🇳j〔〔JAR〕↓",
-            "type": 0,
-            "api": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "AppTT",
-            "name": "🇨🇳jar丨图图",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5",
-            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🇨🇳jar丨图图2",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg==",
-            "jar": "https://w.nxog.top/d/tvbox/jar/Yoursmile.jar?sign=uyJqhqiS79eCEQaIwPxqKyBf9mYt8KC1mGbHYVe2OCw=:0"
-        },
-        {
-            "key": "LiteApple",
-            "name": "🇨🇳jar丨苹果",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "6deed4548c44b18d268a5d828f04d86e",
-            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
-        },
-        {
-            "key": "Tbook",
-            "name": "🇨🇳jar丨听书网",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d16d1517e9eaad9909cb35c55ba0b784",
-            "jar": "http://w3.nxog.top/d/tvbox/jar/ts.jpg?sign=phFNeLx20BL7yZ8gl1o9_hfmfRc8bvRwurirMk9rzl8=:0;md5;270fe5543b8cde61c2e7ff7e823a34c9"
-        },
-        {
-            "key": "csp_XYQ_lu1",
-            "name": "️🇨🇳电视直播",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./MaooXX/ds.json"
-        },
-        {
-            "key": "mtv_pc_奇艺视频",
-            "name": "官方┃奇艺视频",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
-        },
-        {
-            "key": "mtv_pc_腾讯视频",
-            "name": "官方┃腾讯视频",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
-        },
-        {
-            "key": "mtv_pc_芒果视频",
-            "name": "官方┃芒果视频",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://w3.nxog.top/d/tvbox/jar/tmj.jar?sign=Xaosen075n0rdhr8BjJ6beng7BtKaxG2GdDcXlaRjg8=:0;md5;83fb605345300da7c3d2c2f2a36c6cdc"
         },
         {
             "key": "a3〔网盘〕",
@@ -7556,7 +7473,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "Alips",
@@ -7567,7 +7484,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "Zhaozy",
@@ -7578,7 +7495,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "Upyunso",
@@ -7589,7 +7506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "csp_Yiso",
@@ -7599,7 +7516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "Gitcafe",
@@ -7609,7 +7526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "FindZY",
@@ -7619,7 +7536,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
             "key": "push_agent",
@@ -7629,24 +7546,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/lib/token.txt"
+            "ext": "http://tv.nxog.top/m/api/token.php"
         },
         {
-            "key": "t4public",
+            "key": "drpy_js_榜单荐片3",
             "name": "长期维护，切勿贩卖。",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
+            "type": 3,
+            "api": "./m/js/drpy.js",
+            "ext": "./m/MaooXX/欧歌聚合搜索.js"
         }
     ],
     "parses": [
-        {
-            "name": "播不了换",
-            "type": 3,
-            "url": "Web"
-        },
         {
             "name": "Json聚合",
             "type": 3,
@@ -7658,9 +7568,9 @@
             "url": "Parallel"
         },
         {
-            "name": "欧歌",
-            "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
         },
         {
             "name": "tv.nxog.top",
@@ -7721,14 +7631,38 @@
             }
         },
         {
-            "name": "ok",
+            "name": "。",
             "type": 0,
-            "url": "https://jx.xhswglobal.com/dplayer/?url="
-        },
-        {
-            "name": "@",
-            "type": 0,
-            "url": "https://blbfq.f3322.net/player/?url="
+            "url": "http://www.13tv.top/label/v.html?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
         },
         {
             "name": "j1",
@@ -7780,14 +7714,9 @@
             }
         },
         {
-            "name": "ja",
-            "type": 1,
-            "url": "https://jxm.qwrev534.top/?url="
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
         }
     ],
     "flags": [
