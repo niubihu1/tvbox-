@@ -355,7 +355,7 @@
     {
       "name": "星辰云解析",
       "type": 1,
-      "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
+      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
       "ext": {
         "flag": [
           "qq",
@@ -409,6 +409,49 @@
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+    },
+    {
+      "name": "喵喵喵",
+      "type": 1,
+      "url": "https://jx.ccabc.cc/byg/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
     }
   ],
   "flags": [
@@ -645,6 +688,6 @@
     "cms.qdwght.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper": "https://api.dujin.org/bing/1920.php",
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
 }
