@@ -17,10 +17,10 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "👇以下为网络收集线路👇"
         },
-                {
-            "url": "http://肥猫.love",
-            "name": "肥猫Panda"
-        },
+        {
+            "url": "https://肥猫.love",
+            "name": "肥猫线路"
+        },  
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "云星家庭"
@@ -43,27 +43,26 @@
         },
                 {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧记线路"
+            "name": "巧记线路"
         },
                 {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🤪神器推送〔多条线路〕"
+            "name": "神器推送"
         },  
                 {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "🌝吾爱〔多条线路〕"
+            "name": "吾爱"
         },  
               {
             "url": "http://101.34.67.237/config/3",
-            "name": "🚀小雅线路"
+            "name": "小雅线路"
         },
                     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💨南风〔多条线路〕"
+            "name": "南风"
         },   
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🤪神器推送〔多条线路〕"
+            "name": "神器推送"
         } 
-
     ]
 }
