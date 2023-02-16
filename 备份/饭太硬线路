@@ -1,19 +1,6 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;3af7eaf917576c6392ce1a07981895ef",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;5ca5ccf2ed3fd7a80cb9eab4857ad2cf",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"
-                    ]
-                }
-            ]
-        }
-    ],
     "sites": [
         {
             "key": "js豆瓣",
@@ -24,16 +11,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-        },
-        {
-            "key": "csp_XYQ_lu1",
-            "name": "🅱电视┃直播",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/电视直播.json"
         },
         {
             "key": "csp_Alist1",
@@ -73,17 +50,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "http://ali.饭太硬.ml/token"
         },
         {
-            "key": "Zhaozy",
-            "name": "🐺找资源┃搜4K",
+            "key": "YiSo",
+            "name": "😹易搜┃搜4K",
             "type": 3,
-            "api": "csp_Zhaozy",
+            "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token$$$xxooo$$$qq112233"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/token"
         },
         {
             "key": "csp_kuaikan",
@@ -93,6 +72,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_YQKAPP",
+            "name": "🎉一起看┃SP",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-tx.shumaxc.xyz"
         },
         {
             "key": "csp_AppTT",
@@ -111,7 +101,38 @@
             "api": "csp_BuLei",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
+        },
+        {
+            "key": "csp_555",
+            "name": "5️⃣️555┃SP",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "csp_Yht",
+            "name": "🍀野荷塘┃SP",
+            "type": 3,
+            "api": "csp_Yht",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yehetang.cc"
+        },
+        {
+            "key": "csp_fantuan",
+            "name": "🍙饭团┃SP",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
         },
         {
             "key": "Tian",
@@ -128,15 +149,6 @@
             "name": "🎈Voflix┃SP",
             "type": 3,
             "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_panghu",
-            "name": "🐯胖虎┃SP",
-            "type": 3,
-            "api": "csp_Panghu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -170,6 +182,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Slsp",
+            "name": "🍅石榴┃SP",
+            "type": 3,
+            "api": "csp_Slsp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
         },
         {
             "key": "csp_77",
@@ -212,10 +234,29 @@
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃SP",
             "type": 3,
-            "api": "csp_Bttoo",
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_panghu",
+            "name": "🐯胖虎┃SP",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🌟Lib┃SP",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://libvio.me"
         },
         {
             "key": "csp_zxzj",
@@ -227,22 +268,14 @@
             "filterable": 1
         },
         {
-            "key": "csp_Dy1010",
-            "name": "❤️双十┃SP",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Lgyy",
             "name": "🌀蓝光┃SP",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.lgyy.tv"
         },
         {
             "key": "csp_Smdyy",
@@ -255,7 +288,7 @@
         },
         {
             "key": "csp_Bd",
-            "name": "💥bidi┃SP",
+            "name": "💥哔嘀┃SP",
             "type": 3,
             "api": "csp_Bdys01",
             "playerType": 1,
@@ -280,16 +313,8 @@
             "api": "csp_Ysgc",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_SP2345",
-            "name": "💦2345┃SP",
-            "type": 3,
-            "api": "csp_SP2345",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.ysgc.fun"
         },
         {
             "key": "csp_SP360",
@@ -298,7 +323,8 @@
             "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "teng",
@@ -307,44 +333,28 @@
             "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "ai",
-            "name": "🐨爱奇┃SP",
+            "name": "🥝爱爱┃SP",
             "type": 3,
             "api": "csp_IQIYI",
             "quickSearch": 1,
             "searchable": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "MGT",
-            "name": "🍋芒果┃SP",
+            "name": "🍋芒芒┃SP",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lib",
-            "name": "🎉Lib┃SP",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "AppTT",
-            "name": "🐰兔兔┃SP",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "csp_Nkdy",
@@ -441,27 +451,6 @@
             "ext": "http://cdn.饭太硬.ga/x/xp/企鹅直播.json"
         },
         {
-            "key": "csp_xBPQ_zf",
-            "name": "🏀抓饭体育",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xbpq/抓饭体育.json"
-        },
-        {
-            "key": "csp_xBPQ_kg",
-            "name": "🐶酷狗MV",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xbpq/酷狗MV.json"
-        },
-        {
             "key": "csp_XYQBiu_酷奇",
             "name": "🎤酷奇MV",
             "type": 3,
@@ -502,14 +491,15 @@
             "ext": "http://cdn.饭太硬.ga/x/xbpq/短视频.json"
         },
         {
-            "key": "YiSo",
-            "name": "😹易搜┃搜4K",
+            "key": "Zhaozy",
+            "name": "🐺找资源┃搜4K",
             "type": 3,
-            "api": "csp_YiSo",
+            "api": "csp_Zhaozy",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/token$$$自己去注册$$$qq112233"
         },
         {
             "key": "PanSou",
@@ -519,6 +509,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "http://ali.饭太硬.ml/token"
         },
         {
@@ -529,6 +520,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "http://ali.饭太硬.ml/token"
         },
         {
@@ -562,14 +554,14 @@
             "ext": "http://cdn.饭太硬.ga/x/XYQ/野马.json"
         },
         {
-            "key": "csp_XYQH追兔",
-            "name": "🌸追兔┃XH",
+            "key": "csp_XYQH極客",
+            "name": "️🌸極客┃XH",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/極客.json"
         },
         {
             "key": "csp_xBPQ_爱看",
@@ -679,55 +671,34 @@
     ],
     "parses": [
         {
-            "name": "Json聚合",
+            "name": "聚1",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "Web聚合",
+            "name": "聚0",
             "type": 3,
             "url": "Web"
         },
         {
             "name": "全部",
             "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
+            "url": "http://api.ckflv.cn/?url="
         },
         {
-            "name": "自",
+            "name": "来",
             "type": 1,
-            "url": "http://svip.xn--9kq078cdn3a.cc/api/?key=X1k0ePfQloi7b4S37w&url=",
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
         },
         {
-            "name": "来",
+            "name": "自",
             "type": 1,
-            "url": "http://pandown.pro/app/ysmjx.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
+            "url": "http://http://pandown.pro/app/kxjx.php?url=",
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
             }
         },
         {
@@ -748,35 +719,27 @@
         {
             "name": "随便",
             "type": 0,
-            "url": "https://h5.freejson.xyz/player/?url="
+            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
         },
         {
             "name": "弄",
             "type": 1,
-            "url": "rxjx.kuanjv.com/allm3u8.php?url="
+            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
+            }
         },
         {
             "name": "不要",
             "type": 1,
-            "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
             "name": "客气",
             "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "header": {
+                "User-Agent": "Dart/2.14(dart:io)"
             }
         },
         {
@@ -803,14 +766,6 @@
             "name": "来",
             "type": 1,
             "url": "https://www.nxflv.com/?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "野",
-            "type": 1,
-            "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
@@ -874,6 +829,14 @@
             "rule": [
                 "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
             ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://ftyyy.tk/json/tvlist.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
     "flags": [
@@ -1082,6 +1045,8 @@
     ],
     "ads": [
         "wan.51img1.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
