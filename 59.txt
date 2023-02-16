@@ -1,0 +1,68 @@
+# 此多仓接口为自用 内容均来自网络搜集，如有冒犯侵权所属版权方，请联系删除。转载请注明出处
+{
+    "urls": [
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "name": "🔔点击选择下方线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "name": "❤️优选线路❤️"
+        },
+                {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
+            "name": "💖阿里云盘线路💖"
+        },
+                {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "name": "👇以下为网络收集线路👇"
+        },
+                {
+            "url": "http://肥猫.love",
+            "name": "肥猫Panda"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星家庭"
+        },
+                {
+            "url": "https://gitlab.com/hztv/ros/-/raw/master/js.json",
+            "name": "幸福接口"
+        },  
+                {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝线路"
+        },
+                {
+            "url": "https://hutool.ml/tang",
+            "name": "唐三线路"
+        },
+                {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长线路"
+        },
+                {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧记线路"
+        },
+                {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🤪神器推送〔多条线路〕"
+        },  
+                {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🌝吾爱〔多条线路〕"
+        },  
+              {
+            "url": "http://101.34.67.237/config/3",
+            "name": "🚀小雅线路"
+        },
+                    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "💨南风〔多条线路〕"
+        },   
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🤪神器推送〔多条线路〕"
+        } 
+    ]
+}
