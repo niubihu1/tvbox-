@@ -15,8 +15,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
-            "name": "👇以下为网络收集线路👇",
-            "time": "主线路"
+            "name": "👇以下为网络收集线路👇"
         },  
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
