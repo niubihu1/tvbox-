@@ -120,7 +120,7 @@
         },
         {
             "key": "csp_app_源头",
-            "name": "🐹┃肥猫┃影院",
+            "name": "🐈┃肥猫┃影院",
             "type": 1,
             "api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -138,22 +138,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
-        },
-        {
-            "key": "xcys",
-            "name": "🌠┃星辰┃影视",
-            "type": 1,
-            "api": "http://tv.cpkey.cn/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "fl": "520520",
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
         },
         {
             "key": "Czsapp",
@@ -465,7 +449,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://我不是.肥猫.love:63/toｋen.php"
+            "ext": "http://我不是.肥猫.love:63/toｋen.php$$$xxooo$$$qq112233"
         },
         {
             "key": "csp_search_Upyunso",
@@ -718,7 +702,50 @@
         {
             "name": "星辰云解析",
             "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
+        },
+        {
+            "name": "喵喵喵？",
+            "type": 1,
+            "url": "https://jx.ccabc.cc/byg/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1089,5 +1116,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "http://我不是.肥猫.love:63/Jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"
+    "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
 }
