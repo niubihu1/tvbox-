@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+      "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
     },
     {
       "key": "csp_xBPQ_qiyou",
@@ -271,11 +271,11 @@
       "key": "drpy_js_Alist",
       "name": "🅿Alis | 阿里云盘",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/hztv/alist.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/hztv/alist.json",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
     },
 ##
@@ -689,5 +689,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.dujin.org/bing/1920.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
 }
