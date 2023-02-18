@@ -701,5 +701,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.dujin.org/bing/1920.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
 }
