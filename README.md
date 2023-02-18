@@ -20,5 +20,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.js
 - https://liucn.lanzouf.com/iI9hZ0jsjv0d
 
 - 🔰原版 影视仓 
-- https://wwtc.lanzoum.com/iTvQm0n7z04f
-- 密码 25542
+- https://wwtc.lanzoum.com/iWNyi0nuo3ri
+- 密码 1680
