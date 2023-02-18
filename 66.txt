@@ -271,11 +271,11 @@
       "key": "drpy_js_Alist",
       "name": "🅿Alis | 阿里云盘",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/raw/main/js/ali/ouge/alist.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/raw/main/js/ali/ouge/alist.json",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
     },
 ##
