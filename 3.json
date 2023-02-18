@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
     {
       "key": "drpy_js_爱看电影",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "csp_AppTT",
@@ -106,7 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
     {
       "key": "drpy_js_厂长资源",
@@ -271,12 +271,12 @@
       "key": "drpy_js_Alist",
       "name": "🅿Alis | 阿里云盘",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
     },
 ##
     {
@@ -689,5 +689,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.dujin.org/bing/1920.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
 }
