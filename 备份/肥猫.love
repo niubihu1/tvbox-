@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃免费接口，切勿售卖。",
+            "name": "🐼┃豆瓣┃免费接口，内置贩卖可耻。",
             "type": 3,
             "api": "http://id.ganggang.live:63/js/drpy.min.js",
             "ext": "http://id.ganggang.live:63/js/js_drpy.js",
@@ -64,10 +64,10 @@
             "name": "📜┃纸条┃云盘",
             "type": 3,
             "api": "csp_Paper",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "http://我不是.肥猫.love:63/toｋen.php"
         },
         {
@@ -75,10 +75,10 @@
             "name": "📜┃纸条┃雲盘",
             "type": 3,
             "api": "csp_Gitcafe",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "http://我不是.肥猫.love:63/toｋen.php"
         },
         {
@@ -137,7 +137,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
         },
         {
             "key": "Czsapp",
@@ -672,7 +672,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
                     ]
                 }
             ]
@@ -1116,5 +1116,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+    "spider": "http://我不是.肥猫.love:63/Jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
 }
