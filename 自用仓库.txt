@@ -34,8 +34,8 @@
         },
 
         {
-            "url": "http://肥猫.love",
-            "name": "💖肥猫Panda〔多条线路〕"
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "💖肥猫Panda"
         },
         {
             "url": "https://hutool.ml/tang",
@@ -45,10 +45,7 @@
             "url": "http://饭太硬.ga/x/o.json",
             "name": "💖饭太硬〔多条线路〕"
         },                
-        {
-            "url": "https://gitlab.com/hztv/ros/-/raw/master/js.json",
-            "name": "💖幸福接口〔多条线路〕"
-        },                 
+            
         {
             "url": "http://byyds.top/w.txt",
             "name": "💖分享君〔多条线路〕"
