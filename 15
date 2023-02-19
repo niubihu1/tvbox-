@@ -278,7 +278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/野马.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/%E9%87%8E%E9%A9%AC.json"
     },
     {
       "key": "Kuaikan",
@@ -316,7 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/饭团HD.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/饭团HD.json"
     },
     {
       "key": "Zhaozy",
