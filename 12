@@ -70,7 +70,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
 ##
     {
@@ -715,5 +714,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
 }
