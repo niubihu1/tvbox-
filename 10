@@ -60,17 +60,17 @@
       "filterable": 1
     },
 ##
-        {
-            "key": "YQK_spider",
-            "name": "🏃一起看 | 影视",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
+	{
+      "key": "csp_YQKAPP",
+      "name": "🏃一起看 | 影视",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
 ##
     {
