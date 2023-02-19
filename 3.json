@@ -10,16 +10,7 @@
       "filterable": 1,
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
-    {
-      "key": "drpy_js_爱看电影",
-      "name": "♥️爱看电影 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"
-    },
+
     {
       "key": "csp_XYQHiker_片库",
       "name": "🌌片库 | 影视",
@@ -50,6 +41,27 @@
       "filterable": 0,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.js"
     },
+
+    {
+      "key": "drpy_js_布雷蓝光",
+      "name": "⚡布雷蓝光 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+    },
+            {
+      "key": "drpy_js_厂长资源",
+      "name": "🏭厂长资源 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
+    },
     {
       "key": "小苹果",
       "name": "🍎小苹果 | 影视",
@@ -73,6 +85,56 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
 ##
+        {
+      "key": "csp_XYQH野马",
+      "name": "️🦄野马 | 影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/%E9%87%8E%E9%A9%AC.json"
+    },	
+    
+        {
+      "key": "Kuaikan",
+      "name": "🦋快看 | 影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
+        {
+      "key": "csp_Xinsj",
+      "name": "🐠视觉 | 影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.6080dy2.com"
+    },	
+        {
+      "key": "csp_Auete",
+      "name": "🐼Auete | 影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "csp_xBPQ_饭团",
+      "name": "🍙饭团 | 影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/饭团HD.json"
+    },
+    
     {
       "key": "drpy_js_双十电影",
       "name": "🔟双十电影 | 影视",
@@ -83,16 +145,7 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
     },
-    {
-      "key": "drpy_js_酷客影院",
-      "name": "🎉酷客影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
-    },
+
     {
       "key": "csp_Bttoo",
       "name": "✌两个BT | 影视",
@@ -122,25 +175,26 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
-    {
-      "key": "drpy_js_厂长资源",
-      "name": "🏭厂长资源 | 影视",
+
+        {
+      "key": "drpy_js_酷客影院",
+      "name": "🎉酷客影院 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
     },
-    {
-      "key": "drpy_js_布雷蓝光",
-      "name": "⚡布雷蓝光 | 影视",
+        {
+      "key": "drpy_js_爱看电影",
+      "name": "♥️爱看电影 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"
     },
     {
       "key": "csp_SP360",
@@ -243,7 +297,7 @@
     },
     {
       "key": "csp_Bd",
-      "name": "📯哔嘀影视",
+      "name": "📯哔嘀 | 影视",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -252,7 +306,7 @@
     },
     {
       "key": "drpy_js_乐猪TV",
-      "name": "🐷乐猪TV",
+      "name": "🐷乐猪 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -262,7 +316,7 @@
     },
     {
       "key": "drpy_js_胖虎影视",
-      "name": "🐯胖虎影视",
+      "name": "🐯胖虎影 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -270,6 +324,9 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"
     },
+
+    
+    
     {
       "key": "Zhaozy",
       "name": "🐺找资源 | 阿里云盘",
