@@ -167,7 +167,7 @@
     },
     {
       "key": "drpy_js_007影视",
-      "name": "007 | 影视",
+      "name": "🌈007 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -177,7 +177,7 @@
     },
     {
       "key": "drpy_js_看看电影",
-      "name": "看看 | 影视",
+      "name": "👀看看 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -187,7 +187,7 @@
     },
     {
       "key": "drpy_js_子子影视",
-      "name": "子子 | 影视",
+      "name": "🐈子子 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
