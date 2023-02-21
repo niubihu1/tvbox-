@@ -32,14 +32,14 @@
       "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
     },
     {
-      "key": "csp_xBPQ_qiyou",
+      "key": "drpy_js_奇优影院",
       "name": "🎖奇优 | 影视",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"
     },
 
     {
@@ -85,17 +85,7 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
 ##
-        {
-      "key": "csp_XYQH野马",
-      "name": "️🦄野马 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/%E9%87%8E%E9%A9%AC.json"
-    },	
-    
+
         {
       "key": "Kuaikan",
       "name": "🦋快看 | 影视",
@@ -165,6 +155,47 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
+        {
+      "key": "drpy_js_fositv",
+      "name": "fositv | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/fositv.js"
+    },
+    {
+      "key": "drpy_js_007影视",
+      "name": "🌈007 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"
+    },
+    {
+      "key": "drpy_js_看看电影",
+      "name": "👀看看 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
+    },
+    {
+      "key": "drpy_js_子子影视",
+      "name": "🐈子子 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
+    },
+
     {
       "key": "YQ_jk",
       "name": "🧊极客 | 影视",
