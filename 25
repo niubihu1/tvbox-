@@ -189,16 +189,7 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
 
-        {
-      "key": "drpy_js_酷客影院",
-      "name": "🎉酷客影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
-    },
+
         {
       "key": "drpy_js_爱看电影",
       "name": "♥️爱看电影 | 影视",
