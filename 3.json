@@ -11,16 +11,7 @@
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
 
-    {
-      "key": "csp_XYQHiker_片库",
-      "name": "🌌片库 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xyqh_%E7%89%87%E5%BA%93.json"
-    },
+
     {
       "key": "csp_AppTT",
       "name": "🐰图图 | 影视",
@@ -31,20 +22,11 @@
       "filterable": 1,
       "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
     },
-    {
-      "key": "drpy_js_奇优影院",
-      "name": "🎖奇优 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"
-    },
+
 
     {
       "key": "drpy_js_布雷蓝光",
-      "name": "⚡布雷蓝光 | 影视",
+      "name": "⚡布雷4K | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -207,16 +189,7 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
     },
 
-        {
-      "key": "drpy_js_酷客影院",
-      "name": "🎉酷客影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
-    },
+
         {
       "key": "drpy_js_爱看电影",
       "name": "♥️爱看电影 | 影视",
@@ -345,16 +318,7 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
     },
-    {
-      "key": "drpy_js_胖虎影视",
-      "name": "🐯胖虎影 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"
-    },
+
 
     
     
