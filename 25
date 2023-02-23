@@ -22,16 +22,7 @@
       "filterable": 1,
       "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
     },
-    {
-      "key": "drpy_js_奇优影院",
-      "name": "🎖奇优 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"
-    },
+
 
     {
       "key": "drpy_js_布雷蓝光",
