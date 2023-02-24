@@ -2,22 +2,22 @@
 {
     "urls": [
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "🔔点击选择下方线路"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "💖优选线路💖"
         },
                 {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
             "name": "💖阿里云盘线路💖"
         },
         
         
         
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "👇以下为网络收集线路👇"
         },  
         {
