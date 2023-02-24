@@ -97,15 +97,15 @@
       "filterable": 1
     },
         {
-      "key": "csp_xBPQ_饭团",
-      "name": "🍙饭团 | 影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/饭团HD.json"
-    },
+            "key": "XBPQ_fant",
+            "name": "🍙饭团 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
     
     {
       "key": "drpy_js_双十电影",
