@@ -16,7 +16,7 @@
       "key": "csp_AppTT",
       "name": "🐰图图 | 影视",
       "type": 3,
-      "api": "csp_AppTT2",
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
