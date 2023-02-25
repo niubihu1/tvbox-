@@ -12,27 +12,7 @@
     },
 
 
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图 | 影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-    },
-    {
-      "key": "AppTT",
-      "name": "🐰图图TV | 影视",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "110c922de7d69804467fb83d3bb664b5",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/tang.jar"
-    },	
+
 
     {
       "key": "drpy_js_布雷蓝光",
@@ -78,6 +58,32 @@
     },
 ##
 
+
+
+    {
+      "key": "csp_AppTT",
+      "name": "🐰图图 | 影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
+    },
+    {
+      "key": "AppTT",
+      "name": "🐰图图TV | 影视",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "110c922de7d69804467fb83d3bb664b5",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/tang.jar"
+    },	
+    
+    
+    
         {
       "key": "Kuaikan",
       "name": "🦋快看 | 影视",
@@ -188,16 +194,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
 
-    {
-      "key": "YQ_jk",
-      "name": "🧊极客 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jike.json"
-    },
 
 
         {
