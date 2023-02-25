@@ -114,14 +114,7 @@
             "url": "https://yydsys.top/duo/lm.json",
             "name": "🚀龙门影视"
         },         
-        {
-            "url": "http://饭太硬.ga/x/o.json",
-            "name": "🚀饭太硬线路"
-        },               
-        {
-            "url": "https://hutool.ml/tang",
-            "name": "🚀唐三线路"
-        },                                           
+                                          
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
@@ -130,10 +123,7 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
         },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧记线路"
-        },
+
         {
             "url": "http://101.34.67.237/config/2",
             "name": "🚀小雅线路"
@@ -150,14 +140,7 @@
             "url": "http://dxawi.github.io/0/0.json",
             "name": "🚀dxawi0线路"
         },
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果线路"
-        },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备线路"
-        },
+
         {
             "url": "https://app.easybox.vip/dy",
             "name": "🚀easybox线路"
