@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
+      "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
     },
     {
       "key": "AppTT",
@@ -406,10 +406,13 @@
     }
   ],
   "parses": [
+    {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"解析聚合","type":3,"url":"Demo"},
     {
-      "name": "GGTV",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="
+      "name": "Web4",
+      "type": 0,
+      "url": "https://dm.xmflv.com:4433/?url="
     },
     {
       "name": "虾米",
@@ -426,54 +429,51 @@
       "type": 0,
       "url": "http://www.miaoys.cc/vip/?url="
     },
-    {
-      "name": "星辰云解析",
-      "type": 1,
-      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "Web4",
-      "type": 0,
-      "url": "https://dm.xmflv.com:4433/?url="
-    },
+   {
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2379&my=chklstwCIKRUWZ0257&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                    
+                ]
+            }
+        },
+
     {
       "name": "爱酷",
       "type": 0,
@@ -483,6 +483,11 @@
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+    },
+        {
+      "name": "GGTV",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="
     },
     {
       "name": "喵喵喵",
