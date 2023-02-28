@@ -59,40 +59,8 @@
 ##
 
 
+    
 
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图 | 影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-    },
-    {
-      "key": "AppTT",
-      "name": "🐰图图TV | 影视",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "110c922de7d69804467fb83d3bb664b5",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/tang.jar"
-    },	
-    
-    
-    
-        {
-      "key": "Kuaikan",
-      "name": "🦋快看 | 影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
         {
       "key": "csp_Xinsj",
       "name": "🐠视觉 | 影视",
@@ -153,6 +121,18 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
+        {
+      "key": "csp_555电影",
+      "name": "5️⃣️555 | 影视",
+      "type": 3,
+      "api": "csp_Ys555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.555dyy1.com"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
+    },
+    
         {
       "key": "drpy_js_fositv",
       "name": "fositv | 影视",
