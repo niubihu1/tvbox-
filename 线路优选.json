@@ -59,40 +59,8 @@
 ##
 
 
+    
 
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图 | 影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-    },
-    {
-      "key": "AppTT",
-      "name": "🐰图图TV | 影视",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "110c922de7d69804467fb83d3bb664b5",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/tang.jar"
-    },	
-    
-    
-    
-        {
-      "key": "Kuaikan",
-      "name": "🦋快看 | 影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
         {
       "key": "csp_Xinsj",
       "name": "🐠视觉 | 影视",
@@ -154,15 +122,18 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
         {
-      "key": "drpy_js_fositv",
-      "name": "fositv | 影视",
+      "key": "csp_555电影",
+      "name": "5️⃣️555 | 影视",
       "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "api": "csp_Ys555",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/fositv.js"
+      "ext": "https://www.555dyy1.com",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
+    
+
     {
       "key": "drpy_js_007影视",
       "name": "🌈007 | 影视",
@@ -196,16 +167,7 @@
 
 
 
-        {
-      "key": "drpy_js_爱看电影",
-      "name": "♥️爱看电影 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"
-    },
+
     {
       "key": "csp_SP360",
       "name": "💫360影视 | 官源",
@@ -296,15 +258,7 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
     },
-    {
-      "key": "csp_Smdyy",
-      "name": "🦄神马 | 影视",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_Bd",
       "name": "📯哔嘀 | 影视",
