@@ -15,10 +15,10 @@ https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.jso
 https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json
 ````
 
--  软件下载
+-  软件下载 (使用单仓优选接口)
 - 🔰官方原版 Tvbox
 - https://liucn.lanzouf.com/iI9hZ0jsjv0d
 
-- 🔰原版 影视仓 
+- 🔰原版 影视仓 (使用多仓接口)
 - https://wwtc.lanzoum.com/iPGKc0ot48md
 - 密码 38912
