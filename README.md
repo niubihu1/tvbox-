@@ -10,10 +10,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.j
 https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
 ````
 
-3：单仓优选网盘接口
-````bash
-https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json
-````
 
 -  软件下载 (使用单仓优选接口)
 - 🔰官方原版 Tvbox
