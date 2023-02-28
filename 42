@@ -133,16 +133,7 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
     },
     
-        {
-      "key": "drpy_js_fositv",
-      "name": "fositv | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/fositv.js"
-    },
+
     {
       "key": "drpy_js_007影视",
       "name": "🌈007 | 影视",
