@@ -121,17 +121,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
-        {
-      "key": "csp_555电影",
-      "name": "5️⃣️555 | 影视",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
-    },
+
     
 
     {
