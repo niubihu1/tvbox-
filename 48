@@ -54,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0219.jar;md5;41A8B279F24E06A17CF29EB47EA5A9B4"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0301.jar;md5;DE062A37A01EA422BD3D49F935F1C605"
     },
 ##
 
@@ -123,7 +123,7 @@
     },
 
     {"key":"百影视频",
-    "name":"百影视频",
+    "name":"🛍百影 | 影视",
     "type":3,
     "api":"csp_MianHua",
     "searchable":1,
@@ -131,7 +131,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://47.104.99.175",
-     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0301.jar;md5;DE062A37A01EA422BD3D49F935F1C605"
     },
 
     {
