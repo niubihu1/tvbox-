@@ -122,7 +122,17 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
     },
 
-    {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+    {"key":"百影视频",
+    "name":"百影视频",
+    "type":3,
+    "api":"csp_MianHua",
+    "searchable":1,
+    "playerType":2,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://47.104.99.175",
+     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
+    },
 
     {
       "key": "drpy_js_007影视",
