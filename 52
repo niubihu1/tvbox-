@@ -69,16 +69,16 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
 
-    {"key":"百影视频",
-    "name":"🛍百影 | 影视",
-    "type":3,
-    "api":"csp_MianHua",
-    "searchable":1,
-    "playerType":2,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"http://47.104.99.175",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+    {
+      "key": "mtv_百影视频",
+      "name": "💯百影 | 影视",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext":"http://47.104.99.175",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
     
   #########################  
