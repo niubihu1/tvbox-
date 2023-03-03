@@ -43,23 +43,45 @@
       "quickSearch": 1,
       "filterable": 1
     },
-##
-	{
+
+#########################
+
+    {
       "key": "csp_YQKAPP",
       "name": "🏃一起看 | 影视",
       "type": 3,
       "api": "csp_YQKAPP",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/duo0301.jar;md5;DE062A37A01EA422BD3D49F935F1C605"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
-##
+   {
+      "key":"Tutu_spider",
+      "name":"🗺️图图影视",
+      "api":"csp_TutuYs",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"http://124.248.66.89:7788/",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+    },
 
-
+    {"key":"百影视频",
+    "name":"🛍百影 | 影视",
+    "type":3,
+    "api":"csp_MianHua",
+    "searchable":1,
+    "playerType":2,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://47.104.99.175",
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+    },
     
+  #########################  
 
         {
       "key": "csp_Xinsj",
@@ -268,17 +290,7 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
     },
     
-    {"key":"百影视频",
-    "name":"🛍百影 | 影视",
-    "type":3,
-    "api":"csp_MianHua",
-    "searchable":1,
-    "playerType":2,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"http://47.104.99.175",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
-    },
+
 
 {"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
 ##
