@@ -19,7 +19,7 @@
 
      {
       "key": "csp_YQKAPP",
-      "name": "🏃一起看 | 影视",
+      "name": "🏃一起 | 影视",
       "type": 3,
       "api": "csp_YQKAPP",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
      {
       "key": "小苹果",
-      "name": "🍎小苹果 | 影视",
+      "name": "🍎苹果 | 影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -146,7 +146,7 @@
 
 	        {
             "key": "csp_BuLei",
-            "name": "⚡布雷4K | 影视",
+            "name": "⚡布雷 | 影视",
             "type": 3,
             "api": "csp_BuLei",
             "searchable": 1,
@@ -168,7 +168,7 @@
 
     {
       "key": "drpy_js_8号影院",
-      "name": "📮8号影院 | 影视",
+      "name": "📮8号 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -183,7 +183,7 @@
     
             {
       "key": "drpy_js_厂长资源",
-      "name": "🏭厂长资源 | 影视",
+      "name": "🏭厂长 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -193,7 +193,7 @@
     },
     {
       "key": "drpy_js_双十电影",
-      "name": "🔟双十电影 | 影视",
+      "name": "🔟双十 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -204,7 +204,7 @@
 
     {
       "key": "csp_Bttoo",
-      "name": "✌两个BT | 影视",
+      "name": "✌BTBT | 影视",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -214,7 +214,7 @@
 
     {
       "key": "drpy_js_量子影视",
-      "name": "☀量子影视 | 影视",
+      "name": "☀量子 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
