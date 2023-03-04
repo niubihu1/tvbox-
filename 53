@@ -11,29 +11,68 @@
       "ext": "http://id.ganggang.live:63/js/js_drpy.js"
     },
 
-
-
-
     {
-      "key": "drpy_js_布雷蓝光",
-      "name": "⚡布雷4K | 影视",
+      "key": "YQ_ht",
+      "name": "🌷荷塘 | 影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
+    },
+        {
+      "key": "csp_Xinsj",
+      "name": "🐠视觉 | 影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.6080dy3.com"
+    },	
+    {
+      "key": "drpy_js_看看电影",
+      "name": "👀看看 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
     },
-            {
-      "key": "drpy_js_厂长资源",
-      "name": "🏭厂长资源 | 影视",
+    {
+      "key": "drpy_js_子子影视",
+      "name": "🐈子子 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
+    {
+      "key": "drpy_js_8号影院",
+      "name": "📮8号影院 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
+    },
+    {
+      "key": "drpy_js_乐猪TV",
+      "name": "🐷乐猪 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
+    },
+
+
     {
       "key": "小苹果",
       "name": "🍎小苹果 | 影视",
@@ -69,30 +108,10 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
 
-    {
-      "key": "mtv_百影视频",
-      "name": "💯百影 | 影视",
-      "type": 3,
-      "api": "csp_MianHua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"http://47.104.99.175",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
-    },
     
   #########################  
 
-        {
-      "key": "csp_Xinsj",
-      "name": "🐠视觉 | 影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.6080dy3.com"
-    },	
+
         {
       "key": "csp_Auete",
       "name": "🐼Auete | 影视",
@@ -113,6 +132,16 @@
             "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
         },
     
+            {
+      "key": "drpy_js_厂长资源",
+      "name": "🏭厂长资源 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
+    },
     {
       "key": "drpy_js_双十电影",
       "name": "🔟双十电影 | 影视",
@@ -133,50 +162,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "YQ_ht",
-      "name": "🌷荷塘 | 影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/野荷塘.json"
-    },
-
 
     {
-      "key": "drpy_js_007影视",
-      "name": "🌈007 | 影视",
+      "key": "drpy_js_量子影视",
+      "name": "☀量子影视 | 影视",
       "type": 3,
       "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
     },
-    {
-      "key": "drpy_js_看看电影",
-      "name": "👀看看 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
-    },
-    {
-      "key": "drpy_js_子子影视",
-      "name": "🐈子子 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
-    },
-
-
 
 
     {
@@ -239,36 +235,8 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
     },
-    {
-      "key": "drpy_js_量子影视",
-      "name": "☀量子影视 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
-    },
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "🌷秋霞影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
-    },
-    {
-      "key": "drpy_js_8号影院",
-      "name": "📮8号影院 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
-    },
+
+
 
     {
       "key": "csp_Bd",
@@ -279,74 +247,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "drpy_js_乐猪TV",
-      "name": "🐷乐猪 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
-    },
-    
-
-
-{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
-##
-    {
-      "key": "drpy_js_Alist",
-      "name": "🅿Alis | 阿里云盘",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
-    },
-##
-    {
-      "key": "Upyunso",
-      "name": "🌤️云搜 | 阿里云盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
-    {
-      "key": "易搜",
-      "name": "🎯易搜 | 阿里云盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
-    {
-      "key": "盘搜",
-      "name": "😻盘搜 | 阿里云盘",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
-    {
-      "key": "纸条",
-      "name": "🔖纸条 | 阿里云盘",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
-	  
 	  
     {
       "key": "push_agent",
