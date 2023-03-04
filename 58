@@ -101,20 +101,9 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
     },
-        {
-            "key": "mtv_XBPQ_映迷影视",
-            "name": "🐾┃映迷┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
-        },
-    
-        {
+            {
             "key": "csp_BuLei",
-            "name": "🍩┃布雷┃影视",
+            "name": "⚡布雷4K | 影视",
             "type": 3,
             "api": "csp_BuLei",
             "searchable": 1,
@@ -122,7 +111,17 @@
             "filterable": 1,
             "m3u8ads": "wan.51img1.com"
         },
-    
+        {
+            "key": "mtv_XBPQ_映迷影视",
+            "name": "🐾映迷 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
+        },
+
     {
       "key": "drpy_js_8号影院",
       "name": "📮8号影院 | 影视",
