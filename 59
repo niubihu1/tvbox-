@@ -89,7 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
         },
     {
       "key": "drpy_js_乐猪TV",
@@ -154,7 +154,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
    {
       "key":"Tutu_spider",
@@ -165,7 +165,7 @@
       "quickSearch":1,
       "searchable":1,
       "ext":"http://124.248.66.89:7788/",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
     },
 
     
@@ -308,7 +308,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
+            "proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
           ]
         }
       ]
@@ -677,5 +677,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
 }
