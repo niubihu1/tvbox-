@@ -53,16 +53,25 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
-    {
-      "key": "drpy_js_8号影院",
-      "name": "📮8号影院 | 影视",
+   {
+      "key": "csp_Auete",
+      "name": "🐼Auete | 影视",
       "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
+      "filterable": 1
     },
+        {
+            "key": "XBPQ_fant",
+            "name": "🍙饭团 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
     {
       "key": "drpy_js_乐猪TV",
       "name": "🐷乐猪 | 影视",
@@ -73,7 +82,16 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
     },
-
+    {
+      "key": "drpy_js_8号影院",
+      "name": "📮8号影院 | 影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
+    },
 
     {
       "key": "小苹果",
@@ -114,25 +132,7 @@
   #########################  
 
 
-        {
-      "key": "csp_Auete",
-      "name": "🐼Auete | 影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        {
-            "key": "XBPQ_fant",
-            "name": "🍙饭团 | 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
-        },
+     
     
             {
       "key": "drpy_js_厂长资源",
