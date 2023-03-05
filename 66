@@ -26,7 +26,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/100.jar;md5;861D47854D1CC4786DC9FBA44AD29F41"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
     },
      {
       "key": "小苹果",
@@ -144,8 +144,27 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
     },
 
-
-
+	        {
+            "key": "csp_BuLei",
+            "name": "⚡布雷 | 影视",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
+        },
+	
+        {
+            "key": "mtv_XBPQ_映迷影视",
+            "name": "🐾映迷 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
+        },
 
     {
       "key": "drpy_js_8号影院",
@@ -286,7 +305,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/toｋen.php"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     }
   ],
   "lives": [
