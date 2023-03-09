@@ -53,16 +53,7 @@
       "ext": "https://www.6080dy3.com"
     },	
     
-    {
-      "key": "drpy_js_看看电影",
-      "name": "👀看看 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
-    },
+
     
     {
       "key": "drpy_js_子子影视",
