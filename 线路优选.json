@@ -26,7 +26,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
     },
      {
       "key": "小苹果",
@@ -131,7 +131,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
         },
     {
       "key": "drpy_js_乐猪TV",
@@ -315,7 +315,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
+            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"
           ]
         }
       ]
@@ -717,5 +717,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
 }
