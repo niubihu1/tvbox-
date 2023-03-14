@@ -104,7 +104,18 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	 
+	   
+	   {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+    },	
+
 
     {
       "key": "drpy_js_乐猪TV",
@@ -559,5 +570,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230308b.jar;md5;FD1B07D4BC51C76F592A56C3185EFCFE"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580"  
 }
