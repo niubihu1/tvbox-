@@ -104,7 +104,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	 
+	    {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+    },		
+    { 
 
     {
       "key": "drpy_js_乐猪TV",
