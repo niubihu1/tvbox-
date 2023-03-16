@@ -4,11 +4,11 @@
       "key": "dr_豆瓣",
       "name": "🔍豆瓣首页",
       "type": 3,
-      "api": "http://id.ganggang.live:63/js/drpy.min.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://id.ganggang.live:63/js/js_drpy.js"
+      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
 
