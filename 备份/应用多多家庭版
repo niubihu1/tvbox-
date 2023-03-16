@@ -152,17 +152,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },	
     {
       "key": "csp_大明",
-      "name": "♏大明影视",
+      "name": "🏰大明影视",
       "type": 1,
-      "api": "https://ys.md214.cn/api.php/provide/vod/",
+      "api": "https://ys.md214.cn/api.php/provide/vod/", 
+	  "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
+      "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"],
+	  "tsads": "iqiyi.hbuioo.com"
 	},	
     {
       "key": "csp_XBPQ_qiyou",
@@ -264,16 +265,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },	
     {
-      "key": "py_libvio",
-      "name": "🍲LIB(PY)",
+      "key":"csp_Lib",
+	  "name":"🍲Lib影视",
+	  "type":3,
+	  "api":"csp_Libvio",
+	  "searchable":1,
+	  "playerType":2,
+	  "quickSearch":1,
+	  "filterable":0,
+	  "ext":"https://tv.libvio.cc"
+	},	
+    {
+      "key": "js_Libvio",
+      "name": "🍲LIB(JS)",
       "type": 3,
-      "api": "py_libvio",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/pylibvio.py"
+      "ext": "https://yydsys.top/duo/js/libvio.js"
     },
     {
 	  "key":"csp_XBPQ_LIBVIO",
@@ -306,7 +318,7 @@
     },
     {
       "key": "js_a8音乐",
-      "name": "🎶音乐MTV",
+      "name": "🎸音乐MTV",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -655,7 +667,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },	
     {
       "key": "csp_Ysgc",
       "name": "🎬️影视工厂",
@@ -880,16 +892,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/js/B站精简.js"
-    },
-    {
-      "key": "py_video",
-      "name": "🅱️B站影视",
-      "type": 3,
-      "api": "py_video",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/video.py"
     },
     {
       "key": "py_meishi",
@@ -1197,7 +1199,7 @@
       "name": "live",
       "type": 0,
       "url": "https://yydsys.top/duo/txt/v.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
 ], 
@@ -1261,10 +1263,15 @@
       "url": "https://jx.777jiexi.com/player/?url="
     }, 
     {
+      "name": "1号线",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },	
+    {
       "name": "2号线",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
-    },	
+    },		
     {
       "name": "3号线",
       "type": 0,
@@ -1579,7 +1586,7 @@
 
     {
       "name": "20号线",
-      "type": 0,
+      "type": 1,
       "url": "http://lanlan.ckflv.cn/?url=",
       "ext": {
         "flag": [
@@ -1871,6 +1878,8 @@
 	"www.googletagmanager.com",
 	"www.google-analytics.com",
 	"wan.51img1.com",
+	"audid-api.taobao.com",
+	"hd.youyhn.com",
 	"mc.usihnbcq.cn",
 	"mg.g1mm3d.cn",
 	"mscs.svaeuzh.cn",
