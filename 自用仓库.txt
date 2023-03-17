@@ -3,18 +3,18 @@
     "urls": [
 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "🚀优选线路🚀"
         },
                 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json",
             "name": "🚀阿里云盘线路🚀"
         },
         
         
         
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "👇以下为网络收集线路👇"
         },  
         {
@@ -120,7 +120,7 @@
             "name": "🚀唐三线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
@@ -144,7 +144,7 @@
             "name": "🚀俊佬线路"
         }, 
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
