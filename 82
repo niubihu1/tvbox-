@@ -12,15 +12,7 @@
     },
 
 
-    {
-      "key": "t4桉佬",
-      "name": "🔍豆瓣首页",
-      "type": 4,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+
 
 
 #########################
