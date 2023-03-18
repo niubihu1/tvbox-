@@ -12,7 +12,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.jso
 
 - 软件下载
 - 🔰原版 影视仓 (使用多仓接口)
-- https://wwtc.lanzoum.com/i0RSo0pyvdih
+- https://wwtc.lanzoum.com/iGuPR0q1r1wd
 - 密码 288866
 
 -  
