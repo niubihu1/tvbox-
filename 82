@@ -17,17 +17,19 @@
 
 #########################
 
-     {
-      "key": "csp_YQKAPP",
-      "name": "🏃一起 | 影视",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
-    },
+{"key":"YQK_spider",
+"name":"🙆一起 | 影视",
+"api":"csp_YQKAPP",
+"type":3,
+"filterable":1,
+"playerType":2,
+"quickSearch":1,
+"searchable":1,
+"playerType": 2,
+"ext": "https://api-tx.shumaxc.xyz",
+"m3u8ads": "hd.youyhn.com"
+},
+
      {
       "key": "小苹果",
       "name": "🍎苹果 | 影视",
