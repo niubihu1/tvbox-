@@ -123,15 +123,15 @@
 
 //{"key":"ai","name":"🐨┃爱奇┃官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 
-{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/奇珍异兽.js"},
+//{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/奇珍异兽.js"},
 
-{"key":"teng","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
+//{"key":"teng","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 
 //{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
+//{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 
-{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
@@ -172,9 +172,6 @@
 {"key":"csp_search_Alips","name":"🦌┃盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://hz752.love:63/ali/ken.php"},
 
 {"key":"csp_BBB","name":"🅱┃哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/bili.json"},
-
-
-{"key":"csp_Bili","name":"🅱┃哔哩┃合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/bilibili_2.json"},
 
 {"key":"csp_戏曲","name":"🅱┃哔哩┃戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/戏曲.json"},
 
