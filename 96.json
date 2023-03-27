@@ -75,6 +75,18 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
+
+{"key":"drpy_js_星辰影院",
+ "name":"🌃星辰 | 影视",
+ "type":3,
+ "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+ "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
+},
+
+
    {
       "key": "csp_Auete",
       "name": "🐼Auete | 影视",
