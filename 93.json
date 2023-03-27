@@ -94,16 +94,7 @@
             "searchable": 1,
             "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
         },
-	{
-            "key": "csp_Yht",
-            "name": "🌷荷塘 | 影视",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc"
-        },
+
 	
 	  {
             "key": "Kuaikan",
