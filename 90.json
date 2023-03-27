@@ -48,14 +48,7 @@
  "ext": "https://www.69mj.com/"
 },
 
-{"key":"csp_Auete",
- "name":"🏝奥特┃直连",
- "type": 3,
- "api":"csp_Auete",
- "searchable":1,
- "quickSearch":1,
- "filterable":1
-},
+{"key":"csp_Auete","name":"🏝奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     
   #########################  
 
