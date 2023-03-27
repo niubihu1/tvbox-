@@ -148,17 +148,7 @@
 
 
 
-    {
-      "key": "drpy_js_乐猪TV",
-      "name": "🐷乐猪 | 影视",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
-    },
-    
+ 
     {"key":"csp_Cokemv","name":"📕可乐| 影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_BuLei",
