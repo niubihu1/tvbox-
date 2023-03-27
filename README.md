@@ -21,4 +21,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.jso
 
 - 
 - 🔰宝盒
-- https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E5%A4%87%E4%BB%BD/%E5%AE%9D%E7%9B%92-1.0.20230317_1317-release.apk
+- https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E5%A4%87%E4%BB%BD/%E5%AE%9D%E7%9B%92-2.0.0_1-release.apk
