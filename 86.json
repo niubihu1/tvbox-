@@ -38,6 +38,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"key": "csp_MeiJu69",
+ "name": "🗽六九 | 影视",
+ "type": 3,
+ "api":"csp_MeiJu69",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "https://www.69mj.com/"
+},
 
     
   #########################  
