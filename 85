@@ -17,18 +17,17 @@
 
 #########################
 
-{"key":"YQK_spider",
-"name":"👨‍👩‍👧‍👦一起 | 影视",
-"api":"csp_YQKAPP",
-"type":3,
-"filterable":1,
-"playerType":2,
-"quickSearch":1,
-"searchable":1,
-"playerType": 2,
-"ext": "https://api-tx.shumaxc.xyz",
-"m3u8ads": "hd.youyhn.com"
-},
+    {
+      "key": "csp_YQKAPP",
+      "name": "👨‍👩‍👧‍👦一起看TV",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,  
+      "ext": "https://api-tx.11ty.top",
+	  "m3u8ads": "hd.youyhn.com"
+    },
 
      {
       "key": "小苹果",
@@ -618,5 +617,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580"  
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230325.jar;md5;B9F2D7A68F72583F8BBF45CED2FD4B68"  
 }
