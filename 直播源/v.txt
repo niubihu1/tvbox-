@@ -1,8 +1,3 @@
-🐦️｜应用边界,#genre#
-公众号,http://52bsj.vip:81/api/v3/file/get/97712/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%AD%891080P.mp4?sign=yfyEXgwHSQyoHzhqxAr-bxqgEtzxwmitGkOVfWPDKIY%3D%3A0
-应用边界,https://vd2.bdstatic.com/mda-ndpg29kxui1g1xrj/sc/cae_h264_delogo/1650799724379445533/mda-ndpg29kxui1g1xrj.mp4
-备用号,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
-多多应用汇,http://52bsj.vip:81/api/v3/file/get/98686/%E9%9F%A9%E5%9B%BD%E8%88%9E%E5%9B%A2.mp4?sign=ukUlD0f4xuTcY0LLB1dEF3zsjiimiBioZQDmliRGef8%3D%3A0
 
 🇨🇳｜IPTV专区,#genre#
 CCTV1,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
