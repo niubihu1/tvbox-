@@ -373,7 +373,12 @@
     }
   ],
   "parses": [
-   {
+  {
+	  "name":"自动解析",
+   "type":1,
+   "url":"https://api.json.icu/api/?key=51f783bd85464b099f7ceac7ffb36020&url="
+  },
+	  {
       "name": "Web4",
       "type": 0,
       "url": "https://dm.xmflv.com:4433/?url="
