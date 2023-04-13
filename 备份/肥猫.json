@@ -13,7 +13,7 @@
 
 
 
-{"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.bulei.cc"},
+{"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"m3u8ads": "hd.youyhn.com"},
 
 {"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
 
@@ -29,8 +29,8 @@
 
 {"key": "csp_MeiJu69","name": "🗽┃六九┃美剧","type": 3,"api":"csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/"},
     
-{"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://xn--ihqu10cn4c.xn--z7x900a.love/JS/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
-//{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
+//{"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://xn--ihqu10cn4c.xn--z7x900a.love/JS/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
+{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/jh.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 
 {"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
 
@@ -171,7 +171,7 @@
 
 {"key":"在线之家","name":"🎞┃在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_search_Yisou","name":"🐏┃易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
+{"key":"csp_search_Yisou","name":"🐏┃易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php","jar":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/Jar/FM0406.jar;md5;A3A0AD16814A815FDAD26B236CDD5A05"},
 
 {"key":"csp_search_Zhaozy","name":"🐑┃资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"},
 {"key":"csp_search_Upyunso","name":"🐐┃云搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
@@ -222,7 +222,7 @@
 
 {"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}, 
 
-{"key": "ext_live_protocol","name": "关注公众号“肥猫不肥”","type": 3,"api": "http://alist.肥猫.love:63/协议.js","ext": "clan://proxy?sourcekey=ext_live_protocol"}],
+{"key": "ext_live_protocol","name": "关注公众号“肥猫不肥”","type": 3,"api": "http://alist.xn--z7x900a.love:63/协议.js","ext": "clan://proxy?sourcekey=ext_live_protocol"}],
 
 "lives":[
 
@@ -585,5 +585,5 @@
 
 "ads":["https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","wan.51img1.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php","warningText":"接口完全免费，切勿付费购买。",
-"spider":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"   
+"spider":"http://我不是.肥猫.love:63/Jar/panda230407.jar;md5;6BB339137B993FA25DD0610439C89F7A"   
 }
