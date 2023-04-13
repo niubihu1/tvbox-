@@ -75,6 +75,14 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
+{"key":"csp_Nmys",
+ "name":"🥝农民",
+ "type":3,
+ "api":"csp_Nmys",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"},
 
 {"key":"drpy_js_星辰影院",
  "name":"🌃星辰 | 影视",
