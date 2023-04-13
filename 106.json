@@ -14,7 +14,25 @@
 
 
 
-
+   {
+      "key": "csp_Auete",
+      "name": "🐼Auete | 影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+            "key": "XBPQ_fant",
+            "name": "🍙饭团 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
 #########################
 
     {
@@ -38,6 +56,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
 {"key": "csp_MeiJu69",
  "name": "🗽六九 | 影视",
  "type": 3,
@@ -122,25 +141,7 @@
 },
 
 
-   {
-      "key": "csp_Auete",
-      "name": "🐼Auete | 影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        {
-            "key": "XBPQ_fant",
-            "name": "🍙饭团 | 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
-        },
+
 
 	
 	  {
@@ -166,7 +167,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
- "ext":"https://v.bulei.cc"
+ "ext":"http://movie.bulei.cc/"
 },
 	
         {
