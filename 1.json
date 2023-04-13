@@ -14,8 +14,55 @@
 
 
 
+   {
+      "key": "csp_Auete",
+      "name": "🐼Auete | 影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+            "key": "XBPQ_fant",
+            "name": "🍙饭团 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
+	  {"key":"Smdyy",
+	   "name":"🐎神马 | 影视",
+	   "type":3,
+	   "api":"csp_Smdyy",
+	   "searchable":1,
+	   "quickSearch":1,
+	   "filterable":1
+	  },
+	  
+	  {"key":"csp_XYQHiker_野荷塘影院",
+	   "name":"💢荷塘 | 影视",
+	   "type":3,
+	   "api":"csp_XYQHiker",
+	   "searchable":1,
+	   "quickSearch":1,
+	   "filterable":1,
+	   "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/野荷塘影院.json"
+	  },
+	  
 
 #########################
+{"key":"csp_AppTT",
+	  "name":"🐰图图 | 影视",
+	  "type":3,
+	  "api":"csp_AppTT",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+	  },
 
     {
       "key": "csp_YQKAPP",
@@ -38,6 +85,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
 {"key": "csp_MeiJu69",
  "name": "🗽六九 | 影视",
  "type": 3,
@@ -75,6 +123,14 @@
       "filterable": 1,
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
     },
+{"key":"csp_Nmys",
+ "name":"🥝农民 | 影视",
+ "type":3,
+ "api":"csp_Nmys",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"},
 
 {"key":"drpy_js_星辰影院",
  "name":"🌃星辰 | 影视",
@@ -114,25 +170,7 @@
 },
 
 
-   {
-      "key": "csp_Auete",
-      "name": "🐼Auete | 影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        {
-            "key": "XBPQ_fant",
-            "name": "🍙饭团 | 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
-        },
+
 
 	
 	  {
@@ -158,7 +196,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
- "ext":"https://v.bulei.cc"
+ "ext":"http://movie.bulei.cc/"
 },
 	
         {
@@ -304,7 +342,8 @@
     },
 
 
-	{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
+	{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+	 "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"},
 
     {
       "key": "Upyunso",
@@ -314,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "易搜",
@@ -324,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "盘搜",
@@ -334,7 +373,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "纸条",
@@ -344,7 +383,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
 
 
@@ -356,7 +395,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     }
   ],
   "lives": [
@@ -637,5 +676,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile0329.jar;md5;F0CBE346A2D22F8C05ECCFD4F8B2593E"
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile0413.jar;md5;613066B0150C902B3D51BDE7A433BE83"
 }
