@@ -304,7 +304,8 @@
     },
 
 
-	{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
+	{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+	 "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"},
 
     {
       "key": "Upyunso",
@@ -314,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "易搜",
@@ -324,7 +325,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "盘搜",
@@ -334,7 +335,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
     {
       "key": "纸条",
@@ -344,7 +345,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
 
 
@@ -356,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     }
   ],
   "lives": [
@@ -373,12 +374,7 @@
     }
   ],
   "parses": [
-  {
-	  "name":"自动解析",
-   "type":1,
-   "url":"https://api.json.icu/api/?key=51f783bd85464b099f7ceac7ffb36020&url="
-  },
-	  {
+   {
       "name": "Web4",
       "type": 0,
       "url": "https://dm.xmflv.com:4433/?url="
