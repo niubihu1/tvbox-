@@ -76,7 +76,6 @@
 	  "m3u8ads": "hd.youyhn.com"
     },
 
-{"key":"小苹果","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key": "csp_MeiJu69",
@@ -379,6 +378,7 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
 
+{"key":"小苹果","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
     {
       "key": "push_agent",
