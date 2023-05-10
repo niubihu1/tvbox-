@@ -109,11 +109,11 @@
       "key": "drpy_js_子子影视",
       "name": "🐈子子 | 影视",
       "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/子子影视.js"
     },
 {"key":"csp_Nmys",
  "name":"🥝农民 | 影视",
@@ -127,39 +127,32 @@
 {"key":"drpy_js_星辰影院",
  "name":"🌃星辰 | 影视",
  "type":3,
- "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+ "api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
        "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
- "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/星辰.js"
 },
 
 {"key":"drpy_js_大米星球",
  "name":"🌾大米 | 影视",
  "type":3,
- "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+ "api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
         "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
- "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大米星球.js"
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/大米星球.js"
 },
 {"key":"drpy_js_金曼影视",
  "name":"🌟金曼 | 影视",
  "type":3,
- "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+ "api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
          "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
- "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/金曼影视.js"
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/%E9%87%91%E6%9B%BC%E5%BD%B1%E8%A7%86.js"
 },
-{"key":"drpy_js_麦豆com",
- "name":"👻麦豆 | 影视",
- "type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
-         "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
- "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/%E9%BA%A6%E8%B1%86com.js"
-},
+
 	  {
             "key": "Kuaikan",
             "name": "👀快看 | 影视",
