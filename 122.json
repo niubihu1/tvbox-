@@ -74,6 +74,44 @@
             "quickSearch": "1",
             "filterable": "1"
         },
+	       {
+            "key": "csp_8K",
+            "name": "🐏┃八仟┃电影",
+            "type": 1,
+            "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
+            "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
+        },
+	          {
+            "key": "csp_XBPQ_奇优",
+            "name": "🧼┃奇优┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/奇优影院.json"
+        },
+	          {
+            "key": "js_大师兄",
+            "name": "🐵┃师兄┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+        },
+	          {
+            "key": "csp_XBPQ_真不卡",
+            "name": "🚀┃真卡┃[XB]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/真不卡.json"
+        },
+
 {
             "key": "csp_BuLei",
             "name": "🍩布雷 | 影视",
@@ -125,8 +163,6 @@
             "ext": "https://yydsys.top/duo/json/鸭奈飞影视.json"
         },
 
-{"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
        {
             "key": "Xinsj",
@@ -192,7 +228,15 @@
 	    "quickSearch":1,
 	    "filterable":1
     },
-
+        {
+            "key": "csp_Cokemv",
+            "name": "🎀┃可乐┃影视",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
     
 {
 	"key":"csp_Dy1010",
