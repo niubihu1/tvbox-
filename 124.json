@@ -92,6 +92,16 @@
             "ext": "https://yydsys.top/duo/json/奇优影院.json"
         },
 	          {
+            "key": "drpy_js_创艺影视",
+            "name": "🍸️┃创艺┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/chuangyi.js"
+        },
+	          {
             "key": "js_大师兄",
             "name": "🐵┃师兄┃影视",
             "type": 3,
@@ -100,6 +110,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+        },
+	          {
+            "key": "csp_xpath_独播库",
+            "name": "🐲┃独播┃影视",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/duboku.json"
         },
 	          {
             "key": "csp_XBPQ_真不卡",
@@ -274,7 +294,15 @@
                 "喜剧片"
             ]
         },
-
+        {
+            "key": "csp_AppMr",
+            "name": "🦍┃二明┃影视",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "360",
       "name": "💫360 | 官源",
@@ -303,7 +331,7 @@
 	 "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"},
 	          {
             "key": "csp_FanYY",
-            "name": "🧸玩偶 | 影视",
+            "name": "🧸玩偶 | 阿里云盘",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -321,6 +349,26 @@
       "filterable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
+	          {
+            "key": "PanSearch",
+            "name": "🏵️‍PanS | 阿里云盘",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
+	         {
+            "key": "csp_阿里七夜",
+            "name": "🔎七夜 | 阿里云盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
     {
       "key": "易搜",
       "name": "🎯易搜 | 阿里云盘",
