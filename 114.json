@@ -11,9 +11,138 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
+ {
+            "key": "csp_BuLei",
+            "name": "🍩┃布雷┃影视",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+            "key": "YQK_spider",
+            "name": "🙆┃一起┃电视",
+            "api": "csp_YQKAPP",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://hk-api-cf.yqk5659.com"
+        },
+	       {
+            "key": "csp_Bttoo",
+            "name": "🔺┃Btto┃影视",
+            "api": "csp_Bttwoo",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "Czsapp",
+            "name": "🏭┃厂长┃影视",
+            "type": "3",
+            "api": "csp_Czsapp",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1"
+        },
+        {
+            "key": "Kuaikan",
+            "name": "👀┃快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AppMr",
+            "name": "👻┃明明┃影视",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_555",
+            "name": "5️⃣️┃555┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://我不是.肥猫.love:63/json/555.json"
+        },
+        {
+            "key": "csp_SP360",
+            "name": "📺┃360┃官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/360影视.json"
+        },
+        {
+            "key": "drpy_js_奇珍异兽",
+            "name": "🐨┃爱奇┃官源",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
+        },
+        {
+            "key": "csp_XBiuCOKEMV",
+            "name": "🍬┃可乐┃影视",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+	  
+	              "key": "csp_WoGG",
+            "name": "💂‍┃阿里┃玩偶",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "🔖‍┃阿里┃纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://jihulab.com/duomv/duo/-/raw/main/xyq.jar;md5;A972EE4717FF745C57F86187946A7FD1",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
+        {
+            "key": "PanSearch",
+            "name": "🏵️‍┃阿里┃PanS",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
+	  
+	  
+	  
+	  
 
-
-
+########################
    {
       "key": "csp_Auete",
       "name": "🐼Auete | 影视",
