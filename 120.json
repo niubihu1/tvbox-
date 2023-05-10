@@ -11,8 +11,25 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
-
-
+{
+            "key": "csp_BuLei",
+            "name": "🍩┃布雷┃影视",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "🔺┃Btto┃影视",
+            "api": "csp_Bttwoo",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
         {
             "key": "csp_555电影",
             "name": "🐾┃三五┃电影",
