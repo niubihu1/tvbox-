@@ -76,14 +76,14 @@
         },
 	       {
             "key": "csp_8K",
-            "name": "🐏┃八仟┃电影",
+            "name": "🐏八仟 | 影视",
             "type": 1,
             "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
             "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
         },
 	          {
             "key": "csp_XBPQ_奇优",
-            "name": "🧼┃奇优┃影院",
+            "name": "🧼奇优 | 影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -93,7 +93,7 @@
         },
 	          {
             "key": "drpy_js_创艺影视",
-            "name": "🍸️┃创艺┃影视",
+            "name": "🍸️创艺 | 影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -103,7 +103,7 @@
         },
 	          {
             "key": "js_大师兄",
-            "name": "🐵┃师兄┃影视",
+            "name": "🐵师兄 | 影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -113,7 +113,7 @@
         },
 	          {
             "key": "csp_xpath_独播库",
-            "name": "🐲┃独播┃影视",
+            "name": "🐲独播 | 影视",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -123,7 +123,7 @@
         },
 	          {
             "key": "csp_XBPQ_真不卡",
-            "name": "🚀┃真卡┃[XB]",
+            "name": "🚀真卡 | 影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
