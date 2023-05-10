@@ -195,7 +195,15 @@
             "ext": "https://www.6080dy3.com"
         },
     
-
+{
+	"key":"csp_Dy1010",
+	"name":"🔟双十 | 影视",
+	"type":3,
+	"api":"csp_Dy1010",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+},
     
     {
       "key": "drpy_js_子子影视",
@@ -247,15 +255,7 @@
             "filterable": 0
         },
     
-{
-	"key":"csp_Dy1010",
-	"name":"🔟双十 | 影视",
-	"type":3,
-	"api":"csp_Dy1010",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1
-},
+
 
    {
             "key": "量子资源",
