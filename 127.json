@@ -101,6 +101,15 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/chuangyi.js"
         },
+	  {
+	"key":"csp_Dy1010",
+	"name":"🔟双十 | 影视",
+	"type":3,
+	"api":"csp_Dy1010",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+},
 	          {
             "key": "js_大师兄",
             "name": "🐵师兄 | 影视",
@@ -195,15 +204,7 @@
             "ext": "https://www.6080dy3.com"
         },
     
-{
-	"key":"csp_Dy1010",
-	"name":"🔟双十 | 影视",
-	"type":3,
-	"api":"csp_Dy1010",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1
-},
+
     
     {
       "key": "drpy_js_子子影视",
