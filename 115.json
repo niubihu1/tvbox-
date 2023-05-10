@@ -139,8 +139,132 @@
         },
 	  
 	  
-	  
-	  
+        {
+            "key": "csp_8K",
+            "name": "🐏┃八仟┃电影",
+            "type": 1,
+            "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
+            "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
+        },	  
+       {
+            "key": "量子资源",
+            "name": "🥑┃量子┃资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "https://jxjson.cf/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+
+   {
+            "key": "csp_xml_非凡资源",
+            "name": "🥗┃非凡┃资源",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "playurl": "https://jxjson.cf/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "🧿┃VoFl┃[SP]",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_js_创艺影视",
+            "name": "🍸️┃创艺┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/chuangyi.js"
+        },
+        {
+            "key": "js_莫扎兔",
+            "name": "🐰┃莫扎┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/莫扎兔.js"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🏝┃Aue ┃影视",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "csp_XBPQ秋霞影视",
+            "name": "️🍂┃秋霞┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
+                "分类url": "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+                "跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+                "二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+                "三次跳转播放链接": "\"url\"*\"&&\""
+            }
+        },
 
 ########################
    {
