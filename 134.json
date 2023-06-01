@@ -104,17 +104,7 @@
 			"filterable": 1,
             "ext": "https://aidiapp.xyz/xgapp.php/v2/"
 		},	
-        {
-			"key":"csp_bbq",
-		    "name":"🍡┃芭芭┃蓝光",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"
-		},	      
-		
+
 	   {
 			"key": "csp_dongfang",
 			"name": "🪁┃东方┃影视",
@@ -136,16 +126,7 @@
 			"playUrl":"",
 			"ext":"https://www.freeok.vip/api.php/app/"
 		},	
-	    {
-			"key":"csp_yayaya",
-			"name":"👧┃耐菲┃影视",
-			"api":"csp_AppYsV2",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1,
-			"ext":"https://yayayaaapp.ynf.icu/api.php/app/"
-		},
+
         {
 			"key":"csp_ruyi",
 			"name":"🏑┃棍子┃影视",
