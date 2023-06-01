@@ -10,6 +10,30 @@
       "filterable": 1,
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
+	  
+{"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+       {
+            "key": "Xinsj",
+            "name": "🌟视觉 | 影视",
+            "type": "3",
+            "api": "csp_Xinsj",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "https://www.6080yy2.com"
+        },
+	
+{"key":"csp_AppTT","name":"🐰图图 | 影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+         {
+            "key": "csp_XBPQ_奇优",
+            "name": "🧼奇优 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/奇优影院.json"
+        },
 	          {
             "key": "csp_Vofl",
             "name": "🧿VoFl | 影视",
@@ -81,16 +105,7 @@
             "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
             "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
         },
-	          {
-            "key": "csp_XBPQ_奇优",
-            "name": "🧼奇优 | 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/奇优影院.json"
-        },
+	     
 	          {
             "key": "drpy_js_创艺影视",
             "name": "🍸️创艺 | 影视",
@@ -141,16 +156,7 @@
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
 
-{
-            "key": "csp_BuLei",
-            "name": "🍩布雷 | 影视",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
-        },
+{"key": "csp_BuLei","name":"🍩布雷 | 影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
         {
             "key": "csp_Bttoo",
             "name": "🔺Btto | 影视",
@@ -192,20 +198,6 @@
             "ext": "https://yydsys.top/duo/json/鸭奈飞影视.json"
         },
 
-{"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-       {
-            "key": "Xinsj",
-            "name": "🌟视觉 | 影视",
-            "type": "3",
-            "api": "csp_Xinsj",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "https://www.6080dy3.com"
-        },
-    
-
-    
     {
       "key": "drpy_js_子子影视",
       "name": "🐈子子 | 影视",
