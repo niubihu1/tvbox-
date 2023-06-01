@@ -12,7 +12,10 @@
     },
 	  
 {"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-       {
+ 
+{"key": "csp_BuLei","name":"🍩布雷 | 影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+        
+	  {
             "key": "Xinsj",
             "name": "🌟视觉 | 影视",
             "type": "3",
@@ -71,15 +74,7 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/莫扎兔.js"
         },
-	  {"key":"csp_Nmys",
- "name":"🥝农民 | 影视",
- "type":3,
- "api":"csp_Nmys",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
-	  },
+
 	
 	          {
             "key": "Czsapp",
@@ -98,16 +93,7 @@
             "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
         },
 	     
-	          {
-            "key": "drpy_js_创艺影视",
-            "name": "🍸️创艺 | 影视",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/chuangyi.js"
-        },
+	  	 
 	  {
 	"key":"csp_Dy1010",
 	"name":"🔟双十 | 影视",
@@ -126,6 +112,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+        },
+	   {"key":"csp_Nmys",
+ "name":"🥝农民 | 影视",
+ "type":3,
+ "api":"csp_Nmys",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+	  },
+	  
+	          {
+            "key": "drpy_js_创艺影视",
+            "name": "🍸️创艺 | 影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/chuangyi.js"
         },
 	    {
             "key": "Kuaikan",
@@ -156,9 +162,7 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
-
-{"key": "csp_BuLei","name":"🍩布雷 | 影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
-        {
+ {
             "key": "csp_Bttoo",
             "name": "🔺Btto | 影视",
             "api": "csp_Bttwoo",
