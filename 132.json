@@ -28,6 +28,24 @@
 	
 {"key":"csp_AppTT","name":"🐰图图 | 影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
          {
+            "key": "Czsapp",
+            "name": "🏭厂长 | 影视",
+            "type": "3",
+            "api": "csp_Czsapp",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1"
+        },
+	   {
+            "key": "csp_Bttoo",
+            "name": "🔺Btto | 影视",
+            "api": "csp_Bttwoo",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+	  {
             "key": "csp_XBPQ_奇优",
             "name": "🧼奇优 | 影视",
             "type": 3,
@@ -64,6 +82,145 @@
 	   "filterable":1,
 	   "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/野荷塘影院.json"
 	  },
+	          {
+			"key":"csp_appys_多米蓝光",
+			"name":"💧┃多米┃蓝光",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://vod.dmdh.top:5680/api.php/app/"
+		},
+        {
+			"key": "csp_appys_酷影TV",
+			"name": "🖼️┃酷影┃蓝光",
+			"type": 3, 
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1, 
+			"filterable": 1,
+			"ext": "http://ys.realdou.cn:8652/api.php/app/"
+		},			
+        {
+            "key":"csp_xml影视乐",
+            "name":"🐏┃乐乐┃影视",
+            "type":3,
+            "api":"csp_AppYsV2",                  
+	        "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tv.ysle.cn/api.php/app/"
+        },	
+        {      
+		    "key": "csp_aidi",
+            "name": "🤟┃爱迪┃高清",      
+			"type": 3,
+            "api": "csp_AppYsV2",      
+			"searchable": 1,
+            "quickSearch": 1,      
+			"filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+		},	
+        {
+			"key":"csp_bbq",
+		    "name":"🍡┃芭芭┃蓝光",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"
+		},	      
+		{
+            "key": "csp_mengdandan",      
+			"name": "🥚┃蛋蛋┃影视",
+            "type": 3,      
+			"api": "csp_AppYsV2",
+            "searchable": 1,      
+			"quickSearch": 1,
+            "filterable": 1,      
+			"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+        }, 
+	   {
+			"key": "csp_dongfang",
+			"name": "🪁┃东方┃影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.dfspapp.com/api.php/app/"
+		},
+        {
+			"key":"csp_freeok",
+			"name":"🎠┃福瑞┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"playUrl":"",
+			"ext":"https://www.freeok.vip/api.php/app/"
+		},	
+	    {
+			"key":"csp_yayaya",
+			"name":"👧┃耐菲┃影视",
+			"api":"csp_AppYsV2",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+		},
+        {
+			"key":"csp_ruyi",
+			"name":"🏑┃棍子┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
+			"key":"csp_feifanliangzi",
+			"name":"♻️┃子凡┃影视",
+			"type": 3, 
+			"api": "csp_AppYsV2",
+			"playerType":2,
+			"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
+		},  
+        {
+			"key":"csp_mini库",
+			"name":"🥓┃迷你┃影库",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://www.miniku.cc/xgapp.php/v1/"
+		},
+        {
+            "key": "csp_ptg",
+            "name": "🐹┃平头┃影视",
+            "api":"csp_AppYsV2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
+        }, 
+		{
+            "key": "csp_beijihu",      
+			"name": "🎪┃极狐┃影视",
+            "type": 3,      
+			"api": "csp_AppYsV2",
+            "searchable": 1,      
+			"quickSearch": 1,
+            "filterable": 1,      
+			"ext": "https://www.kuin.one/api.php/app/"
+        },  	
 	  	          {
             "key": "js_莫扎兔",
             "name": "🐰莫扎 | 影视",
@@ -76,15 +233,7 @@
         },
 
 	
-	          {
-            "key": "Czsapp",
-            "name": "🏭厂长 | 影视",
-            "type": "3",
-            "api": "csp_Czsapp",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1"
-        },
+	       
 	       {
             "key": "csp_8K",
             "name": "🐏八仟 | 影视",
@@ -162,15 +311,7 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
- {
-            "key": "csp_Bttoo",
-            "name": "🔺Btto | 影视",
-            "api": "csp_Bttwoo",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
+
         {
             "key": "csp_555电影",
             "name": "🐾三五 | 影视",
@@ -214,15 +355,7 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/子子影视.js"
     },
 
-{"key":"drpy_js_星辰影院",
- "name":"🌃星辰 | 影视",
- "type":3,
- "api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
-       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
- "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/星辰.js"
-},
+
 
 {"key":"drpy_js_大米星球",
  "name":"🌾大米 | 影视",
@@ -387,7 +520,8 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
 
-{"key":"小苹果","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_apple","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
     {
       "key": "push_agent",
