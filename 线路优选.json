@@ -10,6 +10,51 @@
       "filterable": 1,
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
+	  
+{"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+ 
+{"key": "csp_BuLei","name":"🍩布雷 | 影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+        
+	  {
+            "key": "Xinsj",
+            "name": "🌟视觉 | 影视",
+            "type": "3",
+            "api": "csp_Xinsj",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "https://www.6080yy2.com"
+        },
+	
+{"key":"csp_AppTT","name":"🐰图图 | 影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+         {
+            "key": "Czsapp",
+            "name": "🏭厂长 | 影视",
+            "type": "3",
+            "api": "csp_Czsapp",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1"
+        },
+	   {
+            "key": "csp_Bttoo",
+            "name": "🔺Btto | 影视",
+            "api": "csp_Bttwoo",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+	  {
+            "key": "csp_XBPQ_奇优",
+            "name": "🧼奇优 | 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/奇优影院.json"
+        },
 	          {
             "key": "csp_Vofl",
             "name": "🧿VoFl | 影视",
@@ -37,6 +82,65 @@
 	   "filterable":1,
 	   "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/野荷塘影院.json"
 	  },
+	          {
+			"key":"csp_appys_多米蓝光",
+			"name":"💧┃多米┃蓝光",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://vod.dmdh.top:5680/api.php/app/"
+		},
+      		
+	
+        {      
+		    "key": "csp_aidi",
+            "name": "🤟┃爱迪┃高清",      
+			"type": 3,
+            "api": "csp_AppYsV2",      
+			"searchable": 1,
+            "quickSearch": 1,      
+			"filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+		},	
+
+	   {
+			"key": "csp_dongfang",
+			"name": "🪁┃东方┃影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.dfspapp.com/api.php/app/"
+		},
+        {
+			"key":"csp_freeok",
+			"name":"🎠┃福瑞┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"playUrl":"",
+			"ext":"https://www.freeok.vip/api.php/app/"
+		},	
+
+        {
+			"key":"csp_ruyi",
+			"name":"🏑┃棍子┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://cms.maoyingshi.cc/api.php/app/"
+        },
+
+
+
+		
 	  	          {
             "key": "js_莫扎兔",
             "name": "🐰莫扎 | 影视",
@@ -47,33 +151,9 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/莫扎兔.js"
         },
-	  {"key":"csp_Nmys",
- "name":"🥝农民 | 影视",
- "type":3,
- "api":"csp_Nmys",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
-	  },
-	  {
-            "key": "Kuaikan",
-            "name": "👀快看 | 影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	          {
-            "key": "Czsapp",
-            "name": "🏭厂长 | 影视",
-            "type": "3",
-            "api": "csp_Czsapp",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1"
-        },
+
+	
+	       
 	       {
             "key": "csp_8K",
             "name": "🐏八仟 | 影视",
@@ -81,26 +161,8 @@
             "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
             "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
         },
-	          {
-            "key": "csp_XBPQ_奇优",
-            "name": "🧼奇优 | 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/奇优影院.json"
-        },
-	          {
-            "key": "drpy_js_创艺影视",
-            "name": "🍸️创艺 | 影视",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/chuangyi.js"
-        },
+	     
+	  	 
 	  {
 	"key":"csp_Dy1010",
 	"name":"🔟双十 | 影视",
@@ -119,6 +181,35 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+        },
+	   {"key":"csp_Nmys",
+ "name":"🥝农民 | 影视",
+ "type":3,
+ "api":"csp_Nmys",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
+	  },
+	  
+	          {
+            "key": "drpy_js_创艺影视",
+            "name": "🍸️创艺 | 影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/js/chuangyi.js"
+        },
+	    {
+            "key": "Kuaikan",
+            "name": "👀快看 | 影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 	          {
             "key": "csp_xpath_独播库",
@@ -141,25 +232,6 @@
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
 
-{
-            "key": "csp_BuLei",
-            "name": "🍩布雷 | 影视",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "🔺Btto | 影视",
-            "api": "csp_Bttwoo",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
         {
             "key": "csp_555电影",
             "name": "🐾三五 | 影视",
@@ -192,20 +264,6 @@
             "ext": "https://yydsys.top/duo/json/鸭奈飞影视.json"
         },
 
-{"key":"csp_YQKAPP","name":"🌎一起┃影视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-       {
-            "key": "Xinsj",
-            "name": "🌟视觉 | 影视",
-            "type": "3",
-            "api": "csp_Xinsj",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "https://www.6080dy3.com"
-        },
-    
-
-    
     {
       "key": "drpy_js_子子影视",
       "name": "🐈子子 | 影视",
@@ -217,15 +275,7 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/子子影视.js"
     },
 
-{"key":"drpy_js_星辰影院",
- "name":"🌃星辰 | 影视",
- "type":3,
- "api":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/libs/drpy2.min.js",
-       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
- "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/kingfren/dr_py/main/js/星辰.js"
-},
+
 
 {"key":"drpy_js_大米星球",
  "name":"🌾大米 | 影视",
@@ -390,7 +440,8 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"
     },
 
-{"key":"小苹果","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_apple","name":"🍎苹果 | 影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
     {
       "key": "push_agent",
