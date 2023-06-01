@@ -92,26 +92,8 @@
 			"filterable":1,
 			"ext":"http://vod.dmdh.top:5680/api.php/app/"
 		},
-        {
-			"key": "csp_appys_酷影TV",
-			"name": "🖼️┃酷影┃蓝光",
-			"type": 3, 
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1, 
-			"filterable": 1,
-			"ext": "http://ys.realdou.cn:8652/api.php/app/"
-		},			
-        {
-            "key":"csp_xml影视乐",
-            "name":"🐏┃乐乐┃影视",
-            "type":3,
-            "api":"csp_AppYsV2",                  
-	        "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tv.ysle.cn/api.php/app/"
-        },	
+      		
+	
         {      
 		    "key": "csp_aidi",
             "name": "🤟┃爱迪┃高清",      
@@ -132,16 +114,7 @@
 			"filterable":1,
 			"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"
 		},	      
-		{
-            "key": "csp_mengdandan",      
-			"name": "🥚┃蛋蛋┃影视",
-            "type": 3,      
-			"api": "csp_AppYsV2",
-            "searchable": 1,      
-			"quickSearch": 1,
-            "filterable": 1,      
-			"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-        }, 
+		
 	   {
 			"key": "csp_dongfang",
 			"name": "🪁┃东方┃影视",
@@ -183,44 +156,10 @@
 			"filterable":1,
 			"ext":"http://cms.maoyingshi.cc/api.php/app/"
         },
-        {
-			"key":"csp_feifanliangzi",
-			"name":"♻️┃子凡┃影视",
-			"type": 3, 
-			"api": "csp_AppYsV2",
-			"playerType":2,
-			"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
-		},  
-        {
-			"key":"csp_mini库",
-			"name":"🥓┃迷你┃影库",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://www.miniku.cc/xgapp.php/v1/"
-		},
-        {
-            "key": "csp_ptg",
-            "name": "🐹┃平头┃影视",
-            "api":"csp_AppYsV2",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
-        }, 
-		{
-            "key": "csp_beijihu",      
-			"name": "🎪┃极狐┃影视",
-            "type": 3,      
-			"api": "csp_AppYsV2",
-            "searchable": 1,      
-			"quickSearch": 1,
-            "filterable": 1,      
-			"ext": "https://www.kuin.one/api.php/app/"
-        },  	
+
+
+
+		
 	  	          {
             "key": "js_莫扎兔",
             "name": "🐰莫扎 | 影视",
