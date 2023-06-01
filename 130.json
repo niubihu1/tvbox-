@@ -80,15 +80,7 @@
  "filterable":1,
  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/Nmys.json"
 	  },
-	  {
-            "key": "Kuaikan",
-            "name": "👀快看 | 影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+	
 	          {
             "key": "Czsapp",
             "name": "🏭厂长 | 影视",
@@ -134,6 +126,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/js/大师兄影视.js"
+        },
+	    {
+            "key": "Kuaikan",
+            "name": "👀快看 | 影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 	          {
             "key": "csp_xpath_独播库",
