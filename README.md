@@ -21,4 +21,4 @@ https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.js
 
 - 
 - 🔰宝盒
-- https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/宝盒-2.0.2-release.apk
+- https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/宝盒_3.0.6.apk
