@@ -17,7 +17,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.js
 
 -  
 - 🔰官方原版 Tvbox (使用单仓优选接口)
-- https://liucn.lanzouf.com/iI9hZ0jsjv0d
+- https://liucn.lanzouf.com/idz8n0r4nbgh
 
 - 
 - 🔰宝盒
