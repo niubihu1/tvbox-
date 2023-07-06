@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/奇优影院.json"
         },
 	          {
             "key": "csp_beijihu",
@@ -76,17 +76,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/土豪.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/土豪.json"
         },
 	          {
             "key": "js_电影先生",
             "name": "🤵┃电影┃先生",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/电影先生.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/电影先生.js"
         },
 	          {
             "key": "apv2_瑞丰",
@@ -123,51 +123,51 @@
             "key": "js_企鹅",
             "name": "🐧┃企鹅┃基地",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qtv.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qtv.js"
         },
         {
             "key": "js_奇异",
             "name": "🥝┃奇异┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qzys.js"
         },
         {
             "key": "js_芒果",
             "name": "🥭┃芒芒┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/baimang.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/baimang.js"
         },
         {
             "key": "js_优酷",
             "name": "👑┃油库┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
         },
  {
             "key": "js_菜狗",
             "name": "🐕️┃菜狗┃大厂",
             "type": 3,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/caigou.js"
         },
 	  
     {
