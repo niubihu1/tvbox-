@@ -47,7 +47,7 @@
                 "喜剧片"
             ]
         },
-	  {"key":"csp_77","name":"👒酷云七七┃本接口免费-🈲贩卖","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+	  {"key":"csp_77","name":"👒┃酷云┃影院","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	          {
             "key": "csp_奇优",
             "name": "🧼┃奇优┃影院",
