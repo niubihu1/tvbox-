@@ -12,8 +12,8 @@ https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.js
 
 - 软件下载
 - 🔰原版 影视仓 (使用多仓接口)
-- https://wwtc.lanzoum.com/i2Ktz0zb6q7g
-- 
+- https://wwtc.lanzoum.com/ijC5Y11cl1pc
+- 密码：3687
 
 -  
 - 🔰官方原版 Tvbox (使用单仓优选接口)
