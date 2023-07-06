@@ -47,7 +47,6 @@
                 "喜剧片"
             ]
         },
-	  {"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://big.lfytyl.com/api.php/app/"},
 	  {"key":"csp_77","name":"👒酷云七七┃本接口免费-🈲贩卖","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	          {
             "key": "csp_奇优",
