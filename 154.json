@@ -142,7 +142,7 @@
     },
 	      {
       "key": "csp_search_Yisou",
-      "name": "🐏┃易搜┃搜索",
+      "name": "🐏易搜|阿里",
       "type": 3,
       "api": "csp_YiSo",
       "playerType": 1,
@@ -153,7 +153,7 @@
     },
 	      {
       "key": "csp_search_PanSearch",
-      "name": "🗂️┃盘搜┃搜索",
+      "name": "🗂️盘搜|阿里",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -186,7 +186,7 @@
     },
 	    {
 			"key": "XYQH_电影港",
-			"name": "🛳┃港口┃磁力",
+			"name": "🛳港口|磁力",
 			"type": 3,
 			"playerType": 1,
 			"api": "csp_XYQHiker",
