@@ -4,67 +4,139 @@
       "key": "dr_豆瓣",
       "name": "🔍豆瓣首页",
       "type": 3,
-      "api": "http://id.ganggang.live:63/js/drpy.min.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://id.ganggang.live:63/js/js_drpy.js"
+      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
-   
-{"key":"Zhaozy","name":"🦊找资源 | 阿里云盘","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
-##
+	  
     {
-      "key": "drpy_js_Alist",
-      "name": "🅿Alis | 阿里云盘",
+      "key": "csp_FanYY",
+      "name": "🧸玩偶|阿里",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.min.js",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+    },
+		      {
+      "key": "csp_search_七夜",
+      "name": "🔎七夜|阿里",
+      "type": 3,
+      "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/ali/ouge/alist.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/top0213.jar;md5;d2b47007436e9fbff29f00d823ffe670"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-##
-    {
-      "key": "Upyunso",
-      "name": "🌤️云搜 | 阿里云盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
-    {
-      "key": "易搜",
-      "name": "🎯易搜 | 阿里云盘",
+	      {
+      "key": "csp_search_Yisou",
+      "name": "🐏易搜|阿里",
       "type": 3,
       "api": "csp_YiSo",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	      {
+      "key": "csp_search_PanSearch",
+      "name": "🗂️盘搜|阿里",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
-      "key": "盘搜",
-      "name": "😻盘搜 | 阿里云盘",
+      "key": "csp_search_Zhaozy",
+      "name": "🐑资源|阿里",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+    },
+
+    {
+      "key": "csp_search_Alips",
+      "name": "🦌盘搜|阿里",
       "type": 3,
       "api": "csp_PanSou",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-    {
-      "key": "纸条",
-      "name": "🔖纸条 | 阿里云盘",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-    },
+	    {
+			"key": "XYQH_电影港",
+			"name": "🛳港口|磁力",
+			"type": 3,
+			"playerType": 1,
+			"api": "csp_XYQHiker",
+		    "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+            "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
+        },		
+	  
+	  
+        {
+            "key": "js_企鹅",
+            "name": "🐧企鹅|官源",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qtv.js"
+        },
+        {
+            "key": "js_奇异",
+            "name": "🥝奇异|官源",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qzys.js"
+        },
+        {
+            "key": "js_芒果",
+            "name": "🥭芒芒|官源",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/baimang.js"
+        },
+        {
+            "key": "js_优酷",
+            "name": "👑油库|官源",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
+        },
+ {
+            "key": "js_菜狗",
+            "name": "🐕️菜狗|官源",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/caigou.js"
+        },
+	  
     {
       "key": "push_agent",
       "name": "阿里 | 📨推送",
@@ -73,7 +145,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "lives": [
@@ -90,10 +162,38 @@
     }
   ],
   "parses": [
-    {
-      "name": "GGTV",
+      {
+      "name": "左岸解析",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+	        {
+            "name": "2号线",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+	          {
+            "name": "3号线",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+	  		{
+            "name": "5号线",
+            "type": 0,
+            "url": "https://api.jiexi.la/?url="
+        },
+	  {
+		"name": "刚佬",
+		"type": 1,
+		"url": "http://json.g9.pub:66/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		} 
+	}, 
+	  {
+      "name": "Web4",
+      "type": 0,
+      "url": "https://dm.xmflv.com:4433/?url="
     },
     {
       "name": "虾米",
@@ -110,107 +210,14 @@
       "type": 0,
       "url": "http://www.miaoys.cc/vip/?url="
     },
-    {
-      "name": "星辰云解析",
-      "type": 1,
-      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "Web4",
-      "type": 0,
-      "url": "https://dm.xmflv.com:4433/?url="
-    },
-    {
-      "name": "爱酷",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
+
     {
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
-    },
-    {
-      "name": "喵喵喵",
-      "type": 1,
-      "url": "https://jx.ccabc.cc/byg/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
     }
+
+   
   ],
   "flags": [
     "youku",
@@ -446,6 +453,6 @@
     "cms.qdwght.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580"  
+  "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile0706.jar;md5;41C96D7A199819C4E6EB617EFFBE5CA4"
 }
