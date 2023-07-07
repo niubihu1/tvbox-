@@ -47,6 +47,24 @@
                 "喜剧片"
             ]
         },
+	          {
+            "key": "探探",
+            "name": "🏵探探┃App",
+            "type": 3,
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+	          {
+            "key": "陌陌",
+            "name": "🍄陌陌┃直连",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
 	  {"key":"csp_77","name":"👒┃酷云┃影院","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	          {
             "key": "csp_奇优",
@@ -117,7 +135,17 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
     },
 
-
+    {
+      "key": "csp_search_Alips",
+      "name": "🦌┃盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
 	  
         {
             "key": "js_企鹅",
