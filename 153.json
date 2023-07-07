@@ -140,6 +140,27 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+	      {
+      "key": "csp_search_Yisou",
+      "name": "🐏┃易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	      {
+      "key": "csp_search_PanSearch",
+      "name": "🗂️┃盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
     {
       "key": "csp_search_Zhaozy",
       "name": "🐑资源|阿里",
@@ -163,6 +184,15 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+	    {
+			"key": "XYQH_电影港",
+			"name": "🛳┃港口┃磁力",
+			"type": 3,
+			"playerType": 1,
+			"api": "csp_XYQHiker",
+		    "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
+            "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
+        },		
 	  
         {
             "key": "js_企鹅",
