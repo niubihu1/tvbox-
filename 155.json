@@ -10,6 +10,7 @@
       "filterable": 1,
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
+
 	  
     {
       "key": "csp_FanYY",
@@ -21,7 +22,12 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
-	  
+{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"},
+{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
+{"key":"drpy_js_花猫TV","name":"影视 | 花猫TV[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/花猫TV.js"},
+{"key":"drpy_js_奇优影院","name":"影视 | 奇优影院[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"},
+{"key":"drpy_js_139影视","name":"影视 | 139影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"},
+
 {"key":"drpy_js_91free","name":"影视 | 91free[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"},
