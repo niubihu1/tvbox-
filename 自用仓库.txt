@@ -15,75 +15,32 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "👇以下为网络收集线路👇"
         },  
-       
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🚀肥猫Panda"
-        },                           
-
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🚀南风〔多条线路〕"
-        },   
-    
-        {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🚀吾爱〔多条线路〕"
-        },   
-        {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "🚀4K云盘〔多条线路〕"
-        },           
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果〔多条线路〕"
-        },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "🚀老刘备〔多条线路〕"
-        },
-        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "🚀白嫖线路〔多条线路〕"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
-            "name": "🚀兽爪线路〔多条线路〕"
-        },
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🚀乱世〔多条线路〕"
-        },
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚀巧技接口〔多条线路〕"
-        },
-         {
-            "url": "https://yydsys.top/duo",
+               {
+            "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://yydsys.top/duo/x.json",
-            "name": "🚀阿里专线"
-        },              
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🚀肥猫线路"
-        }, 
-        {
-            "url": "https://yydsys.top/lm.json",
-            "name": "🚀龙门影视"
-        },         
-        {
-            "url": "http://饭太硬.ga/tv",
-            "name": "🚀饭太硬线路"
-        },               
-        {
-            "url": "https://hutool.ml/tang",
-            "name": "🚀唐三线路"
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "🏡应用多多备用"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "http://yydsys.top/duo/ali",
+            "name": "🚀阿里精品专线"
+        }, 	
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🚀饭太硬线路"
+        },                      
+        {
+            "url": "http://肥猫.love",
+            "name": "🚀肥猫线路"
+        },                
+        {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "🚀唐三线路"
+        },      
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                               
         {
@@ -91,40 +48,40 @@
             "name": "🚀道长线路"
         },
         {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀香雅情线路"
+        },  
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },   
+        {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
-        },
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚀巧技线路"
-        },
-        {
-            "url": "http://101.34.67.237/config/1",
-            "name": "🚀小雅线路"
-        },
+        },             
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
+        },   
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "http://101.34.67.237/config/1",
+            "name": "🚀小雅线路"
+        },   
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
-            "url": "http://dxawi.github.io/0/0.json",
+            "url": "https://xhdwc.tk/0",
             "name": "🚀dxawi0线路"
-        },
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
         },
         {
-            "url": "https://app.easybox.vip/dy",
-            "name": "🚀easybox线路"
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车(有跑马灯)"
         }
     ]
 }
