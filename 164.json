@@ -34,7 +34,6 @@
 {"key":"drpy_js_奇优影院","name":"奇优影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"},
 {"key":"drpy_js_139影视","name":"139影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"},
 {"key":"drpy_js_91free","name":"91free[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"},
-{"key":"drpy_js_酷客影院","name":"酷客影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
 {"key":"drpy_js_345看片","name":"345看片[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
 {"key":"drpy_js_007影视","name":"007影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/007影视.js"},
 {"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
@@ -125,13 +124,7 @@
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/Bot.js"
     },
-	  {
-            "key": "apv2_瑞丰",
-            "name": "⛄┃瑞丰┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
+
  {
             "key": "量子资源",
             "name": "🥑量子|资源",
@@ -665,5 +658,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile0706.jar;md5;41C96D7A199819C4E6EB617EFFBE5CA4"
+  "spider": "https://jihulab.com/duomv/xduo/-/raw/main/main.jar"
 }
