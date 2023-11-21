@@ -61,15 +61,15 @@
 		
 		
 	#道长	
-{"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
-{"key":"drpy_js_四个圈儿","name":"四个圈儿[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
-{"key":"drpy_js_起飞影院","name":"起飞影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
-{"key":"drpy_js_胖虎影视","name":"胖虎影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
-{"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
-{"key":"drpy_js_人人影视","name":"人人影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
-{"key":"drpy_js_多瑙影视","name":"多瑙影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
-{"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
-{"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
+{"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
+{"key":"drpy_js_四个圈儿","name":"四个圈儿[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
+{"key":"drpy_js_起飞影院","name":"起飞影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
+{"key":"drpy_js_胖虎影视","name":"胖虎影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
+{"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
+{"key":"drpy_js_人人影视","name":"人人影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
+{"key":"drpy_js_多瑙影视","name":"多瑙影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
+{"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
+{"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
 	#道长
 		
 	#多多
