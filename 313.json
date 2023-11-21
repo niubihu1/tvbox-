@@ -76,7 +76,7 @@
 
  {
             "key": "49zy",
-            "name": "🦁┃狮鹫┃资源",
+            "name": "🦁|狮鹫|资源",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -121,7 +121,7 @@
         },		
 		        {
             "key": "js_荐片",
-            "name": "⏳┃荐片┃影视",
+            "name": "⏳|荐片|影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/荐片.js",
@@ -132,7 +132,7 @@
         },
 		        {
             "key": "js_6V",
-            "name": "✡️┃六维┃磁力",
+            "name": "✡️|六维|磁力",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
@@ -142,7 +142,7 @@
         },
 		        {
             "key": "骑骑影院",
-            "name": "🚵┃骑骑┃影院",
+            "name": "🚵|骑骑|影院",
             "type": 3,
             "playerType": 2,
             "api": "csp_AppYsV2",
@@ -153,7 +153,7 @@
         },
 		        {
             "key": "XYQH_电影港",
-            "name": "🛳┃港口┃磁力",
+            "name": "🛳|港口|磁力",
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHiker",
