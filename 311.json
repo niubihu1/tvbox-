@@ -20,7 +20,8 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-			 "changeable": 1
+			"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
+	    "changeable": 1
         },
 		        {
             "key": "小小",
@@ -30,6 +31,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+				"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
 			"ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"
         },
 		        {
@@ -40,6 +42,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+				"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
 			 "ext": "FbjPcVZY48PN/RIZ5UWFrpN0csJPCJkIEy9R9qCt0RcDCdqQ/iHaxETP6Km4GjurcnqByH5g2zI+TmNzCM85PltMUd6f0BnULz5M1CsK3w=="
         },
 		{
@@ -51,6 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+			"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
 			 "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
         },
 		       {
@@ -71,6 +75,7 @@
             "api": "csp_NiNi",
             "searchable": 1,
             "quickSearch": 1,
+				"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
 			"changeable": 1
         },
 		        {
@@ -80,6 +85,7 @@
             "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
+				"jar":"https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
 			 "changeable": 1
         },
 				#饭太硬
