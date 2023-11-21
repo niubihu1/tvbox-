@@ -61,15 +61,15 @@
 		
 		
 	#道长	
-{"key":"drpy_js_Voflix","name":"影视 | Voflix[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
-{"key":"drpy_js_四个圈儿","name":"影视 | 四个圈儿[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
-{"key":"drpy_js_起飞影院","name":"影视 | 起飞影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
-{"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
-{"key":"drpy_js_NY影院","name":"影视 | NY影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
-{"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
-{"key":"drpy_js_多瑙影视","name":"影视 | 多瑙影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
-{"key":"drpy_js_楚门影院","name":"影视 | 楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
-{"key":"drpy_js_免费看","name":"影视 | 免费看[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
+{"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
+{"key":"drpy_js_四个圈儿","name":"四个圈儿[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
+{"key":"drpy_js_起飞影院","name":"起飞影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
+{"key":"drpy_js_胖虎影视","name":"胖虎影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
+{"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
+{"key":"drpy_js_人人影视","name":"人人影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
+{"key":"drpy_js_多瑙影视","name":"多瑙影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
+{"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
+{"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
 	#道长
 		
 	#多多
@@ -162,7 +162,7 @@
         },
 		        {
             "key": "csp_XBPQ_wanda",
-            "name": "🗽┃万达┃影视",
+            "name": "🗽|万达|影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -174,7 +174,7 @@
 
 		{
             "key": "csp_SNzy",
-            "name": "🐉┃索尼┃高清",
+            "name": "🐉|索尼|高清",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -210,7 +210,7 @@
         },		
         {
             "key": "js_555",
-            "name": "🌟┃三五┃影视",
+            "name": "🌟|三五|影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
@@ -220,7 +220,7 @@
         },
         {
             "key": "js_轰轰",
-            "name": "💥‍┃轰轰┃影视",
+            "name": "💥‍|轰轰|影视",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
 			"searchable": 1,
@@ -230,7 +230,7 @@
         },
 		        {
             "key": "csp_YQKan",
-            "name": "👨‍👩‍👧‍👦┃一起┃电视",
+            "name": "👨‍👩‍👧‍👦|一起|电视",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -240,7 +240,7 @@
         },
 		      {
             "key": "量子资源",
-            "name": "🥑┃量子┃资源",
+            "name": "🥑|量子|资源",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -266,7 +266,7 @@
         },
 		{
             "key": "csp_非凡资源",
-            "name": "🥗┃非凡┃资源",
+            "name": "🥗|非凡|资源",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -303,7 +303,7 @@
         },
 		        {
             "key": "csp_Btwtoo",
-            "name": "✌┃两个┃BT",
+            "name": "✌|两个|BT",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -312,7 +312,7 @@
         },
         {
             "key": "小战影视",
-            "name": "🗡️┃小战┃影视",
+            "name": "🗡️|小战|影视",
             "type": 1,
 			"playerType": 1,
             "api": "http://d.xzam.cn/api.php/provide/vod/",
@@ -332,7 +332,7 @@
 		#巧技
 		        {
             "key": "视觉",
-            "name": "视觉┃App",
+            "name": "视觉|App",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -344,7 +344,7 @@
         },
 		        {
             "key": "星星",
-            "name": "星星┃App",
+            "name": "星星|App",
             "type": 3,
             "api": "csp_Appto",
             "playerType": 2,
@@ -353,7 +353,7 @@
         },
 		        {
             "key": "tvbsk",
-            "name": "TVB云播┃App",
+            "name": "TVB云播|App",
             "type": 3,
             "api": "csp_Skapp",
             "playerType": 2,
@@ -366,47 +366,51 @@
 		#饭太硬
 		        {
             "key": "77",
-            "name": "👒七七┃App",
+            "name": "👒七七|App",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
+			"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "changeable": 1
         },
 		        {
             "key": "小小",
-            "name": "👀小小┃App",
+            "name": "👀小小|App",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+						"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"
         },
 		        {
             "key": "君离",
-            "name": "☀君离┃App",
+            "name": "☀君离|App",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+			"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "ext": "FbjPcVZY48PN/RIZ5UWFrpN0csJPCJkIEy9R9qCt0RcDCdqQ/iHaxETP6Km4GjurcnqByH5g2zI+TmNzCM85PltMUd6f0BnULz5M1CsK3w=="
         },
 		{
             "key": "繁星",
-            "name": "💥繁星┃App",
+            "name": "💥繁星|App",
             "type": 3,
             "api": "csp_AppMao",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+			"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
         },
 		       {
             "key": "贱贱",
-            "name": "🐭贱贱┃p2p",
+            "name": "🐭贱贱|p2p",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -417,20 +421,22 @@
         },
 		        {
             "key": "csp_Nbys",
-            "name": "🛫泥巴┃飞",
+            "name": "🛫泥巴|飞",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
             "quickSearch": 1,
+			"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "changeable": 1
         },
 		        {
             "key": "csp_trj",
-            "name": "🛫唐人街┃飞",
+            "name": "🛫唐人街|飞",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
+			"jar":""https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
             "changeable": 1
         },
 				#饭太硬
