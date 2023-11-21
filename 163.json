@@ -38,7 +38,77 @@
 {"key":"drpy_js_345看片","name":"345看片[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/345看片.js"},
 {"key":"drpy_js_007影视","name":"007影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/007影视.js"},
 {"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
-	
+        {
+            "key": "js_nangua",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
+        },
+	          {
+            "key": "骑骑影院",
+            "name": "🚵┃骑骑┃影院",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+        },
+        {
+            "key": "js_6V",
+            "name": "✡️┃六维┃磁力",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6V.js"
+        },
+        {
+            "key": "XYQH_电影港",
+            "name": "🛳┃港口┃磁力",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_XYQHiker",
+            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+        },
+	        {
+            "key": "js_changmeng",
+            "name": "💤┃畅梦┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/changmeng.js"
+        },	  
+	          {
+            "key": "csp_YQKan",
+            "name": "👨‍👩‍👧‍👦┃一起┃电视",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+        },
+	          {
+            "key": "csp_Btwtoo",
+            "name": "✌┃两个┃鼻涕",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+	  
 	  {
             "key": "csp_蘑菇影视",
             "name": "🍄┃蘑菇┃影视",
