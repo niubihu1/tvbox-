@@ -75,7 +75,7 @@
 	#多多
         {
             "key": "js_nangua",
-            "name": "🎃┃南瓜┃影视",
+            "name": "🎃|南瓜|影视",
             "type": 3,
             "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
@@ -371,7 +371,7 @@
         },
 	   {
             "key": "橘子",
-            "name": "橘子┃App",
+            "name": "橘子|App",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
