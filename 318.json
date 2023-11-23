@@ -128,28 +128,28 @@
              "海外剧"
            ]
         },		
-		        {
+        {
             "key": "js_荐片",
             "name": "⏳|荐片|影视",
             "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/荐片.js",
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/荐片.js",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-		        {
+        {
             "key": "js_6V",
             "name": "✡️|六维|磁力",
             "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6V.js"
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
         },
-		        {
+        {
             "key": "骑骑影院",
             "name": "🚵|骑骑|影院",
             "type": 3,
@@ -160,16 +160,16 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-		        {
+        {
             "key": "XYQH_电影港",
             "name": "🛳|港口|磁力",
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
         },
-		        {
+        {
             "key": "csp_XBPQ_wanda",
             "name": "🗽|万达|影视",
             "type": 3,
@@ -177,7 +177,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
+			"jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/万达.json"
         },	
 
@@ -216,28 +216,28 @@
                 "日韩综艺",
                 "欧美综艺"
             ]			
-        },		
+        },	
         {
             "key": "js_555",
             "name": "🌟|三五|影视",
             "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/555.js"
-        },
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/555.js"
+        },	
         {
             "key": "js_轰轰",
             "name": "💥‍|轰轰|影视",
             "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
 			"searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/hoho.js"
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/hoho.js"
         },
-		        {
+       {
             "key": "csp_YQKan",
             "name": "👨‍👩‍👧‍👦|一起|电视",
             "type": 3,
@@ -245,9 +245,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		    "jar": "https://jihulab.com/duomv/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+		    "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
         },
-		      {
+		            {
             "key": "量子资源",
             "name": "🥑|量子|资源",
             "type": 1,
@@ -273,7 +273,7 @@
                 "喜剧片"
             ]
         },
-		{
+		 {
             "key": "csp_非凡资源",
             "name": "🥗|非凡|资源",
             "type": 1,
