@@ -2,12 +2,12 @@
 
 1：多仓接口
 ````bash
-https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.json
 ````
 
 2：单仓优选接口
 ````bash
-https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
 ````
 
 - 软件下载
