@@ -11,16 +11,7 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
-{"key":"UpYun",
-	"name":"☁️UP云搜",
-	"type":3,
-	"api":"csp_UpYun",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":0,
-	"changeable":0,
-	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-},
+
 
 	  
     {
@@ -54,6 +45,16 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+	  {"key":"UpYun",
+	"name":"☁️云搜|阿里",
+	"type":3,
+	"api":"csp_UpYun",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":0,
+	"changeable":0,
+	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+},
 	      {
       "key": "csp_search_PanSearch",
       "name": "🗂️盘搜|阿里",
