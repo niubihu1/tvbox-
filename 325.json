@@ -11,18 +11,18 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
-{"key":"csp_WoGG",
-	"name":"🧸玩偶|阿里",
-	"type":3,
-	"api":"csp_WoGG",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"changeable":0,
-	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
-},
-{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 
+{"key":"csp_WoGG","name":"🧸玩偶|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+        {
+            "key": "js_4KHDR",
+            "name": "👩‍⚕️┃玩偶┃姐姐",
+            "type": 3,
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/4KHDR.js"
+        },
 	
 		      {
       "key": "csp_search_七夜",
