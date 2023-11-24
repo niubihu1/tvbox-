@@ -582,11 +582,7 @@
     }
   ],
   "parses": [
-      {
-      "name": "左岸解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
+
 	        {
             "name": "2号线",
             "type": 0,
@@ -602,43 +598,201 @@
             "type": 0,
             "url": "https://api.jiexi.la/?url="
         },
-	  {
-		"name": "刚佬",
-		"type": 1,
-		"url": "http://json.g9.pub:66/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
-	}, 
-	  {
-      "name": "Web4",
-      "type": 0,
-      "url": "https://dm.xmflv.com:4433/?url="
-    },
+
+
     {
       "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
-    {
-      "name": "OKJX",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "瞄影嗅探",
-      "type": 0,
-      "url": "http://www.miaoys.cc/vip/?url="
-    },
 
-    {
-      "name": "麒麟",
-      "type": 0,
-      "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
-    }
 
-   
-  ],
+
+ {
+            "name": "1号线",
+            "type": 0,
+            "url": "https://vip.lianfaka.com/vip/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "2号线",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "3号线",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "4号线",
+            "type": 0,
+            "url": "https://www.pouyun.com/?url="
+        },
+        {
+            "name": "5号线",
+            "type": 0,
+            "url": "https://api.jiexi.la/?url="
+        },
+        {
+            "name": "6号线",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },
+        {
+            "name": "7号线",
+            "type": 0,
+            "url": "https://parse.mw0.cc/?url="
+        },
+        {
+            "name": "8号线",
+            "type": 0,
+            "url": "https://jx.iztyy.com/svip/?url="
+        },
+        {
+            "name": "9号线",
+            "type": 0,
+            "url": "https://jx.ppflv.com/?url="
+        },
+        {
+            "name": "10号线",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "11号线",
+            "type": 0,
+            "url": "https://jx.xyflv.com/?url="
+        },
+        {
+            "name": "12号线",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "13号线",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        },
+        {
+            "name": "14号线",
+            "type": 0,
+            "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "15号线",
+            "type": 0,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "16号线",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "17号线",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                },
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "18号线",
+            "type": 0,
+            "url": "https://jx.m3u8.pw/?url="
+        }
+    ],
+
+
   "flags": [
     "youku",
     "qq",
