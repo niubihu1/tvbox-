@@ -1,28 +1,54 @@
 {
   "sites": [
-    {
-      "key": "dr_豆瓣",
-      "name": "🔍豆瓣首页",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
-    },
-	
+        {
+            "key": "js豆瓣",
+            "name": "🍥豆瓣首页🍥",
+            "type": 3,
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
+        },	
 	#阿里
-	    {
-      "key": "csp_FanYY",
-      "name": "🧸玩偶|阿里",
+	   
+	 
+
+{"key":"csp_WoGG","name":"🧸玩偶|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+
+	
+		      {
+      "key": "csp_search_七夜",
+      "name": "🔎七夜|阿里",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-	 {
+	      {
+      "key": "csp_search_Yisou",
+      "name": "🐏易搜|阿里",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	  {"key":"UpYun",
+	"name":"☁️云搜|阿里",
+	"type":3,
+	"api":"csp_UpYun",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":0,
+	"changeable":0,
+	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+},
+	      {
       "key": "csp_search_PanSearch",
       "name": "🗂️盘搜|阿里",
       "type": 3,
@@ -55,6 +81,27 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+        {
+            "key": "js_6V",
+            "name": "✡️|六维|磁力",
+            "type": 3,
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
+        },
+	          {
+            "key": "XYQH_电影港",
+            "name": "🛳|港口|磁力",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_XYQHiker",
+            "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+        },
+	  
+	  
 	
 		#阿里
 		
@@ -73,6 +120,19 @@
 	#道长
 		
 	#多多
+	          {
+            "key": "js_荐片",
+            "name": "⏳|荐片|影视",
+            "type": 3,
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/荐片.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	  
+	  
         {
             "key": "js_nangua",
             "name": "🎃|南瓜|影视",
@@ -128,27 +188,8 @@
              "海外剧"
            ]
         },		
-        {
-            "key": "js_荐片",
-            "name": "⏳|荐片|影视",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/荐片.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "js_6V",
-            "name": "✡️|六维|磁力",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
-        },
+
+
         {
             "key": "骑骑影院",
             "name": "🚵|骑骑|影院",
@@ -160,15 +201,7 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-        {
-            "key": "XYQH_电影港",
-            "name": "🛳|港口|磁力",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
-        },
+
         {
             "key": "csp_XBPQ_wanda",
             "name": "🗽|万达|影视",
@@ -846,5 +879,5 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile1121.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile1123.jar"
 }
