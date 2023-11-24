@@ -16,7 +16,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/mai
 - 密码：402d
 - 
 - 🔰官方原版 Tvbox (使用单仓优选接口)
-- https://liucn.lanzouf.com/idz8n0r4nbgh
+- https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_q215613905_20231013-1626.apk
+- https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_takagen99_20231121-0024.apk
 
 - 
 - 🔰宝盒
