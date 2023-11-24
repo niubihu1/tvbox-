@@ -11,7 +11,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/mai
 ````
 
 - 软件下载
-- 🔰原版 影视仓 (使用多仓接口)
+- 🔰原版 影视仓 
 - https://share.feijipan.com/s/6aU3CSgc
 - 密码：2587
 - 
