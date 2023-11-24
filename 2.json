@@ -11,18 +11,18 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
+{"key":"csp_WoGG",
+	"name":"🧸玩偶|阿里",
+	"type":3,
+	"api":"csp_WoGG",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"changeable":0,
+	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+},
 
-	  
-    {
-      "key": "csp_FanYY",
-      "name": "🧸玩偶|阿里",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
-    },
+	
 		      {
       "key": "csp_search_七夜",
       "name": "🔎七夜|阿里",
