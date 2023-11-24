@@ -11,16 +11,6 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
 
-{"key":"UpYun",
-	"name":"☁️UP云搜",
-	"type":3,
-	"api":"csp_UpYun",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":0,
-	"changeable":0,
-	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-},
 
 	  
     {
@@ -54,6 +44,16 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+	  {"key":"UpYun",
+	"name":"☁️云搜|阿里",
+	"type":3,
+	"api":"csp_UpYun",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":0,
+	"changeable":0,
+	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+},
 	      {
       "key": "csp_search_PanSearch",
       "name": "🗂️盘搜|阿里",
@@ -106,6 +106,7 @@
             "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
         },
+	  
 	  
     {
       "key": "push_agent",
