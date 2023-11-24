@@ -65,10 +65,7 @@
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车(有跑马灯)"
+
         }
     ]
 }
