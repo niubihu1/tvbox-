@@ -13,17 +13,11 @@
 	
 	#阿里
 	   
-	  
-    {
-      "key": "csp_FanYY",
-      "name": "🧸玩偶|阿里",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
-    },
+	 
+
+{"key":"csp_WoGG","name":"🧸玩偶|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+
+	
 		      {
       "key": "csp_search_七夜",
       "name": "🔎七夜|阿里",
@@ -107,6 +101,8 @@
             "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
         },
+	  
+	  
 	
 		#阿里
 		
@@ -896,5 +892,5 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile1121.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile1123.jar"
 }
