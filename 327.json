@@ -1,15 +1,6 @@
 {
   "sites": [
-    {
-      "key": "dr_豆瓣",
-      "name": "🔍豆瓣首页",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
-    },
+ {"key":"csp_DouDou","name":"🔍豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 	
 	#阿里
 	   
