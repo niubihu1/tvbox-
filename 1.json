@@ -1,16 +1,15 @@
 {
   "sites": [
-    {
-      "key": "dr_豆瓣",
-      "name": "🔍豆瓣首页",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
-    },
-	
+        {
+            "key": "js豆瓣",
+            "name": "🍥豆瓣首页🍥",
+            "type": 3,
+            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
+        },	
 	#阿里
 	   
 	 
