@@ -57,10 +57,7 @@
             "name": "🚀俊佬线路"
         },   
  
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🚀霜辉月明"
-        },
+ 
         {
             "url": "https://xhdwc.tk/0",
             "name": "🚀dxawi0线路"
