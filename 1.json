@@ -1,15 +1,6 @@
 {
   "sites": [
-        {
-            "key": "js豆瓣",
-            "name": "🍥豆瓣首页🍥",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
-        },	
+	  {"key":"csp_DouDou","name":"🍥豆瓣首页🍥","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 	#阿里
 	   
 	 
@@ -117,32 +108,24 @@
 {"key":"drpy_js_多瑙影视","name":"多瑙影视[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
-	#道长
+{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
+	
+	  
+	  
+	  #道长
 		
 	#多多
-	          {
-            "key": "js_荐片",
-            "name": "⏳|荐片|影视",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/荐片.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	  
-	  
         {
-            "key": "js_nangua",
-            "name": "🎃|南瓜|影视",
+            "key": "南瓜",
+            "name": "🎃南瓜┃App",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "csp_NanGua",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+            "changeable": 1
         },
+	  
  {
             "key": "49zy",
             "name": "🦁|狮鹫|资源",
@@ -202,17 +185,7 @@
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
 
-        {
-            "key": "csp_XBPQ_wanda",
-            "name": "🗽|万达|影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/万达.json"
-        },	
+
 
 		{
             "key": "csp_SNzy",
@@ -250,36 +223,9 @@
                 "欧美综艺"
             ]			
         },	
-        {
-            "key": "js_555",
-            "name": "🌟|三五|影视",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/555.js"
-        },	
-        {
-            "key": "js_轰轰",
-            "name": "💥‍|轰轰|影视",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-			"searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/hoho.js"
-        },
-       {
-            "key": "csp_YQKan",
-            "name": "👨‍👩‍👧‍👦|一起|电视",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		    "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
-        },
+ 
+
+{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 		            {
             "key": "量子资源",
             "name": "🥑|量子|资源",
