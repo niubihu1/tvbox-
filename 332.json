@@ -1,13 +1,9 @@
 {
   "sites": [
 	  {"key":"csp_DouDou","name":"🍥豆瓣首页🍥","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-	#阿里
-	   
-	 
-
-{"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
-
 	
+	  #阿里
+{"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 		      {
       "key": "csp_search_七夜",
       "name": "🔎七夜|阿里",
@@ -91,11 +87,61 @@
             "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
         },
-	  
-	  
-	
 		#阿里
 		
+		        {
+            "key": "南瓜",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+	          {
+            "key": "影探VIP",
+            "name": "🚄┃影探┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+        },
+	          {
+            "key": "鑫鑫影视",
+            "name": "🐼┃鑫鑫┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
+        {
+            "key": "532短剧",
+            "name": "💓┃短剧┃视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+        },
+	          {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+        },
+	          {
+            "key": "畅梦",
+            "name": "💤┃畅梦┃影视",
+            "type": 3,
+            "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
+            "ext": "http://cf.weixine.net/js/changmeng.js"
+        },
+	  
 		
 		
 	#道长	
