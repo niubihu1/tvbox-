@@ -6,6 +6,12 @@
 {"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 		  #阿里1
 	  
+{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
+{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+	  
 	 #磁力
         {
             "key": "js_6V",
@@ -46,17 +52,7 @@
 	  
 
 	  #肥猫
-		        {
-            "key": "南瓜",
-            "name": "🎃|南瓜|肥猫",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
+
 	          {
             "key": "影探VIP",
             "name": "🚄|影探|肥猫",
@@ -91,18 +87,6 @@
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jp.js"
         },
-
-	          {
-            "key": "七七",
-            "name": "🌈|七七|肥猫",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	  
-	  
 	          {
             "key": "畅梦",
             "name": "💤|畅梦|肥猫",
@@ -126,16 +110,6 @@
 	  #道长
 		
 	#多多
-        {
-            "key": "南瓜",
-            "name": "🎃南瓜|多多",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
 	  
  {
             "key": "49zy",
