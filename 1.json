@@ -2,72 +2,11 @@
   "sites": [
 	  {"key":"csp_DouDou","name":"🍥豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 	
-	  #阿里
+	  #阿里1
 {"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
-		      {
-      "key": "csp_search_七夜",
-      "name": "🔎七夜|阿里",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-	      {
-      "key": "csp_search_Yisou",
-      "name": "🐏易搜|阿里",
-      "type": 3,
-      "api": "csp_YiSo",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-	  {"key":"UpYun",
-	"name":"☁️云搜|阿里",
-	"type":3,
-	"api":"csp_UpYun",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":0,
-	"changeable":0,
-	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-},
-	      {
-      "key": "csp_search_PanSearch",
-      "name": "🗂️盘搜|阿里",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Zhaozy",
-      "name": "🐑资源|阿里",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
-    },
-
-    {
-      "key": "csp_search_Alips",
-      "name": "🦌盘搜|阿里",
-      "type": 3,
-      "api": "csp_PanSou",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
+		  #阿里1
+	  
+	 #磁力
         {
             "key": "js_6V",
             "name": "✡️|六维|磁力",
@@ -98,7 +37,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		#阿里
+	  #磁力
+
 
 	  #肥猫
 		        {
@@ -165,7 +105,6 @@
             "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
             "ext": "http://cf.weixine.net/js/changmeng.js"
         },
-	  
 		  #肥猫	
 		
 	#道长	
@@ -179,7 +118,6 @@
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
-	  
 	  #道长
 		
 	#多多
@@ -284,8 +222,6 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-
-
 
 		{
             "key": "csp_SNzy",
@@ -415,6 +351,7 @@
              ]
         },
 			#多多
+	  
 			
 		#巧技
 		        {
@@ -541,7 +478,72 @@
 				#饭太硬
 		
 		
-		
+		#阿里2
+	   {
+      "key": "csp_search_七夜",
+      "name": "🔎七夜|阿里",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	      {
+      "key": "csp_search_Yisou",
+      "name": "🐏易搜|阿里",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	  {"key":"UpYun",
+	"name":"☁️云搜|阿里",
+	"type":3,
+	"api":"csp_UpYun",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":0,
+	"changeable":0,
+	"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+},
+	      {
+      "key": "csp_search_PanSearch",
+      "name": "🗂️盘搜|阿里",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "csp_search_Zhaozy",
+      "name": "🐑资源|阿里",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+    },
+
+    {
+      "key": "csp_search_Alips",
+      "name": "🦌盘搜|阿里",
+      "type": 3,
+      "api": "csp_PanSou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+	  #阿里 2
 		
 		
 		
