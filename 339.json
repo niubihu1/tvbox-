@@ -83,8 +83,8 @@
             "key": "荐片",
             "name": "🎬|荐片|肥猫",
             "type": 3,
-            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jp.js"
         },
 
 	          {
@@ -103,7 +103,7 @@
             "name": "💤|畅梦|肥猫",
             "type": 3,
             "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
-            "ext": "http://cf.weixine.net/js/changmeng.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/changmeng.js"
         },
 		  #肥猫	
 		
