@@ -7,10 +7,10 @@
 		  #阿里1
 	  
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
+{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	  
 	 #磁力
         {
