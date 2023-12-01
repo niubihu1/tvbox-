@@ -1,13 +1,9 @@
 {
   "sites": [
-	  {"key":"csp_DouDou","name":"🍥豆瓣首页🍥","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-	#阿里
-	   
-	 
-
-{"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
-
+	  {"key":"csp_DouDou","name":"🍥豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 	
+	  #阿里
+{"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
 		      {
       "key": "csp_search_七夜",
       "name": "🔎七夜|阿里",
@@ -76,11 +72,11 @@
             "key": "js_6V",
             "name": "✡️|六维|磁力",
             "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/6V.js"
         },
 	          {
             "key": "XYQH_电影港",
@@ -88,15 +84,89 @@
             "type": 3,
             "playerType": 1,
             "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/spider.txt",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/%E6%B8%AF%E5%8F%A3.json"
+        },
+	          {
+            "key": "js_荐片",
+            "name": "⏳|荐片|影视",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/%E8%8D%90%E7%89%87.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		#阿里
+
+	  #肥猫
+		        {
+            "key": "南瓜",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+	          {
+            "key": "影探VIP",
+            "name": "🚄┃影探┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+        },
+	          {
+            "key": "鑫鑫影视",
+            "name": "🐼┃鑫鑫┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },
+        {
+            "key": "532短剧",
+            "name": "💓┃短剧┃视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+        },
+        {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+        },
+
+	          {
+            "key": "七七",
+            "name": "🌈┃七七┃影视",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 	  
 	  
-	
-		#阿里
-		
-		
+	          {
+            "key": "畅梦",
+            "name": "💤┃畅梦┃影视",
+            "type": 3,
+            "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
+            "ext": "http://cf.weixine.net/js/changmeng.js"
+        },
+	  
+		  #肥猫	
 		
 	#道长	
 {"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
@@ -109,8 +179,6 @@
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
-	
-	  
 	  
 	  #道长
 		
@@ -171,6 +239,38 @@
              "海外剧"
            ]
         },		
+        {
+            "key": "csp_XBPQ_wanda",
+            "name": "🗽|万达|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/duo.jar",			
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/万达.json"
+        },	
+	    {
+            "key": "js_555",
+            "name": "🌟|三五|影视",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/555.js"
+        },	
+        {
+            "key": "js_轰轰",
+            "name": "💥‍|轰轰|影视",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/hoho.js"
+        },
+	  {"key":"csp_YQKan","name":"👨‍👩‍👧‍👦|一起|电视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
 
         {
@@ -225,7 +325,6 @@
         },	
  
 
-{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 		            {
             "key": "量子资源",
             "name": "🥑|量子|资源",
