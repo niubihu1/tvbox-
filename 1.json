@@ -28,7 +28,7 @@
         },
 	          {
             "key": "js_荐片",
-            "name": "⏳|荐片|影视",
+            "name": "⏳|荐片|磁力",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/%E8%8D%90%E7%89%87.js",
@@ -43,7 +43,7 @@
 	  #肥猫
 		        {
             "key": "南瓜",
-            "name": "🎃┃南瓜┃影视",
+            "name": "🎃|南瓜|肥猫",
             "type": 3,
             "api": "csp_NanGua",
             "playerType": 2,
@@ -54,7 +54,7 @@
         },
 	          {
             "key": "影探VIP",
-            "name": "🚄┃影探┃影视",
+            "name": "🚄|影探|肥猫",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -64,7 +64,7 @@
         },
 	          {
             "key": "鑫鑫影视",
-            "name": "🐼┃鑫鑫┃影视",
+            "name": "🐼|鑫鑫|肥猫",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -74,22 +74,22 @@
         },
         {
             "key": "532短剧",
-            "name": "💓┃短剧┃视频",
+            "name": "💓|短剧|肥猫",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
         },
         {
             "key": "荐片",
-            "name": "🎬┃荐片┃影视",
+            "name": "🎬|荐片|肥猫",
             "type": 3,
-            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/jp.js"
         },
 
 	          {
             "key": "七七",
-            "name": "🌈┃七七┃影视",
+            "name": "🌈|七七|肥猫",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -100,30 +100,30 @@
 	  
 	          {
             "key": "畅梦",
-            "name": "💤┃畅梦┃影视",
+            "name": "💤|畅梦|肥猫",
             "type": 3,
             "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
-            "ext": "http://cf.weixine.net/js/changmeng.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/changmeng.js"
         },
 		  #肥猫	
 		
 	#道长	
-{"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
-{"key":"drpy_js_四个圈儿","name":"四个圈儿[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
-{"key":"drpy_js_起飞影院","name":"起飞影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
-{"key":"drpy_js_胖虎影视","name":"胖虎影视[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
-{"key":"drpy_js_NY影院","name":"NY影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
-{"key":"drpy_js_人人影视","name":"人人影视[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
-{"key":"drpy_js_多瑙影视","name":"多瑙影视[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
-{"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
-{"key":"drpy_js_免费看","name":"免费看[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
-{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
+{"key":"drpy_js_Voflix","name":"Voflix|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
+{"key":"drpy_js_四个圈儿","name":"四个圈|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
+{"key":"drpy_js_起飞影院","name":"起飞|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
+{"key":"drpy_js_胖虎影视","name":"胖虎|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"},
+{"key":"drpy_js_NY影院","name":"NY|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
+{"key":"drpy_js_人人影视","name":"人人|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"},
+{"key":"drpy_js_多瑙影视","name":"多瑙|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
+{"key":"drpy_js_楚门影院","name":"楚门|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
+{"key":"drpy_js_免费看","name":"免费|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
+{"key":"drpy_js_荐片","name":"荐片|js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
 	  #道长
 		
 	#多多
         {
             "key": "南瓜",
-            "name": "🎃南瓜┃App",
+            "name": "🎃南瓜|多多",
             "type": 3,
             "api": "csp_NanGua",
             "playerType": 2,
@@ -134,7 +134,7 @@
 	  
  {
             "key": "49zy",
-            "name": "🦁|狮鹫|资源",
+            "name": "🦁|狮鹫|多多",
             "type": 1,
             "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -179,7 +179,7 @@
         },		
         {
             "key": "csp_XBPQ_wanda",
-            "name": "🗽|万达|影视",
+            "name": "🗽|万达|多多",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -190,7 +190,7 @@
         },	
 	    {
             "key": "js_555",
-            "name": "🌟|三五|影视",
+            "name": "🌟|三五|多多",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
             "searchable": 1,
@@ -200,7 +200,7 @@
         },	
         {
             "key": "js_轰轰",
-            "name": "💥‍|轰轰|影视",
+            "name": "💥‍|轰轰|多多",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
 			"searchable": 1,
@@ -208,12 +208,12 @@
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/hoho.js"
         },
-	  {"key":"csp_YQKan","name":"👨‍👩‍👧‍👦|一起|电视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
+	  {"key":"csp_YQKan","name":"👨‍👩‍👧‍👦|一起|多多","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 
 
         {
             "key": "骑骑影院",
-            "name": "🚵|骑骑|影院",
+            "name": "🚵|骑骑|多多",
             "type": 3,
             "playerType": 2,
             "api": "csp_AppYsV2",
@@ -225,7 +225,7 @@
 
 		{
             "key": "csp_SNzy",
-            "name": "🐉|索尼|高清",
+            "name": "🐉|索尼|多多",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -263,7 +263,7 @@
 
 		            {
             "key": "量子资源",
-            "name": "🥑|量子|资源",
+            "name": "🥑|量子|多多",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -289,7 +289,7 @@
         },
 		 {
             "key": "csp_非凡资源",
-            "name": "🥗|非凡|资源",
+            "name": "🥗|非凡|多多",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -326,7 +326,7 @@
         },
 		        {
             "key": "csp_Btwtoo",
-            "name": "✌|两个|BT",
+            "name": "✌|两个|多多",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -335,7 +335,7 @@
         },
         {
             "key": "小战影视",
-            "name": "🗡️|小战|影视",
+            "name": "🗡️|小战|多多",
             "type": 1,
 			"playerType": 1,
             "api": "http://d.xzam.cn/api.php/provide/vod/",
@@ -356,7 +356,7 @@
 		#巧技
 		        {
             "key": "视觉",
-            "name": "视觉|App",
+            "name": "视觉|巧技",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -368,7 +368,7 @@
         },
 		        {
             "key": "星星",
-            "name": "星星|App",
+            "name": "星星|巧技",
             "type": 3,
             "api": "csp_Appto",
             "playerType": 2,
@@ -377,7 +377,7 @@
         },
 		        {
             "key": "tvbsk",
-            "name": "TVB云播|App",
+            "name": "TVB云播|巧技",
             "type": 3,
             "api": "csp_Skapp",
             "playerType": 2,
@@ -386,7 +386,7 @@
         },
 	   {
             "key": "橘子",
-            "name": "橘子|App",
+            "name": "橘子|巧技",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -402,7 +402,7 @@
 		#饭太硬
 		        {
             "key": "77",
-            "name": "👒七七|App",
+            "name": "👒七七|饭太硬",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -412,7 +412,7 @@
         },
 		        {
             "key": "小小",
-            "name": "👀小小|App",
+            "name": "👀小小|饭太硬",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
@@ -423,7 +423,7 @@
         },
 		        {
             "key": "君离",
-            "name": "☀君离|App",
+            "name": "☀君离|饭太硬",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
@@ -434,7 +434,7 @@
         },
 		{
             "key": "繁星",
-            "name": "💥繁星|App",
+            "name": "💥繁星|饭太硬",
             "type": 3,
             "api": "csp_AppMao",
             "playerType": 2,
@@ -446,7 +446,7 @@
         },
 		       {
             "key": "贱贱",
-            "name": "🐭贱贱|p2p",
+            "name": "🐭贱贱|饭太硬",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -457,7 +457,7 @@
         },
 		        {
             "key": "csp_Nbys",
-            "name": "🛫泥巴|飞",
+            "name": "🛫泥巴|饭太硬",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -467,7 +467,7 @@
         },
 		        {
             "key": "csp_trj",
-            "name": "🛫唐人街|飞",
+            "name": "🛫唐人街|饭太硬",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
