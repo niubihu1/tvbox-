@@ -88,7 +88,8 @@
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
         },
 		#阿里
-		
+
+	  #肥猫
 		        {
             "key": "南瓜",
             "name": "🎃┃南瓜┃影视",
@@ -134,6 +135,60 @@
             "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
             "ext": "https://fanty.run.goorm.site/ext/jp.js"
         },
+	  {
+            "key": "索尼资源",
+            "name": "📀┃索尼┃影视",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "纪录片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动画片",
+                "港台动漫",
+                "海外动漫",
+                "演唱会",
+                "体育赛事",
+                "篮球",
+                "足球",
+                "预告片",
+                "斯诺克",
+                "影视解说"
+            ],
+            "searchable": 1,
+            "quickSearch": 1
+        },
+	          {
+            "key": "七七",
+            "name": "🌈┃七七┃影视",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	  
+	  
 	          {
             "key": "畅梦",
             "name": "💤┃畅梦┃影视",
@@ -142,7 +197,7 @@
             "ext": "http://cf.weixine.net/js/changmeng.js"
         },
 	  
-		
+		  #肥猫	
 		
 	#道长	
 {"key":"drpy_js_Voflix","name":"Voflix[js]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
