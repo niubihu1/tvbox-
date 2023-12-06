@@ -2,17 +2,17 @@
   "sites": [
 	  {"key":"csp_DouDou","name":"🍥豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 	
-	  #阿里1
+#阿里1
 {"key":"csp_WoGG","name":"🧸玩偶4K|阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
-		  #阿里1
-	  
+#阿里1
+
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-	  
-	 #磁力
+
+#磁力
         {
             "key": "js_6V",
             "name": "✡️|六维|磁力",
@@ -43,7 +43,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	  #磁力
+  #欧歌磁力
+	{"key":"New6v","name":🧲6V|磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","ext":"http://www.xb6v.com"},
+	{"key":"SeedHub","name":"🧲SHub4K|磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+	{"key":"美剧迷","name":"🧲美剧|磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+	{"key":"迅雷吧","name":"🧲迅雷|磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+	{"key":"Mp4电影","name":"🧲Mp4|磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+	{"key":"酷吧电影","name":"🧲酷吧|磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+	{"key":"美剧天堂","name":"🧲美剧|磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
+   #欧歌磁力
+#磁力
+	  
 #云星
 {"key": "暴风采集","name": "🌪️暴风|云星","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {"key": "csp_beijihu","name": "🎪极狐|云星","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
@@ -52,6 +62,8 @@
 	  
 	
 	#道长	
+{"key":"drpy_js_大米星球","name":"大米|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/20.js"},
+{"key":"drpy_js_看了么","name":"看了么|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"},
 {"key":"drpy_js_Voflix","name":"Voflix|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"},
 {"key":"drpy_js_四个圈儿","name":"四个圈|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
 {"key":"drpy_js_起飞影院","name":"起飞|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
@@ -61,7 +73,7 @@
 {"key":"drpy_js_多瑙影视","name":"多瑙|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
 {"key":"drpy_js_楚门影院","name":"楚门|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_免费看","name":"免费|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
-{"key":"drpy_js_荐片","name":"荐片|js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
+{"key":"drpy_js_荐片","name":"荐片|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	
 	  #道长
 	  
 	  #肥猫
