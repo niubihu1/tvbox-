@@ -11,6 +11,7 @@
 {"key": "csp_beijihu","name": "🎪极狐|云星","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 {"key": "火狐","name": "🦊茶杯狐|云星","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
  #云星
+	  
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -31,8 +32,8 @@
 {"key":"drpy_js_多瑙影视","name":"多瑙|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js","playerType":"2"},
 {"key":"drpy_js_楚门影院","name":"楚门|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_免费看","name":"免费|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"},
-{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},	  #道长
-	  
+{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
+  #道长	  
 
 	  
 	#阿里2
@@ -497,55 +498,6 @@
 				#饭太硬
 		
 		
-		
-		
-		
-#磁力
-     #    {
-            "key": "js_6V",
-            "name": "✡️|六维|磁力",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/6V.js"
-        },
-	        #  {
-            "key": "XYQH_电影港",
-            "name": "🛳|港口|磁力",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHiker",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/spider.txt",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/%E6%B8%AF%E5%8F%A3.json"
-        },
-	       #   {
-            "key": "js_荐片",
-            "name": "⏳|荐片|磁力",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/drpy2.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/xduo-main/libs/%E8%8D%90%E7%89%87.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-  #欧歌磁力
-	# {"key":"New6v","name":"🧲6V|磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","ext":"http://www.xb6v.com"},
-	# {"key":"SeedHub","name":"🧲SHub4K|磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-	# {"key":"美剧迷","name":"🧲美剧|磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-	#{"key":"迅雷吧","name":"🧲迅雷|磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-	#{"key":"Mp4电影","name":"🧲Mp4|磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-	# {"key":"酷吧电影","name":"🧲酷吧|磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-	# {"key":"美剧天堂","name":"🧲美剧|磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","filterable":1},
-   #欧歌磁力
-#磁力
-	  
-
-
-
-
 
 
 	  
