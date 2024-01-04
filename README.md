@@ -12,8 +12,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/mai
 
 - 软件下载
 - 🔰原版 影视仓 
-- https://share.feijipan.com/s/6aU3CSgc
-- 密码：2587
+- https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#
 - 
 - 🔰官方原版 Tvbox (使用单仓优选接口)
 - https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_q215613905_20231013-1626.apk
