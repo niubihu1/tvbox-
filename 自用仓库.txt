@@ -24,10 +24,7 @@
             "name": "🚀肥猫线路"
         },                
    
-        {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        },                                                               
+                                                           
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
