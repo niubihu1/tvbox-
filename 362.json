@@ -32,9 +32,9 @@
 	#菜妮丝  
 
   #欧歌
-	 {"key":"极速播","name":"😎极速|影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-	  {"key":"加速器","name":"😎加速|影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar","ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
-	  {"key":"哔嘀","name":"💡哔嘀|影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"},
+	 {"key":"极速播","name":"😎极速|影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou2416.jar","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+	  {"key":"加速器","name":"😎加速|影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou2416.jar","ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
+	  {"key":"哔嘀","name":"💡哔嘀|影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou2416.jar"},
 	  #欧歌磁力
 	 #欧歌
 
