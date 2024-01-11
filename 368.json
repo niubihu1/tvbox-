@@ -32,12 +32,17 @@
         "filterable": 1,
         "changeable": 1
     },
-    {
+{
         "key": "熊掌",
         "name": "🎀熊掌|采集",
         "type": 1,
         "api": "https://xzcjz.com/api.php/provide/vod",
-        searchable ":1,"quickSearch ":1,"filterable ":0,"categories ":["连续剧","动漫"]},
+        "searchable ": 1,
+        "quickSearch ": 1,
+        "filterable ": 0,
+        "categories ": ["连续剧", "动漫"]
+},
+
 	
         #道长	
 	    
