@@ -3,7 +3,7 @@
 	  {"key":"csp_DouDou","name":"🍥豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
 
-  #欧歌
+
 
 {
         "key": "哔嘀",
@@ -38,7 +38,7 @@
         "categories": ["连续剧", "动漫"]
 },
 
-#道长
+
 
 {
         "key": "drpy_js_荐片",
@@ -119,9 +119,7 @@
         "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
 },
 
-	 #欧歌磁力#欧歌
 
-#云星
 
 {
         "key": "暴风采集",
@@ -141,7 +139,7 @@
         "filterable": 1,
         "categories": ["内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]
 },
-#云星
+
 
 {
         "key": "csp_Czsapp",
@@ -175,7 +173,7 @@
         "filterable": 1,
         "changeable": 1
 },
-#道长
+
 
 {
         "key": "drpy_js_六度TV",
@@ -271,9 +269,7 @@
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
 },
 
-#道长
-	  
-#菜妮丝 
+
 {
         "key": "4K电影网",
         "name": "4K|影视",
@@ -283,9 +279,7 @@
         "changeable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/4K%E7%94%B5%E5%BD%B1%E7%BD%91.js"
 },
-#菜妮丝
 
-#阿里1 
 {
         "key": "csp_WoGG",
         "name": "🧸玩偶4K|阿里",
@@ -297,7 +291,7 @@
         "changeable": 0,
         "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 },
-#阿里1
+
 
 {
         "key": "csp_Kunyu77",
@@ -319,7 +313,7 @@
         "ext": "https://www.kuin.one/api.php/app/"
 },
 
-#采集
+
 	  {
         "key": "红牛资源",
         "name": "🎀红牛|采集",
@@ -348,10 +342,7 @@
         "categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 },
 	  
-#采集
 
-	  
-	#阿里2
 
 {
         "key": "csp_search_七夜",
@@ -418,8 +409,7 @@
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 },
-#阿里2
-	#肥猫
+
 
 {
         "key": "影探VIP",
@@ -462,9 +452,7 @@
         "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/changmeng.js"
 },
-#肥猫
-		
-#多多
+
 
 {
         "key": "49zy",
@@ -584,10 +572,7 @@
         "changeable": 1,
         "categories": ["电影", "国产剧", "欧美剧", "日韩剧"]
 },
-#多多
-	  
-			
-#巧技 
+
 {
         "key": "视觉",
         "name": "视觉|巧技",
@@ -613,10 +598,7 @@
         "jar": "http://cdn.qiaoji8.com/fix1110.jar",
         "ext": "nbOdUoFXWvBmYlNj/qG8q6ytWFIZwtQPtFFI3cwHTOjM7FKVzTbwY0UHQEImlWb/pHq5gMm6LS2HhJI1m5+/s20tWUHsfJ1BIc4rlkWL5xqOQ/EhgcwCwcKi7ECmsFCBAxb69vZB0qXeElk+GDnHEPxoiB3EqjFfAJ88lClO/fKiZKGBnTdyRVG8VAvmercLgiklQwl6jSHVHanEdkZhMj2jIUEKsVeBWOocRzhJ/7457CvmQd/kLyTabYHJ+jrT7m4iVCnGDL7Aw5W+yeOF8FoH2zfTBBARd0o/8ACk+C7pbFTHI3HbjgiBWatiYevYz8buFQdxmSyXA1kgq5hi8WQ5f/STXW4vtO2ZfbVvEHE4T4MKyb1Cs9Hd0daU/Hb1dukLo9sV7fIisMWkr0UuDvYJJMq6xBU5vnFqxYwp59NsgGK/lc6P7oYWERiZWW6Oe/aVFSapfWILTqV1/UBrsjmgtK8XZTvY4hWh0khKyxwpdyQkQ1JzXfB+CHtM3cPXMKEol3PP9XoMLy4K93+/AH2ty15mcmpBfzip4mZmy8r0g+yV8vqaanhRcBDEvZMy0SgWW59YgbavdsNm7TeIrs/WasVtLrLeRPn5jvlc/Q4FXfx320XO3LI0jMqA0f++gQjCUvfsB3wdi29Sv7NYtMqj8ltg23bzuHg2lfZG+nM8="
 },
-#巧技
-		
-				
-#饭太硬
+
 {
         "key": "77",
         "name": "👒七七|饭太硬",
@@ -692,7 +674,7 @@
         "jar": "https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/file.jar",
         "changeable": 1
 },
-#饭太硬
+
 		
 
         {
