@@ -4,16 +4,70 @@
 
 
   #欧歌
-	{"key":"哔嘀","name":"💡哔嘀|影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"},
-	
-	  {"key":"csp_Cs1369","name":"🎀九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
- {"key":"熊掌","name":"🎀熊掌|采集","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
-	
-	  #道长	
-	  {"key":"drpy_js_荐片","name":"荐片|js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
-{"key":"drpy_js_起飞影院","name":"起飞|js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"},
-{"key":"drpy_js_NY影院","name":"NY|js","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"},
-{"key":"drpy_js_四个圈儿","name":"四个圈|js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"},
+
+{
+        "key": "哔嘀",
+        "name": "💡哔嘀|影视",
+        "type": 3,
+        "api": "csp_Bdys",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"
+},
+
+{
+        "key": "csp_Cs1369",
+        "name": "🎀九六",
+        "type": 3,
+        "api": "csp_Cs1369",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 1
+},
+{
+        "key": "熊掌",
+        "name": "🎀熊掌|采集",
+        "type": 1,
+        "api": "https://xzcjz.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "categories": ["连续剧", "动漫"]
+},
+
+#道长
+
+{
+        "key": "drpy_js_荐片",
+        "name": "荐片|js",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+},
+{
+        "key": "drpy_js_起飞影院",
+        "name": "起飞|js",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
+},
+{
+        "key": "drpy_js_NY影院",
+        "name": "NY|js",
+        "type": 3,
+        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
+},
+{
+        "key": "drpy_js_四个圈儿",
+        "name": "四个圈|js",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
+},
 
 	  {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	  
