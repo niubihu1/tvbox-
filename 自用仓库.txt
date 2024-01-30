@@ -33,10 +33,7 @@
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "🚀巧技线路"
         },  
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米线路"
-        },   
+
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
@@ -44,6 +41,10 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
+        },   
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
         },   
  {
             "url": "https://cn.kstore.space/download/2863/01.txt",
