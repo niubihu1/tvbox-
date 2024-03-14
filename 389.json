@@ -24,7 +24,7 @@
         },
         {
             "key": "csp_Panda_玩偶哥哥",
-            "name": "👲┃玩偶┃影视",
+            "name": "👲|玩偶|影视",
             "api": "csp_Wogg",
             "type": 3,
             "searchable": 1,
@@ -35,7 +35,7 @@
         },
         {
             "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
+            "name": "👽玩偶哥哥|4K弹幕",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -57,7 +57,7 @@
         },
         {
             "key": "csp_Vidhub2",
-            "name": "🎼┃Vid┃影视",
+            "name": "🎼|Vid|影视",
             "type": 3,
             "api": "csp_Vidhub2",
             "searchable": 1,
@@ -66,7 +66,7 @@
         },
         {
             "key": "兄弟",
-            "name": "👯┃兄弟┃影视",
+            "name": "👯|兄弟|影视",
             "type": 3,
             "api": "csp_BaiPiao",
             "searchable": 1,
@@ -76,7 +76,7 @@
 
         {
             "key": "白嫖",
-            "name": "🌅┃白嫖┃影视",
+            "name": "🌅|白嫖|影视",
             "type": 3,
             "api": "csp_BaiPiao",
             "searchable": 1,
@@ -87,7 +87,7 @@
 
         {
             "key": "YGP",
-            "name": "🚀叨观荐影┃新片",
+            "name": "🚀叨观荐影|新片",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -96,7 +96,7 @@
         },
         {
             "key": "短剧",
-            "name": "🌈上头┃短剧",
+            "name": "🌈上头|短剧",
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "酷看",
-            "name": "💡酷看┃秒播",
+            "name": "💡酷看|秒播",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -118,14 +118,14 @@
 
         {
             "key": "csp_Freeok",
-            "name": "️️👌┃FreeOK┃影视",
+            "name": "️️👌|FreeOK|影视",
             "type": 3,
             "playerType": "1",
             "api": "csp_Freeok"
         },
         {
             "key": "云播影视",
-            "name": "☁️┃云播┃影视",
+            "name": "☁️|云播|影视",
             "type": 3,
             "playerType": "2",
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
