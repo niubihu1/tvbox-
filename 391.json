@@ -141,7 +141,15 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-
+{
+        "key": "看看",
+        "name": "看看┃App",
+        "type": 3,
+        "api": "csp_KanKan",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    },
         {
             "key": "tvbsk",
             "name": "TVB云播",
