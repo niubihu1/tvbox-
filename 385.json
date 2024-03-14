@@ -1,16 +1,7 @@
 {
   "sites": [
-	   {
-            "key": "drpy_js_豆瓣",
-            "name": "🍥豆瓣首页",
-            "type": 3,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
-        },
 
+{"key":"csp_DouDou","name":"🍥豆瓣首页","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
 
 {
@@ -1196,5 +1187,5 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile240111.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/Yoursmile0314.jar"
 }
