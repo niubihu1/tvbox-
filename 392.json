@@ -121,7 +121,7 @@
             "name": "️️👌|FreeOK|影视",
             "type": 3,
             "playerType": "1",
-             "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
+            "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
             "api": "csp_Freeok"
         },
         {
@@ -132,24 +132,24 @@
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
         },
-		{
-			"key": "酷看",
-			"name": "🦁1080P┃快看",
-			"type": 3,
-			"api": "csp_Kkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-{
-        "key": "看看",
-        "name": "看看┃App",
-        "type": 3,
-        "api": "csp_KanKan",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    },
+        {
+            "key": "酷看",
+            "name": "🦁1080P┃快看",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "看看",
+            "name": "看看┃App",
+            "type": 3,
+            "api": "csp_KanKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "tvbsk",
             "name": "TVB云播",
