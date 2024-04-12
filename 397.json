@@ -865,13 +865,18 @@
         "filterable": 0,
         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }],
+ 
+    
     "lives": [{
-        "group": "redirect",
-        "channels": [{
-            "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E7%9B%B4%E6%92%AD%E6%BA%90/v.txt"]
-        }]
+        "name": "live",
+        "type": 0,
+        "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
+    
     "parses": [
 
     {
