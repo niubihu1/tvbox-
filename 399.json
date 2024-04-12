@@ -83,7 +83,15 @@
         "changeable": 1,
         "ext": "https://www.baipiaoys.com:9092/"
     },
-
+    {
+        "key": "csp_Freeok",
+        "name": "️️FreeOK|超清",
+        "type": 3,
+        "playerType": "1",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/PandaQ240408.jar",
+        "api": "csp_Freeok"
+    },
+        
     {
         "key": "csp_Vidhub2",
         "name": "🎼|Vid|影视",
@@ -152,14 +160,7 @@
         "changeable": 1
     },
 
-    {
-        "key": "csp_Freeok",
-        "name": "️️👌|FreeOK|影视",
-        "type": 3,
-        "playerType": "1",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/PandaQ240408.jar",
-        "api": "csp_Freeok"
-    },
+
     {
         "key": "云播影视",
         "name": "☁️|云播|影视",
