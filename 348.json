@@ -1,3 +1,4 @@
+
 {
     "sites": [
 
@@ -21,8 +22,40 @@
         "filterable": 1,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"
     },
+    {
+        "key": "csp_Panda_玩偶哥哥",
+        "name": "👲|玩偶|影视",
+        "api": "csp_Wogg",
+        "type": 3,
+        "searchable": 1,
+        "playerType": 2,
+        "timeout": 30,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+        "key": "玩偶",
+        "name": "👽玩偶哥哥|4K弹幕",
+        "type": 3,
+        "api": "csp_WoGG",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
 
-            {
+    {
+        "key": "csp_WoGG",
+        "name": "🧸玩偶4K|阿里",
+        "type": 3,
+        "api": "csp_WoGG",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+    },
+         {
       "key": "土豆网盘",
       "name": "🥔土豆┃4K",
       "type": 3,
@@ -38,19 +71,8 @@
       "timeout": 25,
                  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/okjpg0420.txt"
     },
-                
-    {
-        "key": "csp_Panda_玩偶哥哥",
-        "name": "👲|玩偶|影视",
-        "api": "csp_Wogg",
-        "type": 3,
-        "searchable": 1,
-        "playerType": 2,
-        "timeout": 30,
-        "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
 
+        
     {
         "key": "苹果",
         "name": "🍎苹果┃无广",
