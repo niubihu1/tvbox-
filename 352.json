@@ -85,6 +85,16 @@
     "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
 },
 
+{
+    "key": "csp_Bttwoo",
+    "name": "✌比特",
+    "type": 3,
+    "api": "csp_Bttwoo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+ 
         
     {
         "key": "苹果",
