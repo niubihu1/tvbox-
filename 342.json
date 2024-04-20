@@ -21,18 +21,6 @@
         "filterable": 1,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"
     },
-    {
-        "key": "csp_Panda_玩偶哥哥",
-        "name": "👲|玩偶|影视",
-        "api": "csp_Wogg",
-        "type": 3,
-        "searchable": 1,
-        "playerType": 2,
-        "timeout": 30,
-        "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-
             {
       "key": "土豆网盘",
       "name": "🥔土豆┃4K",
@@ -46,8 +34,18 @@
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top"
       },
-
                 
+    {
+        "key": "csp_Panda_玩偶哥哥",
+        "name": "👲|玩偶|影视",
+        "api": "csp_Wogg",
+        "type": 3,
+        "searchable": 1,
+        "playerType": 2,
+        "timeout": 30,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
     {
         "key": "玩偶",
         "name": "👽玩偶哥哥|4K弹幕",
