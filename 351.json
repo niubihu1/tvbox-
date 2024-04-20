@@ -72,6 +72,19 @@
                  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/okjpg0420.txt"
     },
 
+
+        {
+    "key": "csp_AppTT",
+    "name": "💥萌米",
+    "type": 3,
+    "api": "csp_AppTT",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+},
+
         
     {
         "key": "苹果",
