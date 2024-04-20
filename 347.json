@@ -21,7 +21,8 @@
         "filterable": 1,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"
     },
-    {
+
+            {
       "key": "土豆网盘",
       "name": "🥔土豆┃4K",
       "type": 3,
@@ -29,10 +30,14 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "site": "https://tudou.lvdoui.top",
-                "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/okjpg0420.txt"
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
       },
+      "timeout": 25,
+                 "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/okjpg0420.txt"
+    },
                 
     {
         "key": "csp_Panda_玩偶哥哥",
@@ -45,22 +50,7 @@
         "changeable": 0,
         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
-        "danMu": "弹"
-      }
-    },
+
     {
         "key": "苹果",
         "name": "🍎苹果┃无广",
