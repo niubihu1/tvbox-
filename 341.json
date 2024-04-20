@@ -32,6 +32,22 @@
         "changeable": 0,
         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+
+            {
+      "key": "土豆网盘",
+      "name": "🥔土豆┃4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
+      },
+
+                
     {
         "key": "玩偶",
         "name": "👽玩偶哥哥|4K弹幕",
