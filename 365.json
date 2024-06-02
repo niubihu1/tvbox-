@@ -10,7 +10,15 @@
         "quickSearch": 0,
         "filterable": 1
     },
-
+    {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+                "jar": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar",
+      "api": "csp_Juqq"
+    },
+        
     {
         "key": "WexTiantianys",
         "name": "🌤️明天┃秒播┃直连",
