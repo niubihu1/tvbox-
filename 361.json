@@ -20,25 +20,6 @@
       "api": "csp_Juqq"
     }, 
 
-        {
-      "key": "WexTiantianys",
-      "name": "🌤️明天┃秒播┃直连",
-      "type": 3,
-      "api": "csp_WexTiantianys",
-      "searchable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
-      "changeable": 1
-    },
-
-{
-      "key": "Wexshandian",
-      "name": "⚡️闪电┃秒播┃直连",
-      "type": 3,
-      "api": "csp_Wexshandian",
-      "searchable": 1,
-	      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
-      "changeable": 1
-    },
 
 
 
@@ -60,15 +41,7 @@
         
                   
 	    
-        	{
-      "key": "Wexbttwo",
-      "name": "🐸大鼻涕┃影视┃直连",
-      "type": 3,
-      "api": "csp_Wexbttwo",
-      "searchable": 1,
-			      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
-      "changeable": 1
-    },
+
         {
    "key": "haiwaikan",
    "name": "🛝海看┃秒播┃采集",
@@ -112,29 +85,6 @@
 
    ]
   },
-        {
-      "key": "csp_Nmys",
-      "name": "🎅‍伯伯┃影视┃直连",
-      "type": 3,
-      "api": "csp_WexNmys",
-      "searchable": 1,
-		      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
-      "changeable": 1
-	  
-    },
-            {
-      "key": "新6V",
-      "name": "🛩️新6V┃电影┃P2P",
-      "type": 3,
-      "api": "csp_WexXb6v",
-      "searchable": 1,
-		          "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
-      "changeable": 0
-    },
-
-        	
-
-
 
 
                   {"key":"天天弹幕版","name":"⛅️天天┃弹幕","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
