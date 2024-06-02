@@ -14,6 +14,47 @@
 
 
 
+  {
+        "key": "天天",
+        "name": "天天┃App",
+        "type": 3,
+        "api": "csp_TTian",
+        "playerType": 2,
+        "ext": "http://op.ysdqjs.cn"
+    },
+            {
+        "key": "Dygang",
+        "name": "电影港[边下边播]",
+        "type": 3,
+        "api": "csp_Dygang"
+    },
+        
+                    {
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
+    },
+        
+
+        	{
+      "key": "WexTiantianys",
+      "name": "🌤️明天┃秒播┃直连",
+      "type": 3,
+      "api": "csp_WexTiantianys",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+{
+      "key": "Wexshandian",
+      "name": "⚡️闪电┃秒播┃直连",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "changeable": 1
+    },
+
 
 
 	    
