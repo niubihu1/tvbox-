@@ -12,7 +12,7 @@
     },
     {
         "key": "csp_Juqq",
-        "name": "⭕┃剧圈┃影视",
+        "name": "⭕|剧圈|影视",
         "type": 3,
         "playerType": "2",
         "jar": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar",
@@ -21,7 +21,7 @@
 
     {
         "key": "WexTiantianys",
-        "name": "🌤️明天┃秒播┃直连",
+        "name": "🌤️明天|秒播|直连",
         "type": 3,
         "api": "csp_WexTiantianys",
         "searchable": 1,
@@ -31,7 +31,7 @@
 
     {
         "key": "Wexshandian",
-        "name": "⚡️闪电┃秒播┃直连",
+        "name": "⚡️闪电|秒播|直连",
         "type": 3,
         "api": "csp_Wexshandian",
         "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
         "key": "Wexbttwo",
-        "name": "🐸大鼻涕┃影视┃直连",
+        "name": "🐸大鼻涕|影视|直连",
         "type": 3,
         "api": "csp_Wexbttwo",
         "searchable": 1,
@@ -49,7 +49,7 @@
     },
     {
         "key": "csp_Nmys",
-        "name": "🎅‍伯伯┃影视┃直连",
+        "name": "🎅‍伯伯|影视|直连",
         "type": 3,
         "api": "csp_WexNmys",
         "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
         "key": "新6V",
-        "name": "🛩️新6V┃电影┃P2P",
+        "name": "🛩️新6V|电影|P2P",
         "type": 3,
         "api": "csp_WexXb6v",
         "searchable": 1,
@@ -69,7 +69,7 @@
 
     {
         "key": "天天",
-        "name": "天天┃App",
+        "name": "天天|App",
         "type": 3,
         "api": "csp_TTian",
         "playerType": 2,
@@ -84,7 +84,7 @@
 
     {
         "key": "haiwaikan",
-        "name": "🛝海看┃秒播┃采集",
+        "name": "🛝海看|秒播|采集",
         "type": 1,
         "api": "https://haiwaikan.com/api.php/provide/vod?",
         "searchable": 1,
@@ -96,7 +96,7 @@
 
     {
         "key": "天天弹幕版",
-        "name": "⛅️天天┃弹幕",
+        "name": "⛅️天天|弹幕",
         "type": 3,
         "api": "csp_TianTian",
         "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
         "key": "土豆网盘",
-        "name": "🥔土豆┃4K",
+        "name": "🥔土豆|4K",
         "type": 3,
         "api": "csp_Wobg",
         "quickSearch": 1,
@@ -179,7 +179,7 @@
     },
     {
         "key": "Wexconfig",
-        "name": "🐮配置┃中心🐮",
+        "name": "🐮配置|中心🐮",
         "type": 3,
         "api": "csp_Wexconfig",
         "searchable": 0,
@@ -192,7 +192,7 @@
     },
     {
         "key": "玩偶",
-        "name": "🥷玩偶┃网盘┃综合",
+        "name": "🥷玩偶|网盘|综合",
         "type": 3,
         "api": "csp_Wogg",
         "searchable": 1,
@@ -200,7 +200,7 @@
     },
     {
         "key": "土豆",
-        "name": "🥔土豆┃网盘┃综合",
+        "name": "🥔土豆|网盘|综合",
         "type": 3,
         "api": "csp_Wextudou",
         "searchable": 1,
@@ -209,7 +209,7 @@
     },
     {
         "key": "Wexyingchao",
-        "name": "🦜鸟巢┃网盘┃综合",
+        "name": "🦜鸟巢|网盘|综合",
         "type": 3,
         "api": "csp_Wexyingchao",
         "searchable": 1,
@@ -218,7 +218,7 @@
     },
     {
         "key": "Wexwanni",
-        "name": "🧑‍🏫玩你┃老哥┃阿里",
+        "name": "🧑‍🏫玩你|老哥|阿里",
         "type": 3,
         "api": "csp_Wexwanni",
         "searchable": 1,
@@ -227,7 +227,7 @@
     },
     {
         "key": "賤賤",
-        "name": "📓賤片┃盒子┃P2P",
+        "name": "📓賤片|盒子|P2P",
         "type": 3,
         "api": "csp_WexJianpian",
         "searchable": 1,
@@ -259,7 +259,7 @@
 
     {
         "key": "苹果",
-        "name": "🍎苹果┃无广",
+        "name": "🍎苹果|无广",
         "type": 3,
         "api": "csp_LiteApple",
         "searchable": 1,
@@ -269,7 +269,7 @@
 
     {
         "key": "白嫖",
-        "name": "👻白飘┃无广",
+        "name": "👻白飘|无广",
         "type": 3,
         "api": "csp_BaiPiao",
         "playerType": 2,
@@ -318,7 +318,7 @@
 
     {
         "key": "原创",
-        "name": "☀原创┃无广",
+        "name": "☀原创|无广",
         "type": 3,
         "api": "csp_YCyz",
         "timeout": 15,
@@ -357,7 +357,7 @@
 
     {
         "key": "酷看",
-        "name": "🦁1080P┃快看",
+        "name": "🦁1080P|快看",
         "type": 3,
         "api": "csp_Kkys",
         "searchable": 1,
@@ -366,7 +366,7 @@
     },
     {
         "key": "看看",
-        "name": "看看┃App",
+        "name": "看看|App",
         "type": 3,
         "api": "csp_KanKan",
         "searchable": 1,
