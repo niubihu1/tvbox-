@@ -13,6 +13,28 @@
     },
 
 
+        
+
+        {
+      "key": "WexTiantianys",
+      "name": "🌤️明天┃秒播┃直连",
+      "type": 3,
+      "api": "csp_WexTiantianys",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+{
+      "key": "Wexshandian",
+      "name": "⚡️闪电┃秒播┃直连",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+
+
 
   {
         "key": "天天",
