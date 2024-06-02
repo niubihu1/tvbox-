@@ -11,14 +11,14 @@
         "filterable": 1
     },
     {
-      "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-                "jar": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar",
-      "api": "csp_Juqq"
+        "key": "csp_Juqq",
+        "name": "⭕┃剧圈┃影视",
+        "type": 3,
+        "playerType": "2",
+        "jar": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar",
+        "api": "csp_Juqq"
     },
-        
+
     {
         "key": "WexTiantianys",
         "name": "🌤️明天┃秒播┃直连",
@@ -404,27 +404,27 @@
         "filterable": 0,
         "categories": ["连续剧", "动漫"]
     },
-{
-    "key": "drpy_js_小狗影院",
-    "name": "影视 | 小狗影院[js]",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
-},
-{
-    "key": "drpy_js_楚门影院",
-    "name": "影视 | 楚门影院[js]",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"
-},
-{
-    "key": "drpy_js_金曼影视",
-    "name": "影视 | 金曼影视[js]",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
-},
+    {
+        "key": "drpy_js_小狗影院",
+        "name": "影视 | 小狗影院[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
+    },
+    {
+        "key": "drpy_js_楚门影院",
+        "name": "影视 | 楚门影院[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"
+    },
+    {
+        "key": "drpy_js_金曼影视",
+        "name": "影视 | 金曼影视[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
+    },
 
     {
         "key": "drpy_js_荐片",
@@ -447,13 +447,13 @@
         "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
     },
-{
-    "key": "drpy_js_四个圈儿",
-    "name": "影视 | 四个圈儿[js]",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
-},
+    {
+        "key": "drpy_js_四个圈儿",
+        "name": "影视 | 四个圈儿[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
+    },
 
     {
         "key": "csp_Kuaikan",
