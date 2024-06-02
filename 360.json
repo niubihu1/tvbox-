@@ -13,7 +13,12 @@
     },
 
 
-        
+         {
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
+    }, 
 
         {
       "key": "WexTiantianys",
@@ -21,6 +26,7 @@
       "type": 3,
       "api": "csp_WexTiantianys",
       "searchable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
 
@@ -30,6 +36,7 @@
       "type": 3,
       "api": "csp_Wexshandian",
       "searchable": 1,
+	      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
 
@@ -59,6 +66,7 @@
       "type": 3,
       "api": "csp_Wexbttwo",
       "searchable": 1,
+			      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
         {
@@ -110,6 +118,7 @@
       "type": 3,
       "api": "csp_WexNmys",
       "searchable": 1,
+		      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
 	  
     },
@@ -119,6 +128,7 @@
       "type": 3,
       "api": "csp_WexXb6v",
       "searchable": 1,
+		          "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 0
     },
 
@@ -226,6 +236,7 @@
       "type": 3,
       "api": "csp_Wextudou",
       "searchable": 1,
+		      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
 	{
@@ -234,6 +245,7 @@
       "type": 3,
       "api": "csp_Wexyingchao",
       "searchable": 1,
+		      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
 	{
@@ -242,6 +254,7 @@
       "type": 3,
       "api": "csp_Wexwanni",
       "searchable": 1,
+		      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
     {
@@ -250,6 +263,7 @@
       "type": 3,
       "api": "csp_WexJianpian",
       "searchable": 1,
+	          "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt",
       "changeable": 1
     },
 
