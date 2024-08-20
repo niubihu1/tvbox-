@@ -3,7 +3,9 @@
 "storeHouse": 
 [
 {"sourceName":"❤️自用优选仓❤️","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/自用仓库.txt"},
-  {"sourceName":"俊佬仓库","sourceUrl":"https://raw.liucn.cc/box/dm.txt"},
-  {"sourceName":"云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"}
+{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/a.txt?ref=main"},
+{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/b.txt?ref=main"},
+{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/c.txt?ref=main"},
+{"sourceName":"📚️多多本地仓🍭不做韭菜🍭","sourceUrl":"clan://localhost/tvbox/duo.json"}
 ]
 }
