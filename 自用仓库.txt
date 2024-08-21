@@ -2,6 +2,10 @@
 {
     "urls": [
         {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "name": "🚀自用优选🚀"
+        },	      
+{
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀王二小线路"
         },		       
