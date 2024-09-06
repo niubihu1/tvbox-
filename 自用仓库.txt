@@ -1,4 +1,4 @@
-
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
 {
     "urls": [
         {
@@ -8,8 +8,15 @@
 {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀王二小线路"
-        },		       
-
+        },		               
+{
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀网盘线路"
+        }, 	
+        {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": "🚀One线路"
+        }, 		
         {
             "url": "http://ok321.top/ok",
             "name": "🚀OK线路"
@@ -17,13 +24,9 @@
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "🚀饭太硬线路"
-        },         
-{
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "🚀网盘线路"
-        }, 	
+        },          	
         {
-            "url": "https://bitbucket.org/xduo/libs/raw/master/index.json",
+            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
             "name": "🚀道长线路"
         },                    
         {
@@ -37,7 +40,7 @@
       {
             "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🚀小米线路"
-        },    
+        },    	
         {
             "url": "http://meowtv.top/tv",
             "name": "🚀喵影视线路"
@@ -75,9 +78,9 @@
             "name": "🚀月光宝盒"
         },  
         {
-            "url": "http://dp.sxtv.top:88/img",
-            "name": "🚀神仙线路"
-        },	
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "🚀荷城线路"
+        },  	
         {
             "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
             "name": "🚀茶余线路"
