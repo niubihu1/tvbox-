@@ -5,12 +5,8 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "🚀自用优选线路🚀"
         },	      
-{
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小线路"
-        },		               
-{
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+ {
+            "url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json",
             "name": "🚀网盘线路"
         }, 	
         {
@@ -26,7 +22,7 @@
             "name": "🚀饭太硬线路"
         },          	
         {
-            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长线路"
         },                    
         {
@@ -40,7 +36,11 @@
       {
             "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🚀小米线路"
-        },    	
+        },    
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小线路"
+        },		
         {
             "url": "http://meowtv.top/tv",
             "name": "🚀喵影视线路"
@@ -82,11 +82,11 @@
             "name": "🚀荷城线路"
         },  	
         {
-            "url":"https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
-            "name": "🚀茶余线路"
+            "url":"https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
+            "name": "🚀T4线路"
         },		
         {
-            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+            "url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0",
             "name": "🚀吾爱线路"
         },			
         {
