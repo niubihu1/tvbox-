@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "🚀自用优选线路🚀"
         },	      
  {
