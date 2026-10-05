@@ -1,14 +1,135 @@
-# 此多仓接口为自用 内容均来自网络搜集，如有冒犯侵权所属版权方，请联系删除。转载请注明出处
+// 此多仓接口由 auto_engine 本地家庭宽带巡检引擎实时测速生成 [家庭测速版]
 {
-"storeHouse": 
-[
-{"sourceName":"❤️自用优选仓❤️","sourceUrl":"https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/自用仓库.txt"},
-{"sourceName":"💚影视仓多仓🍭","sourceUrl":"https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"},
-{"sourceName":"💛小盒子多仓🍭","sourceUrl":"http://xhztv.top/dc"},
-{"sourceName":"❤️七星宝盒🍭","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
-{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
-{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
-{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
-{"sourceName":"📚️多多本地仓🍭不做韭菜🍭","sourceUrl":"clan://localhost/tvbox/duo.json"}
-]
+  "storeHouse": [
+    {
+      "sourceName": "❤️自用优选仓(28条精品线)❤️",
+      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
+    },
+    {
+      "sourceName": "💚影视仓官方多仓🍭",
+      "sourceUrl": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+    },
+    {
+      "sourceName": "💛小盒子精品多仓🍭",
+      "sourceUrl": "http://xhztv.top/dc"
+    },
+    {
+      "sourceName": "💜光影聚合多仓🍭",
+      "sourceUrl": "https://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "sourceName": "🧡游魂精品多仓🍭",
+      "sourceUrl": "https://www.iyouhun.com/tv/dc"
+    },
+    {
+      "sourceName": "💛拾光精选多仓🍭",
+      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"
+    },
+    {
+      "sourceName": "💙威龙影视多仓🍭",
+      "sourceUrl": "http://tv.weidonglong.com/ysc5.json"
+    },
+    {
+      "sourceName": "💜云星聚合多仓🍭",
+      "sourceUrl": "https://fastly.jsdelivr.net/gh/tv189ymail/ku2023@main/A1/ck.json"
+    },
+    {
+      "sourceName": "💚小微精选多仓🍭",
+      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json"
+    },
+    {
+      "sourceName": "💛刘备综合多仓🍭",
+      "sourceUrl": "https://raw.liucn.cc/box/dm.txt"
+    },
+    {
+      "sourceName": "💙新微精选多仓🍭",
+      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
+    },
+    {
+      "sourceName": "💜Kstore精选多仓🍭",
+      "sourceUrl": "https://12586.kstore.space/123.json"
+    },
+    {
+      "sourceName": "🚀全网精选源 [270ms]",
+      "sourceUrl": "http://z.qiqiv.cn/123.txt"
+    },
+    {
+      "sourceName": "🚀游魂多仓（备） [95ms]",
+      "sourceUrl": "https://www.iyouhun.com/tv/yh"
+    },
+    {
+      "sourceName": "🚀3.GitHub加速 [107ms]",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"
+    },
+    {
+      "sourceName": "🚀点播-临时多仓接口 [129ms]",
+      "sourceUrl": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+    }
+  ],
+  "urls": [
+    {
+      "name": "❤️自用优选仓(28条精品线)❤️",
+      "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
+    },
+    {
+      "name": "💚影视仓官方多仓🍭",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+    },
+    {
+      "name": "💛小盒子精品多仓🍭",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "💜光影聚合多仓🍭",
+      "url": "https://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "🧡游魂精品多仓🍭",
+      "url": "https://www.iyouhun.com/tv/dc"
+    },
+    {
+      "name": "💛拾光精选多仓🍭",
+      "url": "https://wget.la/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"
+    },
+    {
+      "name": "💙威龙影视多仓🍭",
+      "url": "http://tv.weidonglong.com/ysc5.json"
+    },
+    {
+      "name": "💜云星聚合多仓🍭",
+      "url": "https://fastly.jsdelivr.net/gh/tv189ymail/ku2023@main/A1/ck.json"
+    },
+    {
+      "name": "💚小微精选多仓🍭",
+      "url": "https://wget.la/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json"
+    },
+    {
+      "name": "💛刘备综合多仓🍭",
+      "url": "https://raw.liucn.cc/box/dm.txt"
+    },
+    {
+      "name": "💙新微精选多仓🍭",
+      "url": "https://wget.la/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
+    },
+    {
+      "name": "💜Kstore精选多仓🍭",
+      "url": "https://12586.kstore.space/123.json"
+    },
+    {
+      "name": "🚀全网精选源 [270ms]",
+      "url": "http://z.qiqiv.cn/123.txt"
+    },
+    {
+      "name": "🚀游魂多仓（备） [95ms]",
+      "url": "https://www.iyouhun.com/tv/yh"
+    },
+    {
+      "name": "🚀3.GitHub加速 [107ms]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"
+    },
+    {
+      "name": "🚀点播-临时多仓接口 [129ms]",
+      "url": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+    }
+  ]
 }
