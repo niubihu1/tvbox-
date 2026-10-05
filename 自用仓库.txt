@@ -1,101 +1,105 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+// 此多仓接口列表由 auto_engine 自动化巡检引擎每日实时测速生成
 {
     "urls": [
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
             "name": "🚀自用优选线路🚀"
-        },	      
- {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
-            "name": "🚀网盘线路"
-        }, 	
-        {
-            "url": "https://wget.la/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-            "name": "🚀One线路"
-        }, 		
-        {
-            "url": "http://ok321.top/ok",
-            "name": "🚀OK线路"
-        }, 		
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🚀饭太硬线路"
-        },          	
-        {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "🚀道长线路"
-        },                    
-        {
-            "url": "https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀香雅情线路"
-        }, 
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀潇洒线路"
-        },	
-      {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🚀小米线路"
-        },    
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小线路"
-        },		
-        {
-            "url": "http://meowtv.top/tv",
-            "name": "🚀喵影视线路"
-        },			
-        {
-            "url": "https://100km.top/0",
-            "name": "🚀Ray线路"
-        },				   					
-       {
-            "url": "http://ttkx.live:55/天天开心",
-            "name": "🚀开心线路"
-        }, 
-        {
-            "url": "http://肥猫.com",
-            "name": "🚀肥猫线路"
-        },   		
-        {
-            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🚀D佬魔改线路"
-        },   
-        {
-            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-            "name": "🚀欧歌线路"
-        }, 
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀南风线路"
-        }, 		
-        {
-            "url": "http://itvbox.cc/云星日记",
-            "name": "🚀云星日记"
-        }, 
-        {
-            "url": "http://ygbh.live/box.php",
-            "name": "🚀月光宝盒"
-        },  
-        {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🚀荷城线路"
-        },  	
-        {
-            "url":"https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
-            "name": "🚀T4线路"
-        },		
-        {
-            "url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0",
-            "name": "🚀吾爱线路"
-        },			
-        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀高天流云"
         },
         {
-            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "🚀业余线路"
-        }		
+            "url": "https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json",
+            "name": "🚀全网精选源 [84ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀全网精选源 [84ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+            "name": "🚀qist_tvbox_源 [87ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🚀qist_tvbox_源 [89ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+            "name": "🚀qist_tvbox_源 [90ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀全网精选源 [91ms]"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+            "name": "🚀东篱线路 [92ms]"
+        },
+        {
+            "url": "https://qist.ugigc.dpdns.org/jsm.json",
+            "name": "🚀另 [105ms]"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀全网精选源 [109ms]"
+        },
+        {
+            "url": "https://qist.wyfc.qzz.io/fty.json",
+            "name": "🚀全网精选源 [113ms]"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box",
+            "name": "🚀周J线路 [114ms]"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🚀全网精选源 [116ms]"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "🚀心魔线路 [120ms]"
+        },
+        {
+            "url": "https://www.252035.xyz/xs/tvbox/api.json",
+            "name": "🚀全网精选源 [157ms]"
+        },
+        {
+            "url": "http://ficfac.com/tv/2024.json",
+            "name": "🚀全网精选源 [158ms]"
+        },
+        {
+            "url": "http://rihou.cc:88/demoabc.json",
+            "name": "🚀VOX线路 [162ms]"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+            "name": "🚀全网精选源 [173ms]"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json",
+            "name": "🚀菠萝库 [178ms]"
+        },
+        {
+            "url": "http://47.120.41.246:8025/vip/vip/tv.json",
+            "name": "🚀全网精选源 [197ms]"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt",
+            "name": "🚀全网精选源 [199ms]"
+        },
+        {
+            "url": "https://cyao2q.github.io/files/m.json",
+            "name": "🚀cyao2q_files_源 [217ms]"
+        },
+        {
+            "url": "http://47.96.82.41:5188",
+            "name": "🚀小哥哥 [217ms]"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "🚀lizhe0326_源 [220ms]"
+        },
+        {
+            "url": "http://47.96.82.41:5188/",
+            "name": "🚀全网精选源 [224ms]"
+        }
     ]
 }
