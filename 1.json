@@ -41,16 +41,16 @@
       "ext": "https://wget.la/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py"
     },
     {
-      "key": "本地",
-      "name": "本地 • 视频",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
-    {
       "key": "独播影视",
       "name": "独播 • 影视",
       "type": 3,
       "api": "csp_Duboku"
+    },
+    {
+      "key": "本地",
+      "name": "本地 • 视频",
+      "type": 3,
+      "api": "csp_LocalFile"
     },
     {
       "key": "csp_Kuaikan",
@@ -344,14 +344,6 @@
       }
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "name": "📦③线┃秒播",
       "key": "AppV7Zjdr",
       "type": 3,
@@ -405,24 +397,6 @@
       "api": "csp_Feiyu"
     },
     {
-      "key": "push_agent",
-      "name": "🍭推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
-    },
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "秋霞|js",
-      "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
-    },
-    {
       "key": "童趣",
       "name": "童趣 • 儿童",
       "type": 3,
@@ -447,6 +421,32 @@
         "type": "rect",
         "ratio": 1.618
       }
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "🍭推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      }
+    },
+    {
+      "key": "drpy_js_秋霞影院",
+      "name": "秋霞|js",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
     },
     {
       "key": "视觉",
@@ -1121,6 +1121,39 @@
       ]
     },
     {
+      "key": "虎牙",
+      "name": "🐯虎牙采集",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
       "key": "电影天堂",
       "name": "影视 | 电影天堂",
       "type": 1,
@@ -1205,39 +1238,6 @@
         "电影/剧情片",
         "电影/悬疑片",
         "电影/纪录片"
-      ]
-    },
-    {
-      "key": "虎牙",
-      "name": "🐯虎牙采集",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
       ]
     },
     {

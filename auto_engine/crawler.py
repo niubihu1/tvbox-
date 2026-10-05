@@ -31,9 +31,12 @@ def is_valid_interface_url(url: str) -> bool:
     if "." not in domain_part:
         return False
     lower = url.lower()
-    for ext in EXCLUDE_EXTS:
-        if lower.endswith(ext):
-            return False
+    # 允许已知的伪装图片接口（如 easytv.jpg, easydc.jpg, 哈基米.png 等）
+    is_disguised_image = any(k in lower for k in ["easytv", "easydc", "哈基米", "easy09"])
+    if not is_disguised_image:
+        for ext in EXCLUDE_EXTS:
+            if lower.endswith(ext):
+                return False
     if any(k in lower for k in ["weixin.qq.com", "baidu.com/s", "pan.quark.cn", "drive.uc.cn", "github.com/login", "alipay.com"]):
         return False
     return True

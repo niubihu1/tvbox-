@@ -479,6 +479,7 @@ class TVBoxComposer:
             {"name": "💛小盒子精品多仓🍭", "url": "http://xhztv.top/dc"},
             {"name": "💜光影聚合多仓🍭", "url": "https://ztha.top/TVBox/GYCK.json"},
             {"name": "🧡游魂精品多仓🍭", "url": "https://www.iyouhun.com/tv/dc"},
+            {"name": "🧡EasyTV精选多仓🍭", "url": "https://easyzz.dpdns.org/easydc.jpg"},
             {"name": "💛拾光精选多仓🍭", "url": "https://wget.la/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"},
             {"name": "💙威龙影视多仓🍭", "url": "http://tv.weidonglong.com/ysc5.json"},
             {"name": "💜云星聚合多仓🍭", "url": "https://fastly.jsdelivr.net/gh/tv189ymail/ku2023@main/A1/ck.json"},

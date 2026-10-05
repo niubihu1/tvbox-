@@ -22,6 +22,10 @@
       "sourceUrl": "https://www.iyouhun.com/tv/dc"
     },
     {
+      "sourceName": "🧡EasyTV精选多仓🍭",
+      "sourceUrl": "https://easyzz.dpdns.org/easydc.jpg"
+    },
+    {
       "sourceName": "💛拾光精选多仓🍭",
       "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"
     },
@@ -50,20 +54,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀全网精选源 [270ms]",
+      "sourceName": "🚀全网精选源 [257ms]",
       "sourceUrl": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "sourceName": "🚀游魂多仓（备） [95ms]",
-      "sourceUrl": "https://www.iyouhun.com/tv/yh"
+      "sourceName": "🚀wuxierj_TVBox_源 [111ms]",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
     },
     {
-      "sourceName": "🚀3.GitHub加速 [107ms]",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"
-    },
-    {
-      "sourceName": "🚀点播-临时多仓接口 [129ms]",
-      "sourceUrl": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+      "sourceName": "🚀点播-长期多仓接口 [117ms]",
+      "sourceUrl": "https://www.ls660.com/TV/tvbox.json"
     }
   ],
   "urls": [
@@ -86,6 +86,10 @@
     {
       "name": "🧡游魂精品多仓🍭",
       "url": "https://www.iyouhun.com/tv/dc"
+    },
+    {
+      "name": "🧡EasyTV精选多仓🍭",
+      "url": "https://easyzz.dpdns.org/easydc.jpg"
     },
     {
       "name": "💛拾光精选多仓🍭",
@@ -116,20 +120,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀全网精选源 [270ms]",
+      "name": "🚀全网精选源 [257ms]",
       "url": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "name": "🚀游魂多仓（备） [95ms]",
-      "url": "https://www.iyouhun.com/tv/yh"
+      "name": "🚀wuxierj_TVBox_源 [111ms]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
     },
     {
-      "name": "🚀3.GitHub加速 [107ms]",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"
-    },
-    {
-      "name": "🚀点播-临时多仓接口 [129ms]",
-      "url": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+      "name": "🚀点播-长期多仓接口 [117ms]",
+      "url": "https://www.ls660.com/TV/tvbox.json"
     }
   ]
 }

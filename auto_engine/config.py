@@ -57,6 +57,9 @@ EXPANDED_SOURCES = [
     {"name": "菜妮丝接口", "type": "direct_config", "url": "https://tvbox.cainisi.cf"},
     # 欧歌
     {"name": "欧歌接口", "type": "direct_config", "url": "http://m.nxog.top/api.php?mz=xb&id=1&b=欧歌"},
+    # EasyTV 系列 (图片伪装主流源)
+    {"name": "EasyTV单仓", "type": "direct_config", "url": "https://easyzz.dpdns.org/easytv.jpg"},
+    {"name": "EasyTV多仓", "type": "direct_config", "url": "https://easyzz.dpdns.org/easydc.jpg"},
 ]
 
 # GitHub 加速镜像前缀池
