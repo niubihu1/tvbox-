@@ -15,7 +15,10 @@ venv/
 *.swp
 *.swo
 
-# Local caches & data
-auto_engine/data/single_sites_cache.json
+# Private engine & local assets
+auto_engine/
+开发记忆日志/
+*.bat
 *.log
+
 
