@@ -63,10 +63,17 @@ class TVBoxValidator:
         if isinstance(parsed, dict) and "sites" in parsed and isinstance(parsed["sites"], list):
             sites = parsed["sites"]
             sites_count = len(sites)
+            spider = parsed.get("spider", "")
+            report["spider"] = spider
             if sites_count > 0:
                 report["is_alive"] = True
                 report["type"] = "single"
                 report["sites_count"] = sites_count
+                report["raw_data"] = {
+                    "sites": sites,
+                    "spider": spider,
+                    "wallpaper": parsed.get("wallpaper")
+                }
                 # 环境自适应评分模型 (满分 100)
                 import os
                 is_ci = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"

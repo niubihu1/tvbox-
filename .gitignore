@@ -14,3 +14,8 @@ venv/
 .idea/
 *.swp
 *.swo
+
+# Local caches & data
+auto_engine/data/single_sites_cache.json
+*.log
+

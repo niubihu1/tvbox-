@@ -1,0 +1,612 @@
+{
+  "total_candidates": 6375,
+  "selected_count": 100,
+  "quotas": {
+    "online": 40,
+    "pan": 35,
+    "cms": 15,
+    "special": 10
+  },
+  "top_consensus_sites": [
+    {
+      "name": "🌻荐片┃VOX🌻",
+      "category": "online",
+      "frequency": 197,
+      "api": "csp_Jianpian"
+    },
+    {
+      "name": "👓视觉┃BPQ",
+      "category": "pan",
+      "frequency": 197,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "❤️┃爱看┃2K",
+      "category": "pan",
+      "frequency": 193,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "🧩玩偶[4K]",
+      "category": "pan",
+      "frequency": 190,
+      "api": "csp_Wogg"
+    },
+    {
+      "name": "🏭┆厂长┆影视",
+      "category": "pan",
+      "frequency": 168,
+      "api": "csp_CZ"
+    },
+    {
+      "name": "⚽310┃看球",
+      "category": "special",
+      "frequency": 167,
+      "api": "https://wget.la/https://p.ntnas.top/http"
+    },
+    {
+      "name": "💢7itv┃综艺",
+      "category": "cms",
+      "frequency": 131,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "🎦酒吧┃影视",
+      "category": "special",
+      "frequency": 96,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "🍚耐看(XBPQ)",
+      "category": "cms",
+      "frequency": 92,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "✨低端短剧✨乐哥甄选✨",
+      "category": "special",
+      "frequency": 88,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "😹易搜┃搜索",
+      "category": "pan",
+      "frequency": 79,
+      "api": "csp_YiSo"
+    },
+    {
+      "name": "🤡本山┃大全",
+      "category": "special",
+      "frequency": 74,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "💢茶 杯 狐",
+      "category": "cms",
+      "frequency": 69,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "云搜弹幕┃🍭",
+      "category": "pan",
+      "frequency": 64,
+      "api": "csp_PanSearch"
+    },
+    {
+      "name": "6080电影(XBPQ)",
+      "category": "special",
+      "frequency": 64,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "急救 • 教学",
+      "category": "online",
+      "frequency": 61,
+      "api": "csp_FirstAid"
+    },
+    {
+      "name": "🍚555(XBPQ)",
+      "category": "cms",
+      "frequency": 52,
+      "api": "csp_XBPQ"
+    },
+    {
+      "name": "酷云77",
+      "category": "online",
+      "frequency": 46,
+      "api": "py_kunyu77"
+    },
+    {
+      "name": "📂至臻[4K]",
+      "category": "special",
+      "frequency": 46,
+      "api": "csp_FishCloud"
+    },
+    {
+      "name": "🐵┃师兄┃影视",
+      "category": "pan",
+      "frequency": 41,
+      "api": "csp_AppV6"
+    },
+    {
+      "name": "☁️蜡笔┃高峰不卡*网盘4K",
+      "category": "pan",
+      "frequency": 41,
+      "api": "csp_Duopan"
+    },
+    {
+      "name": "👀快看",
+      "category": "online",
+      "frequency": 40,
+      "api": "csp_Kuaikan"
+    },
+    {
+      "name": "盘搜(网盘搜索)",
+      "category": "pan",
+      "frequency": 40,
+      "api": "csp_PanSou"
+    },
+    {
+      "name": "小学 • 课堂",
+      "category": "special",
+      "frequency": 38,
+      "api": "csp_Bili"
+    },
+    {
+      "name": "本地 • 视频",
+      "category": "online",
+      "frequency": 37,
+      "api": "csp_LocalFile"
+    },
+    {
+      "name": "独播 • 影视",
+      "category": "online",
+      "frequency": 37,
+      "api": "csp_Duboku"
+    },
+    {
+      "name": "少儿 • 教育",
+      "category": "special",
+      "frequency": 37,
+      "api": "csp_Bili"
+    },
+    {
+      "name": "初中 • 课堂",
+      "category": "special",
+      "frequency": 37,
+      "api": "csp_Bili"
+    },
+    {
+      "name": "高中 • 课堂",
+      "category": "special",
+      "frequency": 37,
+      "api": "csp_Bili"
+    },
+    {
+      "name": "热播 • APP",
+      "category": "online",
+      "frequency": 35,
+      "api": "csp_AppRJ"
+    },
+    {
+      "name": "🔎┃阿里┃七夜",
+      "category": "pan",
+      "frequency": 34,
+      "api": "csp_Dovx"
+    },
+    {
+      "name": "🛴手机┃推送",
+      "category": "pan",
+      "frequency": 34,
+      "api": "csp_Push"
+    },
+    {
+      "name": "世界 • 听书",
+      "category": "online",
+      "frequency": 33,
+      "api": "csp_TingShijie"
+    },
+    {
+      "name": "💮樱花┃动漫",
+      "category": "online",
+      "frequency": 33,
+      "api": "csp_Ying"
+    },
+    {
+      "name": "🍭┃配置┃中心",
+      "category": "pan",
+      "frequency": 33,
+      "api": "csp_Config"
+    },
+    {
+      "name": "双星 • 4K",
+      "category": "pan",
+      "frequency": 33,
+      "api": "csp_ShuangXing"
+    },
+    {
+      "name": "百度",
+      "category": "cms",
+      "frequency": 33,
+      "api": "https://api.apibdzy.com/api.php/provide/"
+    },
+    {
+      "name": "剧圈 • APP",
+      "category": "online",
+      "frequency": 32,
+      "api": "csp_App99"
+    },
+    {
+      "name": "天堂 • APP",
+      "category": "online",
+      "frequency": 32,
+      "api": "csp_AppDrama"
+    },
+    {
+      "name": "苹果 • APP",
+      "category": "online",
+      "frequency": 32,
+      "api": "csp_AppDrama"
+    },
+    {
+      "name": "🤣┃动漫┃巴士",
+      "category": "online",
+      "frequency": 32,
+      "api": "csp_Dm84"
+    },
+    {
+      "name": "华谊 • APP",
+      "category": "pan",
+      "frequency": 32,
+      "api": "csp_AppDrama"
+    },
+    {
+      "name": "☀金牌🔹备用",
+      "category": "online",
+      "frequency": 31,
+      "api": "csp_Jpys"
+    },
+    {
+      "name": "🐾日本┃动漫",
+      "category": "online",
+      "frequency": 31,
+      "api": "csp_Anime1"
+    },
+    {
+      "name": "🔥🔥瓜子",
+      "category": "online",
+      "frequency": 31,
+      "api": "csp_Gz360"
+    },
+    {
+      "name": "📚少儿┃教育📚",
+      "category": "special",
+      "frequency": 30,
+      "api": "csp_BiliGuard"
+    },
+    {
+      "name": "📚小学┃课堂📚",
+      "category": "special",
+      "frequency": 30,
+      "api": "csp_BiliGuard"
+    },
+    {
+      "name": "📚初中┃课堂📚",
+      "category": "special",
+      "frequency": 30,
+      "api": "csp_BiliGuard"
+    },
+    {
+      "name": "📚高中┃课堂📚",
+      "category": "special",
+      "frequency": 30,
+      "api": "csp_BiliGuard"
+    },
+    {
+      "name": "多多 • 4K",
+      "category": "pan",
+      "frequency": 29,
+      "api": "csp_PanWebShare"
+    },
+    {
+      "name": "🌻虎斑4K🌻",
+      "category": "pan",
+      "frequency": 29,
+      "api": "csp_PanWebShare"
+    },
+    {
+      "name": "🍭推送",
+      "category": "online",
+      "frequency": 28,
+      "api": "csp_Push"
+    },
+    {
+      "name": "骚火 • 影视",
+      "category": "online",
+      "frequency": 28,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "name": "🎀异界┃动漫",
+      "category": "online",
+      "frequency": 28,
+      "api": "csp_Ysj"
+    },
+    {
+      "name": "快映 • 4K",
+      "category": "pan",
+      "frequency": 28,
+      "api": "csp_PanWebShare"
+    },
+    {
+      "name": "🧲新6V┃磁力",
+      "category": "online",
+      "frequency": 27,
+      "api": "csp_SixV"
+    },
+    {
+      "name": "王子 • APP",
+      "category": "online",
+      "frequency": 26,
+      "api": "csp_AppGet"
+    },
+    {
+      "name": "1905 • 影视",
+      "category": "online",
+      "frequency": 26,
+      "api": "csp_Web1905"
+    },
+    {
+      "name": "🐤┆咕咕┆动漫",
+      "category": "online",
+      "frequency": 25,
+      "api": "csp_AppGet"
+    },
+    {
+      "name": "马猴 • APP",
+      "category": "online",
+      "frequency": 24,
+      "api": "csp_App3Q"
+    },
+    {
+      "name": "✅忍者┃影视",
+      "category": "online",
+      "frequency": 24,
+      "api": "csp_AppRZ"
+    },
+    {
+      "name": "盘搜弹幕┃🍭",
+      "category": "pan",
+      "frequency": 24,
+      "api": "csp_PanSou"
+    },
+    {
+      "name": "🔍找资源🦊",
+      "category": "pan",
+      "frequency": 24,
+      "api": "csp_Zhaozy"
+    },
+    {
+      "name": "⭕┃韩圈 ┃APP",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_Hxq"
+    },
+    {
+      "name": "橘汁 • APP",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_AppDrama"
+    },
+    {
+      "name": "蓝鹰 • APP",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_AppQi"
+    },
+    {
+      "name": "茉莉 • APP",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_AppGet"
+    },
+    {
+      "name": "呦呦 • DJ",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_Djuu"
+    },
+    {
+      "name": "蜻蜓 • FM",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_QingtingFM"
+    },
+    {
+      "name": "推送",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_PushGuard"
+    },
+    {
+      "name": "📦③线┃秒播",
+      "category": "online",
+      "frequency": 23,
+      "api": "csp_AppV7Amns"
+    },
+    {
+      "name": "戏曲 • 多多",
+      "category": "pan",
+      "frequency": 23,
+      "api": "csp_AppLY"
+    },
+    {
+      "name": "🧲迅雷吧",
+      "category": "pan",
+      "frequency": 23,
+      "api": "csp_Xunlei8"
+    },
+    {
+      "name": "非凡┃采集",
+      "category": "cms",
+      "frequency": 23,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vo"
+    },
+    {
+      "name": "一起 • APP",
+      "category": "online",
+      "frequency": 22,
+      "api": "csp_AppYQK"
+    },
+    {
+      "name": "蓝鸟 • APP",
+      "category": "online",
+      "frequency": 22,
+      "api": "csp_AppQi"
+    },
+    {
+      "name": "魔方 • APP",
+      "category": "online",
+      "frequency": 22,
+      "api": "csp_AppGet"
+    },
+    {
+      "name": "飞娱 • 影视",
+      "category": "online",
+      "frequency": 22,
+      "api": "csp_Feiyu"
+    },
+    {
+      "name": "迅雷吧 • 磁力",
+      "category": "pan",
+      "frequency": 22,
+      "api": "csp_Xunlei8"
+    },
+    {
+      "name": "秋霞|js",
+      "category": "online",
+      "frequency": 21,
+      "api": "https://wget.la/https://raw.githubuserco"
+    },
+    {
+      "name": "移动 • 4K",
+      "category": "pan",
+      "frequency": 21,
+      "api": "csp_Yidong4K"
+    },
+    {
+      "name": "🔥┃设置Token",
+      "category": "pan",
+      "frequency": 21,
+      "api": "csp_KungFu404"
+    },
+    {
+      "name": "人人 • 4K",
+      "category": "pan",
+      "frequency": 20,
+      "api": "csp_RenRen"
+    },
+    {
+      "name": "即刻 • 4K",
+      "category": "pan",
+      "frequency": 20,
+      "api": "csp_Jike"
+    },
+    {
+      "name": "影视 | 电影天堂",
+      "category": "cms",
+      "frequency": 20,
+      "api": "http://caiji.dyttzyapi.com/api.php/provi"
+    },
+    {
+      "name": "🎀索尼采集",
+      "category": "cms",
+      "frequency": 20,
+      "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "🕹️淘片┃采集",
+      "category": "cms",
+      "frequency": 20,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json"
+    },
+    {
+      "name": "🐯虎牙采集",
+      "category": "cms",
+      "frequency": 20,
+      "api": "https://www.huyaapi.com/api.php/provide/"
+    },
+    {
+      "name": "影视|js",
+      "category": "online",
+      "frequency": 19,
+      "api": "https://wget.la/https://raw.githubuserco"
+    },
+    {
+      "name": "✨哔嘀┃弹幕",
+      "category": "online",
+      "frequency": 19,
+      "api": "csp_Bdys"
+    },
+    {
+      "name": "指南 • 4K",
+      "category": "pan",
+      "frequency": 19,
+      "api": "csp_4KZhinan"
+    },
+    {
+      "name": "阿里 • 云盘",
+      "category": "pan",
+      "frequency": 19,
+      "api": "csp_PanAli"
+    },
+    {
+      "name": "UC • 网盘",
+      "category": "pan",
+      "frequency": 19,
+      "api": "csp_PanUC"
+    },
+    {
+      "name": "百度 • 网盘",
+      "category": "pan",
+      "frequency": 19,
+      "api": "csp_PanBaidu"
+    },
+    {
+      "name": "🥗┃非凡┃资源",
+      "category": "cms",
+      "frequency": 19,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vo"
+    },
+    {
+      "name": "🐉┃索尼┃高清",
+      "category": "cms",
+      "frequency": 19,
+      "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "闪电 • 4K",
+      "category": "pan",
+      "frequency": 18,
+      "api": "csp_PanWebShare"
+    },
+    {
+      "name": "种子 • 4K",
+      "category": "pan",
+      "frequency": 18,
+      "api": "csp_SeedHub"
+    },
+    {
+      "name": "🅱哔哔┃合集🅱",
+      "category": "special",
+      "frequency": 18,
+      "api": "csp_BiliGuard"
+    },
+    {
+      "name": "🅱️相声小品",
+      "category": "special",
+      "frequency": 18,
+      "api": "csp_Bili"
+    }
+  ]
+}

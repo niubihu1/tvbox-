@@ -18,6 +18,7 @@ DATA_DIR = ROOT_DIR / "auto_engine" / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 CANDIDATES_FILE = DATA_DIR / "candidates.json"
 ALIVE_FILE = DATA_DIR / "alive_results.json"
+SITES_CACHE_FILE = DATA_DIR / "single_sites_cache.json"
 
 def run_pipeline(crawl: bool = True, check: bool = True, rebuild: bool = True):
     print("=" * 60)
@@ -51,11 +52,30 @@ def run_pipeline(crawl: bool = True, check: bool = True, rebuild: bool = True):
         lightweight_alive = [{k: v for k, v in r.items() if k != "raw_data"} for r in alive_results]
         with open(ALIVE_FILE, "w", encoding="utf-8") as fp:
             json.dump(lightweight_alive, fp, ensure_ascii=False, indent=2)
+            
+        # 持久化单仓站点缓存以供离线重构使用
+        single_sites = {r["url"]: r.get("raw_data") for r in alive_results if r["type"] == "single" and r.get("raw_data")}
+        try:
+            with open(SITES_CACHE_FILE, "w", encoding="utf-8") as fp:
+                json.dump(single_sites, fp, ensure_ascii=False)
+        except Exception:
+            pass
+            
         print(f"[+] 存活结果(轻量摘要)已持久化至: {ALIVE_FILE} (仅约 {ALIVE_FILE.stat().st_size / 1024:.1f} KB)", flush=True)
     else:
         if ALIVE_FILE.exists():
             with open(ALIVE_FILE, "r", encoding="utf-8") as fp:
                 alive_results = json.load(fp)
+            # 恢复单仓站点数据
+            if SITES_CACHE_FILE.exists():
+                try:
+                    with open(SITES_CACHE_FILE, "r", encoding="utf-8") as fp:
+                        cached_sites = json.load(fp)
+                        for r in alive_results:
+                            if r.get("url") in cached_sites:
+                                r["raw_data"] = cached_sites[r["url"]]
+                except Exception:
+                    pass
             print(f"[*] 从缓存载入存活接口: {len(alive_results)} 个")
         else:
             print("[!] 未找到存活缓存，执行测活...")
