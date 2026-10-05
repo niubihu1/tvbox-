@@ -1298,6 +1298,26 @@
       }
     },
     {
+      "key": "xbpq_蓝光影院",
+      "name": "💢蓝光┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "主页url": "https://www.languang.pro/",
+        "二次截取": "<ul class=\"hl-vod-list clearfix\"&&</ul",
+        "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2&&</li",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
+        "线路标题": "alt=\"&&\"",
+        "分类url": "https://www.languang.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$20"
+      }
+    },
+    {
       "key": "没事影院",
       "name": "没事┃蓝光",
       "type": 3,
@@ -1371,36 +1391,6 @@
       }
     },
     {
-      "key": "xbpq_蓝光影院",
-      "name": "💢蓝光┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "主页url": "https://www.languang.pro/",
-        "二次截取": "<ul class=\"hl-vod-list clearfix\"&&</ul",
-        "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2&&</li",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
-        "线路标题": "alt=\"&&\"",
-        "分类url": "https://www.languang.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$20"
-      }
-    },
-    {
-      "key": "csp_biubiu_蓝光影院",
-      "name": "🥒蓝光影院(XB)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-    },
-    {
       "key": "蓝光官采",
       "name": "❤猫咪",
       "type": 1,
@@ -1447,6 +1437,16 @@
         "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
       }
+    },
+    {
+      "key": "csp_biubiu_蓝光影院",
+      "name": "🥒蓝光影院(XB)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
     {
       "key": "bfzy_暴风",

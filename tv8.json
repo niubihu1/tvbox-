@@ -54,16 +54,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀全网精选源 [257ms]",
+      "sourceName": "🚀全网精选源 [409ms]",
       "sourceUrl": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "sourceName": "🚀wuxierj_TVBox_源 [111ms]",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
+      "sourceName": "🚀全网精选源 [31ms]",
+      "sourceUrl": "http://bobohome.ignorelist.com:20247/"
     },
     {
-      "sourceName": "🚀点播-长期多仓接口 [117ms]",
-      "sourceUrl": "https://www.ls660.com/TV/tvbox.json"
+      "sourceName": "🚀游魂多仓（备） [31ms]",
+      "sourceUrl": "https://www.iyouhun.com/tv/yh"
     }
   ],
   "urls": [
@@ -120,16 +120,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀全网精选源 [257ms]",
+      "name": "🚀全网精选源 [409ms]",
       "url": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "name": "🚀wuxierj_TVBox_源 [111ms]",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"
+      "name": "🚀全网精选源 [31ms]",
+      "url": "http://bobohome.ignorelist.com:20247/"
     },
     {
-      "name": "🚀点播-长期多仓接口 [117ms]",
-      "url": "https://www.ls660.com/TV/tvbox.json"
+      "name": "🚀游魂多仓（备） [31ms]",
+      "url": "https://www.iyouhun.com/tv/yh"
     }
   ]
 }
