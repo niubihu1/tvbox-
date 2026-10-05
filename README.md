@@ -1,10 +1,10 @@
 <div align="center">
 
-# 📺 TVBox 全网共识·百源旗舰接口
+# 🐯 牛虎影视 ┃ 豆瓣热播·旗舰接口
 ### ⚡ 大数据共识优选 ｜ 💎 4K原画视界 ｜ 🛡️ 纯净零广告 ｜ 🚀 毫秒级秒播
 
 [![Active](https://img.shields.io/badge/%E6%8E%A5%E5%8F%A3%E7%8A%B6%E6%80%81-%E9%AB%98%E9%80%9F%E5%AD%98%E6%B4%BB-brightgreen?style=for-the-badge&logo=statuspage)](https://github.com/niubihu1/tvbox)
-[![Sites](https://img.shields.io/badge/%E7%B2%BE%E9%80%89%E7%AB%99%E6%BA%90-100%2B%20%E9%BB%84%E9%87%91%E9%85%8D%E6%AF%94-blue?style=for-the-badge&logo=speedtest)](https://github.com/niubihu1/tvbox)
+[![Sites](https://img.shields.io/badge/%E7%B2%BE%E9%80%89%E7%AB%99%E6%BA%90-135%2B%20%E9%BB%84%E9%87%91%E9%85%8D%E6%AF%94-blue?style=for-the-badge&logo=speedtest)](https://github.com/niubihu1/tvbox)
 [![Quality](https://img.shields.io/badge/%E7%94%BB%E8%B4%A8%E6%A0%87%E5%87%86-4K%20UHD%20%2F%20%E8%93%9D%E5%85%89%E5%8E%9F%E7%94%BB-orange?style=for-the-badge&logo=youtube)](https://github.com/niubihu1/tvbox)
 [![Pure](https://img.shields.io/badge/%E5%87%80%E7%BD%91%E6%8B%A6%E6%88%AA-14%E6%9D%A1%E5%BC%BA%E5%8C%96%E8%BF%87%E6%BB%A4-success?style=for-the-badge&logo=adblock)](https://github.com/niubihu1/tvbox)
 [![Device](https://img.shields.io/badge/%E7%BB%88%E7%AB%AF%E9%80%82%E9%85%8D-%E7%94%B5%E8%A7%86%20%2B%20%E6%89%8B%E6%9C%BA%20%2B%20%E5%B9%B3%E6%9D%BF-purple?style=for-the-badge&logo=android)](https://github.com/niubihu1/tvbox)
@@ -23,9 +23,9 @@
 ## 🚀 一键订阅地址
 
 > [!TIP]
-> **推荐首选「单仓优选接口」**：经过大数据调优，开箱即用，分类清晰，速度最快，适合 99% 的用户日常观影。
+> **推荐首选「单仓优选接口」**：开机即见豆瓣热搜推荐海报墙，涵盖 135 个全网顶级优质播放源，分类清晰，速度最快，适合 99% 的用户日常观影。
 
-### 1️⃣ 单仓优选接口（100+ 顶级源·强烈推荐 ⭐⭐⭐⭐⭐）
+### 1️⃣ 🐯 牛虎影视 ┃ 豆瓣热播单仓接口（135+ 顶级源·强烈推荐 ⭐⭐⭐⭐⭐）
 
 * **国内极速加速直链（推荐，电视端直接填入）**：
   ```text

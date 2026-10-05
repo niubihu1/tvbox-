@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
-            "name": "🚀自用优选线路🚀"
+            "name": "🐯牛虎影视 ┃ 豆瓣热播"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
