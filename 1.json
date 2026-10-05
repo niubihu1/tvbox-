@@ -10,7 +10,217 @@
       "api": "csp_Douban",
       "searchable": 0,
       "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "homePage": "热门电影,热播剧集,热门动漫,热播综艺,电影筛选,电视筛选,电影榜单,电视剧榜单"
+      }
+    },
+    {
+      "key": "ConfigCenter",
+      "name": "🅿网盘配置中心 ┃ 扫码绑定",
+      "type": 3,
+      "api": "csp_FishConfig",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "wogg",
+      "name": "👽玩偶哥哥 ┃ 4K原画",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
+          "https://wogg.link"
+        ]
+      }
+    },
+    {
+      "key": "muou",
+      "name": "🧸木偶哥哥 ┃ 4K秒播",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.muoua.top",
+          "https://333.333291.xyz",
+          "https://123.666291.xyz"
+        ]
+      }
+    },
+    {
+      "key": "zhizhen",
+      "name": "📂至臻 ┃ 4K极速",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://mihdr.top",
+          "https://zhizhenpan.com"
+        ]
+      }
+    },
+    {
+      "key": "labi",
+      "name": "☁️蜡笔 ┃ 4K专线",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "http://xiaocgeg.top",
+          "http://xiaocge.fun"
+        ]
+      }
+    },
+    {
+      "key": "fishps",
+      "name": "🐟鱼鱼盘搜 ┃ 四盘聚合",
+      "type": 3,
+      "api": "csp_FishPs",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppV7Fz",
+      "name": "嗷呜①线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Fz",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Xy",
+      "name": "嗷呜②线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xy",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Zjdr",
+      "name": "嗷呜③线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Zjdr",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Xyz",
+      "name": "嗷呜④线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xyz",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Xnm",
+      "name": "嗷呜⑤线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xnm",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Mtq",
+      "name": "嗷呜⑥线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Mtq",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Llq",
+      "name": "嗷呜⑦线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Llq",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Xsz",
+      "name": "嗷呜⑧线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xsz",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Xhr",
+      "name": "嗷呜⑨线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xhr",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7Dsx",
+      "name": "嗷呜⑩线 ┃ 秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Dsx",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "Guazi",
+      "name": "嗷呜瓜子 ┃ 秒播",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Guazi",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "CZ",
@@ -145,127 +355,6 @@
       "filterable": 1,
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
       "ext": "https://dm84.net"
-    },
-    {
-      "key": "Guazi",
-      "name": "嗷呜瓜子 ┃ 秒播",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Guazi",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Fz",
-      "name": "嗷呜①线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Fz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Xy",
-      "name": "嗷呜②线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xy",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Zjdr",
-      "name": "嗷呜③线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Zjdr",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Xyz",
-      "name": "嗷呜④线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xyz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Xnm",
-      "name": "嗷呜⑤线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xnm",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Mtq",
-      "name": "嗷呜⑥线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Mtq",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Llq",
-      "name": "嗷呜⑦线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Llq",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Xsz",
-      "name": "嗷呜⑧线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xsz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Xhr",
-      "name": "嗷呜⑨线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Xhr",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7Dsx",
-      "name": "嗷呜⑩线 ┃ 秒播",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Dsx",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "热播影视",
@@ -826,62 +915,6 @@
       },
       "timeout": 120,
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶 • 4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.wogg.live"
-    },
-    {
-      "key": "至臻",
-      "name": "📂至臻[4K]",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://zhizhenpan.fun"
-        ]
-      }
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "☁️蜡笔┃高峰不卡*网盘4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "http://xiaocgeg.top",
-          "http://xiaocge.fun",
-          "https://duopan.fun"
-        ]
-      }
-    },
-    {
-      "key": "木偶哥哥",
-      "name": "🧸┃木偶┃哥哥",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666291.xyz"
-        ]
-      }
     },
     {
       "key": "易搜",
@@ -1915,15 +1948,6 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "88看球",
