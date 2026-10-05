@@ -19,8 +19,7 @@
       "key": "ConfigCenter",
       "name": "🅿网盘配置中心 ┃ 扫码绑定",
       "type": 3,
-      "api": "csp_FishConfig",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "api": "csp_Config",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -30,15 +29,15 @@
       "name": "👽玩偶哥哥 ┃ 4K原画",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
-          "https://wogg.xxooo.cf",
+          "https://www.wogg.link",
+          "https://www.wogg.live",
           "https://woggpan.888484.xyz",
-          "https://wogg.link"
+          "https://wogg.xxooo.cf"
         ]
       }
     },
@@ -46,16 +45,15 @@
       "key": "muou",
       "name": "🧸木偶哥哥 ┃ 4K秒播",
       "type": 3,
-      "api": "csp_FishCloud",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
-          "https://www.muoua.top",
-          "https://333.333291.xyz",
-          "https://123.666291.xyz"
+          "https://123.666291.xyz",
+          "https://666291.xyz",
+          "https://www.muoua.top"
         ]
       }
     },
@@ -63,14 +61,14 @@
       "key": "zhizhen",
       "name": "📂至臻 ┃ 4K极速",
       "type": 3,
-      "api": "csp_FishCloud",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
           "https://mihdr.top",
+          "https://zhizhenpan.fun",
           "https://zhizhenpan.com"
         ]
       }
@@ -79,24 +77,77 @@
       "key": "labi",
       "name": "☁️蜡笔 ┃ 4K专线",
       "type": 3,
-      "api": "csp_FishCloud",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
           "http://xiaocgeg.top",
-          "http://xiaocge.fun"
+          "http://xiaocge.fun",
+          "https://duopan.fun"
         ]
       }
     },
     {
-      "key": "fishps",
-      "name": "🐟鱼鱼盘搜 ┃ 四盘聚合",
+      "key": "shandian",
+      "name": "⚡闪电 ┃ 4K秒播",
       "type": 3,
-      "api": "csp_FishPs",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Fish.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "http://shandian.blog",
+          "http://sd.shandian.fun"
+        ]
+      }
+    },
+    {
+      "key": "huajuan",
+      "name": "🌸花卷 ┃ 4K专线",
+      "type": 3,
+      "api": "csp_PanWebShareHJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top",
+          "https://www.huajuanpan.com"
+        ]
+      }
+    },
+    {
+      "key": "zhongzi",
+      "name": "🌱种子 ┃ 4K聚合",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://sidhub.cc",
+          "https://seedhub.fun"
+        ]
+      }
+    },
+    {
+      "key": "aipan",
+      "name": "爱盼 ┃ 4K大片",
+      "type": 3,
+      "api": "csp_AiPan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yidong",
+      "name": "移动 ┃ 4K极速",
+      "type": 3,
+      "api": "csp_Yidong4K",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -339,21 +390,24 @@
       "key": "csp_Ying",
       "name": "💮樱花┃动漫",
       "type": 3,
-      "api": "csp_Ying",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.yinghuacd.com/"
+      }
     },
     {
       "key": "csp_Dm84",
       "name": "🤣┃动漫┃巴士",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
       "ext": "https://dm84.net"
     },
     {
@@ -416,21 +470,27 @@
       "key": "Anime1",
       "name": "🐾日本┃动漫",
       "type": 3,
-      "api": "csp_Anime1",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://anime1.me/"
+      }
     },
     {
       "key": "Ysj",
       "name": "🎀异界┃动漫",
       "type": 3,
-      "api": "csp_Ysj",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://www.agemys.org/"
+      }
     },
     {
       "key": "王子",
@@ -601,7 +661,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "主页url": "https://www.3ayy.com",
         "简介": "module-info-introduction\">&&</p>",
@@ -920,21 +979,19 @@
       "key": "易搜",
       "name": "😹易搜┃搜索",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "filterable": 1
     },
     {
       "key": "盘Se弹幕版",
       "name": "云搜弹幕┃🍭",
       "type": 3,
-      "api": "csp_PanSearch",
+      "api": "csp_Pan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
       "ext": {
         "danmu": true
       }
@@ -943,21 +1000,19 @@
       "key": "Zhaozy",
       "name": "🔍找资源🦊",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "filterable": 1
     },
     {
       "key": "csp_七夜",
       "name": "🔎┃阿里┃七夜",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_PanAli",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "filterable": 1
     },
     {
       "key": "阿里云盘",
@@ -1203,11 +1258,10 @@
       "key": "AList",
       "name": "AList",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_Pan123",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "filterable": 1
     },
     {
       "key": "半日99",
@@ -1228,11 +1282,10 @@
       "key": "酷看弹幕版",
       "name": "🐟酷看蓝光",
       "type": 3,
-      "api": "csp_Kkys",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+      "filterable": 1
     },
     {
       "key": "雨见视频",
@@ -1793,15 +1846,14 @@
       "key": "YunZhenXiang",
       "name": "秒播｜极速",
       "type": 3,
-      "api": "csp_YunZhenXiang",
+      "api": "csp_Duboku",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
-      },
-      "jar": "https://file.ljcdn.com/psd-sinan-file/prod/appeal_evidence/BDAAFD03DC414893BF8096757C0F5C90/HRspYO.jpg"
+      }
     },
     {
       "key": "csp_xml_无尽",
