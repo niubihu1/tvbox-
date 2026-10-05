@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐯 牛虎影视 ┃ 豆瓣热播·旗舰接口
+# 🐯 牛虎影视 ┃旗舰接口
 ### ⚡ 大数据共识优选 ｜ 💎 4K原画视界 ｜ 🛡️ 纯净零广告 ｜ 🚀 毫秒级秒播
 
 [![Active](https://img.shields.io/badge/%E6%8E%A5%E5%8F%A3%E7%8A%B6%E6%80%81-%E9%AB%98%E9%80%9F%E5%AD%98%E6%B4%BB-brightgreen?style=for-the-badge&logo=statuspage)](https://github.com/niubihu1/tvbox)
