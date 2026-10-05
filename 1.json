@@ -1,6 +1,6 @@
 {
   "name": "🐯牛虎影视 ┃ 豆瓣热播",
-  "spider": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar",
+  "spider": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar;md5;346c1413a1eaa32d7044ba07733983c3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -19,7 +19,7 @@
       "key": "ConfigCenter",
       "name": "🅿网盘配置中心 ┃ 扫码绑定",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_ConfigCenter",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -45,7 +45,7 @@
       "key": "muou",
       "name": "🧸木偶哥哥 ┃ 4K秒播",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -61,7 +61,7 @@
       "key": "zhizhen",
       "name": "📂至臻 ┃ 4K极速",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PantaAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -71,13 +71,14 @@
           "https://zhizhenpan.fun",
           "https://zhizhenpan.com"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "labi",
       "name": "☁️蜡笔 ┃ 4K专线",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PanlAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -87,13 +88,14 @@
           "http://xiaocge.fun",
           "https://duopan.fun"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "shandian",
       "name": "⚡闪电 ┃ 4K秒播",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PantaAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -102,13 +104,14 @@
           "http://shandian.blog",
           "http://sd.shandian.fun"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "huajuan",
       "name": "🌸花卷 ┃ 4K专线",
       "type": 3,
-      "api": "csp_PanWebShareHJ",
+      "api": "csp_PanHjAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -117,7 +120,8 @@
           "https://www.hjzhencai.top",
           "https://www.huajuanpan.com"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "zhongzi",
@@ -138,7 +142,7 @@
       "key": "aipan",
       "name": "爱盼 ┃ 4K大片",
       "type": 3,
-      "api": "csp_AiPan",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -147,7 +151,7 @@
       "key": "yidong",
       "name": "移动 ┃ 4K极速",
       "type": 3,
-      "api": "csp_Yidong4K",
+      "api": "csp_YiDongYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -287,7 +291,7 @@
       "key": "csp_JianPian",
       "name": "🌻荐片┃VOX🌻",
       "type": 3,
-      "api": "csp_JianPian",
+      "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -334,16 +338,17 @@
       "key": "独播影视",
       "name": "独播 • 在线",
       "type": 3,
-      "api": "csp_Duboku",
+      "api": "csp_DubkAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "线路1",
       "name": "瓜子 • 在线",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_Guazi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -352,7 +357,7 @@
       "key": "骚火影视",
       "name": "骚火 • 在线",
       "type": 3,
-      "api": "csp_SaoHuo",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -380,7 +385,7 @@
       "key": "py_kunyu77",
       "name": "酷云77",
       "type": 3,
-      "api": "py_kunyu77",
+      "api": "csp_AppYsV2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -414,13 +419,14 @@
       "key": "热播影视",
       "name": "热播 • APP",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_RbysAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": {
         "url": "http://v.rbotv.cn"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "剧圈99",
@@ -496,20 +502,21 @@
       "key": "王子",
       "name": "王子 • APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "changeable": 1,
       "ext": {
         "url": "https://app.95112475.xyz",
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "1905",
       "name": "1905 • 影视",
       "type": 3,
-      "api": "csp_Web1905",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -518,17 +525,18 @@
       "key": "Gugu",
       "name": "🐤┆咕咕┆动漫",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
+      "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "马猴影视",
       "name": "马猴 • APP",
       "type": 3,
-      "api": "csp_App3Q",
+      "api": "csp_AppV7Amns",
       "ext": {
         "host": "https://45.150.167.18:8000",
         "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
@@ -538,7 +546,8 @@
         "pkg": "com.damahou.tv",
         "sk": "SK-woniu-thanks",
         "ver": "1"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "忍者影视",
@@ -554,8 +563,9 @@
       "key": "韩圈",
       "name": "⭕┃韩圈 ┃APP",
       "type": 3,
-      "api": "csp_Hxq",
-      "ext": " http://www.小不点.com/api/2026/fishhxq.php"
+      "api": "csp_HxqAmns",
+      "ext": " http://www.小不点.com/api/2026/fishhxq.php",
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "橘汁",
@@ -581,7 +591,7 @@
       "key": "蓝鹰",
       "name": "蓝鹰 • APP",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -590,35 +600,38 @@
         "dataIv": "ca94b06ca359d80e",
         "init": "initV120",
         "ua": "okhttp/3.10.0"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "茉莉",
       "name": "茉莉 • APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "changeable": 1,
       "ext": {
         "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "一起影视",
       "name": "一起 • APP",
       "type": 3,
-      "api": "csp_AppYQK",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "蓝鸟",
       "name": "蓝鸟 • APP",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -627,26 +640,29 @@
         "dataIv": "oW5UxZ5kWVr1DI69",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "魔方",
       "name": "魔方 • APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "changeable": 1,
       "ext": {
         "url": "https://www.douy32mf.top",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
-      "api": "csp_Feiyu"
+      "api": "csp_AppV7Amns",
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "drpy_js_秋霞影院",
@@ -911,16 +927,17 @@
       "key": "咕噜",
       "name": "咕噜 • APP",
       "type": 3,
-      "api": "csp_Gulu",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "布布",
       "name": "布布 • APP",
       "type": 3,
-      "api": "csp_YunDuo",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -931,7 +948,8 @@
         "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "AppV7 | 粉猪追剧",
@@ -988,7 +1006,7 @@
       "key": "盘Se弹幕版",
       "name": "云搜弹幕┃🍭",
       "type": 3,
-      "api": "csp_Pan",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1009,7 +1027,7 @@
       "key": "csp_七夜",
       "name": "🔎┃阿里┃七夜",
       "type": 3,
-      "api": "csp_PanAli",
+      "api": "csp_Ali",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1018,7 +1036,7 @@
       "key": "阿里云盘",
       "name": "阿里 • 云盘",
       "type": 3,
-      "api": "csp_PanAli",
+      "api": "csp_Ali",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -1031,7 +1049,7 @@
       "key": "UC网盘",
       "name": "UC • 网盘",
       "type": 3,
-      "api": "csp_PanUC",
+      "api": "csp_UC",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -1044,7 +1062,7 @@
       "key": "百度网盘",
       "name": "百度 • 网盘",
       "type": 3,
-      "api": "csp_PanBaidu",
+      "api": "csp_BaiDuPan",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -1057,7 +1075,7 @@
       "key": "夸克盘社",
       "name": "📀┃夸克┃盘社",
       "type": 3,
-      "api": "csp_PanQuark",
+      "api": "csp_Quark",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1066,7 +1084,7 @@
       "key": "闪电",
       "name": "闪电 • 4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PantaAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1074,13 +1092,14 @@
         "site": [
           "http://shandian.blog"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "虎斑",
       "name": "虎斑 • 4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1094,7 +1113,7 @@
       "key": "快映",
       "name": "快映 • 4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1108,7 +1127,7 @@
       "key": "双星",
       "name": "双星 • 4K",
       "type": 3,
-      "api": "csp_ShuangXing",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1117,7 +1136,7 @@
       "key": "人人",
       "name": "人人 • 4K",
       "type": 3,
-      "api": "csp_RenRen",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1126,7 +1145,7 @@
       "key": "即刻",
       "name": "即刻 • 4K",
       "type": 3,
-      "api": "csp_Jike",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1135,7 +1154,7 @@
       "key": "指南",
       "name": "指南 • 4K",
       "type": 3,
-      "api": "csp_4KZhinan",
+      "api": "csp_FourKZN",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1158,7 +1177,7 @@
       "key": "Xunlei8",
       "name": "Xunlei8|磁",
       "type": 3,
-      "api": "csp_Xunlei8",
+      "api": "csp_XunleiSpider",
       "changeable": 1,
       "timeout": 60
     },
@@ -1166,7 +1185,7 @@
       "key": "迅雷吧",
       "name": "迅雷吧 • 磁力",
       "type": 3,
-      "api": "csp_Xunlei8",
+      "api": "csp_XunleiSpider",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1176,7 +1195,7 @@
       "key": "八零",
       "name": "八零 • 4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1190,7 +1209,7 @@
       "key": "花卷",
       "name": "花卷 • 4K",
       "type": 3,
-      "api": "csp_PanWebShareHJ",
+      "api": "csp_PanHjAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1198,13 +1217,14 @@
         "site": [
           "https://www.hjzhencai.top"
         ]
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "爱盼",
       "name": "爱盼 • 4K",
       "type": 3,
-      "api": "csp_AiPan",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1213,7 +1233,7 @@
       "key": "移动",
       "name": "移动 • 4K",
       "type": 3,
-      "api": "csp_Yidong4K",
+      "api": "csp_YiDongYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1222,7 +1242,7 @@
       "key": "优汐UC搜",
       "name": "聚合优汐┃搜搜",
       "type": 3,
-      "api": "csp_PanUC",
+      "api": "csp_UC",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1306,7 +1326,7 @@
       "key": "光鸭网盘",
       "name": "🗂️我的丨光鸭网盘",
       "type": 3,
-      "api": "csp_PanGuangya",
+      "api": "csp_GuangYaPan",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -1319,7 +1339,7 @@
       "key": "ZPan四盘",
       "name": "聚合聚盘搜┃四盘",
       "type": 3,
-      "api": "csp_QuPanSo",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1337,7 +1357,7 @@
       "key": "阿里合集",
       "name": "阿里｜合集",
       "type": 3,
-      "api": "csp_PanAli",
+      "api": "csp_Ali",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
@@ -1846,14 +1866,15 @@
       "key": "YunZhenXiang",
       "name": "秒播｜极速",
       "type": 3,
-      "api": "csp_Duboku",
+      "api": "csp_DubkAmns",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "csp_xml_无尽",
@@ -2005,22 +2026,24 @@
       "key": "88看球",
       "name": "体育 • 88看球",
       "type": 3,
-      "api": "csp_Sports88",
+      "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "飞球体育",
       "name": "飞球 • 体育",
       "type": 3,
-      "api": "csp_SportsFeiqiu",
+      "api": "csp_FeiqLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "小学课堂",
@@ -2094,7 +2117,7 @@
       "key": "兔小贝",
       "name": "少儿 • 兔小贝",
       "type": 3,
-      "api": "csp_TuXiaoBei",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2103,34 +2126,37 @@
       "key": "世界听书",
       "name": "听书 • 世界",
       "type": 3,
-      "api": "csp_TingShijie",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "蜻蜓FM",
       "name": "广播 • 蜻蜓FM",
       "type": 3,
-      "api": "csp_QingtingFM",
+      "api": "csp_QTfmAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "戏曲多多",
       "name": "戏曲 • 多多",
       "type": 3,
-      "api": "csp_AppLY",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "急救教学",
       "name": "生活 • 急救教学",
       "type": 3,
-      "api": "csp_FirstAid",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2139,7 +2165,7 @@
       "key": "养生堂",
       "name": "养生堂 • 教学",
       "type": 3,
-      "api": "csp_YST",
+      "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
