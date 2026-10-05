@@ -67,30 +67,44 @@ class TVBoxValidator:
                 report["is_alive"] = True
                 report["type"] = "single"
                 report["sites_count"] = sites_count
-                report["spider"] = parsed.get("spider", "")
-                report["raw_data"] = parsed
-                
-                # 评分模型 (满分 100)
+                # 环境自适应评分模型 (满分 100)
+                import os
+                is_ci = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
+                is_domestic = any(k in name or k in url for k in [
+                    "饭太硬", "肥猫", "心魔", "周J", "道长", "潇洒", "南风", "摸鱼", "王二小", "小马", "俊宇", "香雅情", "荷城", "小米", ".cn"
+                ])
+
                 # 1. 连通基准分: 40
-                # 2. 延迟分 (0~30 分): 延迟越低分越高
-                latency_score = max(0, min(30, int(30 - (latency / 150))))
+                # 2. 延迟分 (0~30 分): 若处于 GitHub Actions (海外环境)，为国内源提供地理距离补偿
+                if is_ci:
+                    latency_score = 25 if is_domestic else max(0, min(30, int(30 - (latency / 200))))
+                else:
+                    latency_score = max(0, min(30, int(30 - (latency / 150))))
+                    
                 # 3. 资源丰富度分 (0~20 分): 包含 20 个站点以上得满分
                 rich_score = min(20, sites_count)
                 # 4. Spider 完整度分 (10 分)
                 spider_score = 10 if report["spider"] else 0
+                # 5. 国内知名源加权 (5 分)
+                bonus = 5 if is_domestic else 0
                 
-                report["score"] = 40 + latency_score + rich_score + spider_score
+                report["score"] = 35 + latency_score + rich_score + spider_score + bonus
                 return report
 
         # 判断是否为合法多仓配置 (包含 urls 或 storeHouse)
         if isinstance(parsed, dict):
+            import os
+            is_ci = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
+            is_domestic = any(k in name or k in url for k in [
+                "饭太硬", "肥猫", "心魔", "周J", "道长", "潇洒", "南风", "摸鱼", "王二小", "小马", "俊宇", "香雅情", "荷城", "小米", ".cn"
+            ])
             if "urls" in parsed and isinstance(parsed["urls"], list) and len(parsed["urls"]) > 0:
                 report["is_alive"] = True
                 report["type"] = "multi"
                 report["sites_count"] = len(parsed["urls"])
                 report["raw_data"] = parsed
-                latency_score = max(0, min(40, int(40 - (latency / 100))))
-                report["score"] = 50 + latency_score
+                latency_score = 35 if (is_ci and is_domestic) else max(0, min(40, int(40 - (latency / 100))))
+                report["score"] = 50 + latency_score + (10 if is_domestic else 0)
                 return report
                 
             if "storeHouse" in parsed and isinstance(parsed["storeHouse"], list) and len(parsed["storeHouse"]) > 0:

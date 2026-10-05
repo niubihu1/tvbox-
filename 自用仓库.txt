@@ -1,4 +1,4 @@
-// 此多仓接口列表由 auto_engine 自动化巡检引擎每日实时测速生成
+// 此多仓接口列表由 auto_engine 本地家庭宽带巡检引擎实时测速生成 [家庭测速版]
 {
     "urls": [
         {
@@ -6,100 +6,100 @@
             "name": "🚀自用优选线路🚀"
         },
         {
-            "url": "https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json",
-            "name": "🚀全网精选源 [84ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀全网精选源 [84ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
-            "name": "🚀qist_tvbox_源 [87ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-            "name": "🚀qist_tvbox_源 [89ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
-            "name": "🚀qist_tvbox_源 [90ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀全网精选源 [91ms]"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
-            "name": "🚀东篱线路 [92ms]"
-        },
-        {
-            "url": "https://qist.ugigc.dpdns.org/jsm.json",
-            "name": "🚀另 [105ms]"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀全网精选源 [109ms]"
-        },
-        {
-            "url": "https://qist.wyfc.qzz.io/fty.json",
-            "name": "🚀全网精选源 [113ms]"
-        },
-        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box",
             "name": "🚀周J线路 [114ms]"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-            "name": "🚀全网精选源 [116ms]"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
             "name": "🚀心魔线路 [120ms]"
         },
         {
-            "url": "https://www.252035.xyz/xs/tvbox/api.json",
-            "name": "🚀全网精选源 [157ms]"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "🚀心魔?? [266ms]"
         },
         {
-            "url": "http://ficfac.com/tv/2024.json",
-            "name": "🚀全网精选源 [158ms]"
+            "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+            "name": "🚀（16） 潇洒 [338ms]"
         },
         {
-            "url": "http://rihou.cc:88/demoabc.json",
-            "name": "🚀VOX线路 [162ms]"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+            "name": "🚀荷城茶秀 [390ms]"
         },
         {
-            "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-            "name": "🚀全网精选源 [173ms]"
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小线 [471ms]"
         },
         {
-            "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json",
-            "name": "🚀菠萝库 [178ms]"
+            "url": "http://xhztv.top/dc/饭太硬/api.json",
+            "name": "🚀全网精选源 [523ms]"
         },
         {
-            "url": "http://47.120.41.246:8025/vip/vip/tv.json",
-            "name": "🚀全网精选源 [197ms]"
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🚀全网精选源 [540ms]"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt",
-            "name": "🚀全网精选源 [199ms]"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "🚀荷城茶秀 [555ms]"
         },
         {
-            "url": "https://cyao2q.github.io/files/m.json",
-            "name": "🚀cyao2q_files_源 [217ms]"
+            "url": "http://肥猫.net/tv",
+            "name": "🚀肥猫线路 [564ms]"
         },
         {
-            "url": "http://47.96.82.41:5188",
-            "name": "🚀小哥哥 [217ms]"
+            "url": "http://我不是.摸鱼儿.cc",
+            "name": "🚀全网精选源 [599ms]"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json",
-            "name": "🚀lizhe0326_源 [220ms]"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊宇线路 [888ms]"
         },
         {
-            "url": "http://47.96.82.41:5188/",
-            "name": "🚀全网精选源 [224ms]"
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🚀小马线路 [890ms]"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jsm.json",
+            "name": "🚀饭太硬+道长 [1213ms]"
+        },
+        {
+            "url": "http://szyyds.cn/tv/x.json",
+            "name": "🚀小马 [1381ms]"
+        },
+        {
+            "url": "http://肥猫.live/",
+            "name": "🚀全网精选源 [160ms]"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "🚀肥猫接口 [177ms]"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "🚀饭硬二线 [182ms]"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv/",
+            "name": "🚀饭太硬 [185ms]"
+        },
+        {
+            "url": "http://www.饭太硬.cc/tv",
+            "name": "🚀饭硬一线 [305ms]"
+        },
+        {
+            "url": "http://www.饭太硬.net/tvhttp://fty.xxooo.cf/tv",
+            "name": "🚀全网精选源 [348ms]"
+        },
+        {
+            "url": "https://mitvbox.xyz/小米/DEMO.json",
+            "name": "🚀小米 [376ms]"
+        },
+        {
+            "url": "http://new.王二小放牛娃.top/",
+            "name": "🚀全网精选源 [1968ms]"
+        },
+        {
+            "url": "http://肥猫.com/",
+            "name": "🚀🔵肥猫线路 [695ms]"
         }
     ]
 }

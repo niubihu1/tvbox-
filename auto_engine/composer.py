@@ -148,8 +148,23 @@ class TVBoxComposer:
 
         seen_urls = {urls_list[0]["url"]}
 
-        # 加入全网验证存活的多仓和优质单仓线路（按得分排序）
+        import os
+        is_ci = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
+
+        # 加入全网验证存活的多仓和优质单仓线路（按得分与国内权重排序）
+        def candidate_sort_key(c):
+            name = c.get("name", "")
+            url = c.get("url", "")
+            is_vip = any(k in name or k in url for k in [
+                "饭太硬", "肥猫", "心魔", "周J", "道长", "潇洒", "南风", "摸鱼", "王二小", "小马", "俊宇", "香雅情", "荷城", "小米"
+            ])
+            # 国内一线源优先排在前列
+            vip_weight = 0 if is_vip else 1
+            return (vip_weight, -c["score"], c.get("latency", 9999))
+
         top_candidates = [r for r in self.alive_results if r["score"] >= 50]
+        top_candidates.sort(key=candidate_sort_key)
+
         for c in top_candidates:
             url = c["url"]
             name = c.get("name", "")
@@ -159,7 +174,12 @@ class TVBoxComposer:
             seen_urls.add(url)
             
             clean_name = clean_site_name(name) if name else "全网精选线路"
-            clean_name = f"🚀{clean_name} [{c['latency']}ms]"
+            if is_ci:
+                # GitHub Actions 云端模式：不标注具有欺骗性的海外机房延迟，标注健康在线状态
+                clean_name = f"🚀{clean_name} [在线]"
+            else:
+                # 本地家庭宽带模式：精确标注本地实测延迟毫秒
+                clean_name = f"🚀{clean_name} [{c['latency']}ms]"
             
             urls_list.append({
                 "url": url,
@@ -174,9 +194,12 @@ class TVBoxComposer:
 
         try:
             with open(OUTPUT_REPO_TXT, "w", encoding="utf-8") as fp:
-                fp.write("// 此多仓接口列表由 auto_engine 自动化巡检引擎每日实时测速生成\n")
+                if is_ci:
+                    fp.write("// 此多仓接口列表由 GitHub Actions 自动化保活巡检引擎生成 [云端保活版]\n")
+                else:
+                    fp.write("// 此多仓接口列表由 auto_engine 本地家庭宽带巡检引擎实时测速生成 [家庭测速版]\n")
                 fp.write(json.dumps(output_data, ensure_ascii=False, indent=4))
-            print(f"[√] 成功生成并更新: {OUTPUT_REPO_TXT.name} (含 {len(urls_list)} 条精选活跃线路)")
+            print(f"[√] 成功生成并更新: {OUTPUT_REPO_TXT.name} (含 {len(urls_list)} 条精选活跃线路, 环境模式: {'GitHub Actions' if is_ci else '本地网络'})")
             return True
         except Exception as e:
             print(f"[!] 写入 自用仓库.txt 失败: {e}")
