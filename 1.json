@@ -1,7 +1,17 @@
 {
+  "name": "🚀自用优选线路🚀",
   "spider": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🚀自用优选线路🚀",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "CZ",
       "name": "🏭┆厂长┆影视",
