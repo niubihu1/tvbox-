@@ -94,14 +94,15 @@
 
 ## 📥 配套播放器下载
 
-如果您还没有安装 TV 端播放器，推荐使用以下经过兼容性验证的纯净版本：
+如果您还没有安装 TV 端播放器，推荐使用以下经过兼容性验证的**全网主流最新版本**（无广告、纯净开源、即装即用）：
 
-| 客户端名称 | 推荐指数 | 特点说明 | 下载渠道 |
+| 客户端名称 | 最新版本 | 核心特点与推荐场景 | 下载渠道（极速直链 / 网盘） |
 | :--- | :--- | :--- | :--- |
-| **TVBox 官方原版 (Takagen99)** | ⭐⭐⭐⭐⭐ | 极简原生、开源纯净、内存占用极低 | [⚡ 极速直链下载](https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/TVBox_takagen99_20231121-0024.apk) |
-| **TVBox 官方稳定版 (q215613905)** | ⭐⭐⭐⭐⭐ | 兼容老旧电视盒、经典解码稳定 | [⚡ 极速直链下载](https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/TVBox_q215613905_20231013-1626.apk) |
-| **宝盒 TV (v3.0.7)** | ⭐⭐⭐⭐⭐ | 界面华丽、自动匹配海报墙、操作流畅 | [⚡ 极速直链下载](https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/宝盒_3.0.7_2.apk) |
-| **影视仓 原版** | ⭐⭐⭐⭐ | 支持多仓无缝切换、多源聚合搜索 | [百度网盘(提取码:a6g7)](https://pan.baidu.com/s/11RcWwauUQiWt_Ids_zs5Qw?pwd=a6g7) ｜ [UC网盘](https://drive.uc.cn/s/b437317346a14) ｜ [夸克网盘](https://pan.quark.cn/s/61d324167c07#/list/share) |
+| **FongMi 影视 (蜂蜜)**<br>*(全网口碑第一·强烈推荐)* | `v5.6.8`<br>*(2026最新)* | 🌟 原生 Leanback 架构，极速秒播，画质音质天花板，支持杜比视界 Profile 7，操作极其丝滑流畅 | [⚡ TV版 (32位通用极速)](https://wget.la/https://github.com/FongMi/Release/releases/download/5.6.8/leanback-armeabi_v7a.apk)<br>[⚡ TV版 (64位高配原画)](https://wget.la/https://github.com/FongMi/Release/releases/download/5.6.8/leanback-arm64_v8a.apk)<br>[📦 夸克网盘备用](https://pan.quark.cn/s/b55be5547a68) ｜ [UC网盘备用](https://drive.uc.cn/s/f8e067cede5f4?public=1) ｜ [GitHub 发布页](https://github.com/FongMi/Release/releases) |
+| **TVBox 原版 (Takagen99)**<br>*(全网装机量最大·经典)* | `20260227`<br>*(2026稳定版)* | 🚀 经典正统开源架构，内存占用极低，深度适配各类老旧电视盒子，兼容性天花板 | [⚡ 32位通用版直链下载](https://wget.la/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_takagen99_20260227-1116-armeabi-generic-java.apk)<br>[⚡ 64位高性能直链下载](https://wget.la/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_takagen99_20260227-1116-arm64-generic-java.apk) |
+| **TVBox 官方版 (q215613905)**<br>*(俊于维护·最新版)* | `20260914`<br>*(2026最新)* | 🎯 针对国内网络环境与新一代视频解码内核专项优化，播放稳定不掉帧 | [⚡ 极速直链下载](https://wget.la/https://raw.githubusercontent.com/youhunwl/TVAPP/main/TVBox/TVBox_q215613905_20260914-1520-java.apk) |
+| **宝盒 TV / 月光宝盒 Max**<br>*(海报墙与多仓旗舰)* | `20260926`<br>*(最新升级版)* | 🎨 界面华丽，自动刮削生成精美海报墙，全面支持单仓/多仓自由切换 | [⚡ 稳定多仓版直链下载](https://wget.la/https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Max1017.apk)<br>[📦 夸克网盘最新版](https://pan.quark.cn/s/a2c78537f5df) ｜ [UC网盘最新版](https://drive.uc.cn/s/a993aa79c6984?public=1) |
+| **影视仓 原版**<br>*(官方全仓聚合版)* | `v6.2.8`<br>*(官方原版)* | 📺 支持多仓热备、多源聚合搜索，主流电视盒用户群体庞大 | [⚡ v6.2.8 官方直链](https://wget.la/https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93/%E5%BD%B1%E8%A7%86%E4%BB%93-TV-32%E4%BD%8D-6.2.8.apk)<br>[百度网盘(提取码:a6g7)](https://pan.baidu.com/s/11RcWwauUQiWt_Ids_zs5Qw?pwd=a6g7) ｜ [UC网盘](https://drive.uc.cn/s/b437317346a14) ｜ [夸克网盘](https://pan.quark.cn/s/61d324167c07#/list/share) |
 
 ---
 
