@@ -2,12 +2,12 @@
 
 1：单仓优选接口
 ````bash
-https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
+https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json
 ````
 
 2：多仓接口
 ````bash
-https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.json
+https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/tv8.json
 ````
 
 - 软件下载
@@ -21,9 +21,9 @@ https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/tv8.json
 
 - 
 - 🔰官方原版 Tvbox (使用单仓优选接口)
-- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_q215613905_20231013-1626.apk
-- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/TVBox_takagen99_20231121-0024.apk
+- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/TVBox_q215613905_20231013-1626.apk
+- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/TVBox_takagen99_20231121-0024.apk
 
 - 
 - 🔰宝盒
-- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox-/main/备份/宝盒_3.0.7_2.apk
+- https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/备份/宝盒_3.0.7_2.apk
