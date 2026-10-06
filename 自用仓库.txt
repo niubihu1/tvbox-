@@ -83,7 +83,7 @@
         },
         {
             "name": "🚀™菜妮丝源 [568ms]",
-            "url": "https://tv.菜妮丝.top/"
+            "url": "https://tv.xn--yhqu5zs87a.top/"
         }
     ]
 }
