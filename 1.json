@@ -1,5 +1,5 @@
 {
-  "name": "🐯牛虎影视 ┃ 豆瓣热播",
+  "name": "🐯牛虎 ┃ 豆瓣热播",
   "spider": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar;md5;346c1413a1eaa32d7044ba07733983c3",
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
   "flags": [
@@ -35,7 +35,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐯牛虎影视 ┃ 豆瓣热播",
+      "name": "🐯牛虎 ┃ 豆瓣热播",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -2384,7 +2384,7 @@
   ],
   "lives": [
     {
-      "name": "🐯牛虎影视 ┃ 官方综合",
+      "name": "🐯牛虎 ┃ 官方综合",
       "type": 0,
       "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
       "playerType": 1,

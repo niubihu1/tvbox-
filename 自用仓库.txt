@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "name": "🐯牛虎影视 ┃ 豆瓣热播 [410ms]",
+            "name": "🐯牛虎 ┃ 豆瓣热播 [410ms]",
             "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
         },
         {

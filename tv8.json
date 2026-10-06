@@ -1,8 +1,8 @@
-// 此多仓接口由 auto_engine 本地家庭宽带巡检引擎实时测速生成 [家庭测速版]
+// 此多仓接口由 auto_engine 自动化引擎测活与重构生成 [云端保活版]
 {
   "storeHouse": [
     {
-      "sourceName": "🐯牛虎影视(28条精品线)🍭",
+      "sourceName": "🐯牛虎(28条精品线)🍭",
       "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -52,23 +52,11 @@
     {
       "sourceName": "💜Kstore精选多仓🍭",
       "sourceUrl": "https://12586.kstore.space/123.json"
-    },
-    {
-      "sourceName": "🚀全网精选源 [409ms]",
-      "sourceUrl": "http://z.qiqiv.cn/123.txt"
-    },
-    {
-      "sourceName": "🚀全网精选源 [31ms]",
-      "sourceUrl": "http://bobohome.ignorelist.com:20247/"
-    },
-    {
-      "sourceName": "🚀游魂多仓（备） [31ms]",
-      "sourceUrl": "https://www.iyouhun.com/tv/yh"
     }
   ],
   "urls": [
     {
-      "name": "🐯牛虎影视(28条精品线)🍭",
+      "name": "🐯牛虎(28条精品线)🍭",
       "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -118,18 +106,6 @@
     {
       "name": "💜Kstore精选多仓🍭",
       "url": "https://12586.kstore.space/123.json"
-    },
-    {
-      "name": "🚀全网精选源 [409ms]",
-      "url": "http://z.qiqiv.cn/123.txt"
-    },
-    {
-      "name": "🚀全网精选源 [31ms]",
-      "url": "http://bobohome.ignorelist.com:20247/"
-    },
-    {
-      "name": "🚀游魂多仓（备） [31ms]",
-      "url": "https://www.iyouhun.com/tv/yh"
     }
   ]
 }
