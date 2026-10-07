@@ -318,16 +318,6 @@
       "ext": "https://czzy.top/"
     },
     {
-      "key": "csp_JianPian",
-      "name": "🌻荐片┃VOX🌻",
-      "type": 3,
-      "api": "csp_JianPian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api.ztcgi.com"
-    },
-    {
       "key": "低端影视",
       "name": "✨低端短剧✨乐哥甄选✨",
       "type": 3,
@@ -368,7 +358,8 @@
       "key": "独播影视",
       "name": "独播 • 在线",
       "type": 3,
-      "api": "csp_Duboku",
+      "api": "csp_DubkAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -377,16 +368,7 @@
       "key": "线路1",
       "name": "瓜子 • 在线",
       "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "骚火影视",
-      "name": "骚火 • 在线",
-      "type": 3,
-      "api": "csp_SaoHuo",
+      "api": "csp_Guazi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -981,6 +963,16 @@
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
+      "key": "csp_Jianpian",
+      "name": "🌻荐片┃VOX🌻",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api.ztcgi.com"
+    },
+    {
       "key": "世界听书",
       "name": "听书 • 世界",
       "type": 3,
@@ -996,6 +988,15 @@
       "type": 3,
       "api": "csp_AppV7Amns",
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "农民影视",
+      "name": "农民 • 在线",
+      "type": 3,
+      "api": "csp_Nmvod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1797,20 +1798,6 @@
       ]
     },
     {
-      "key": "YunZhenXiang",
-      "name": "秒播｜极速",
-      "type": 3,
-      "api": "csp_DubkAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
-        "key_api": "https://www.tangsan.fun/zx.php"
-      },
-      "jar": "./jar/aowu.jar"
-    },
-    {
       "key": "csp_xml_无尽",
       "name": "❤无尽资源",
       "type": 1,
@@ -2141,6 +2128,20 @@
       },
       "timeout": 120,
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "YunZhenXiang",
+      "name": "秒播｜极速",
+      "type": 3,
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
+        "key_api": "https://www.tangsan.fun/zx.php"
+      },
+      "jar": "./jar/aowu.jar"
     },
     {
       "key": "Xunlei8",
