@@ -92,6 +92,7 @@
       "name": "📂至臻 ┃ 4K极速",
       "type": 3,
       "api": "csp_PantaAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -101,14 +102,14 @@
           "https://zhizhenpan.fun",
           "https://zhizhenpan.com"
         ]
-      },
-      "jar": "./jar/aowu.jar"
+      }
     },
     {
       "key": "labi",
       "name": "☁️蜡笔 ┃ 4K专线",
       "type": 3,
       "api": "csp_PanlAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -118,14 +119,14 @@
           "http://xiaocge.fun",
           "https://duopan.fun"
         ]
-      },
-      "jar": "./jar/aowu.jar"
+      }
     },
     {
       "key": "shandian",
       "name": "⚡闪电 ┃ 4K秒播",
       "type": 3,
       "api": "csp_PantaAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -134,14 +135,14 @@
           "http://shandian.blog",
           "http://sd.shandian.fun"
         ]
-      },
-      "jar": "./jar/aowu.jar"
+      }
     },
     {
       "key": "huajuan",
       "name": "🌸花卷 ┃ 4K专线",
       "type": 3,
       "api": "csp_PanHjAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -150,8 +151,7 @@
           "https://www.hjzhencai.top",
           "https://www.huajuanpan.com"
         ]
-      },
-      "jar": "./jar/aowu.jar"
+      }
     },
     {
       "key": "zhongzi",
@@ -321,7 +321,7 @@
       "key": "csp_JianPian",
       "name": "🌻荐片┃VOX🌻",
       "type": 3,
-      "api": "csp_Jianpian",
+      "api": "csp_JianPian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -368,17 +368,16 @@
       "key": "独播影视",
       "name": "独播 • 在线",
       "type": 3,
-      "api": "csp_DubkAmns",
+      "api": "csp_Duboku",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/aowu.jar"
+      "filterable": 1
     },
     {
       "key": "线路1",
       "name": "瓜子 • 在线",
       "type": 3,
-      "api": "csp_Guazi",
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -387,7 +386,7 @@
       "key": "骚火影视",
       "name": "骚火 • 在线",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_SaoHuo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -540,7 +539,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "1905",
@@ -560,7 +559,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "马猴影视",
@@ -577,7 +576,7 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "忍者影视",
@@ -631,7 +630,7 @@
         "init": "initV120",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "茉莉",
@@ -645,7 +644,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "一起影视",
@@ -655,7 +654,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "蓝鸟",
@@ -671,7 +670,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "魔方",
@@ -685,14 +684,14 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "drpy_js_秋霞影院",
@@ -961,7 +960,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "布布",
@@ -979,7 +978,27 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "./jar/aowu.jar"
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "世界听书",
+      "name": "听书 • 世界",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "戏曲多多",
+      "name": "戏曲 • 多多",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "AppV7 | 粉猪追剧",
@@ -996,32 +1015,18 @@
       "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
-      "key": "AppV7 | 咸鱼",
-      "name": "💥咸鱼┃秒播💥",
+      "key": "八零",
+      "name": "八零 • 4K",
       "type": 3,
-      "api": "csp_AppV7Amns",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "config": "AppV7Xy",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
-      "key": "AppV7 | 追剧达人",
-      "name": "💥追剧┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Zjdr",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+        "site": [
+          "https://www.80yy3.com"
+        ]
+      }
     },
     {
       "key": "易搜",
@@ -1102,83 +1107,20 @@
       }
     },
     {
-      "key": "夸克盘社",
-      "name": "📀┃夸克┃盘社",
-      "type": 3,
-      "api": "csp_Quark",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "闪电",
       "name": "闪电 • 4K",
       "type": 3,
       "api": "csp_PantaAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
-          "http://shandian.blog"
-        ]
-      },
-      "jar": "./jar/aowu.jar"
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑 • 4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "http://xhban.xyz"
+          "http://shandian.blog",
+          "http://sd.shandian.fun"
         ]
       }
-    },
-    {
-      "key": "快映",
-      "name": "快映 • 4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "http://xsayang.fun"
-        ]
-      }
-    },
-    {
-      "key": "双星",
-      "name": "双星 • 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "人人",
-      "name": "人人 • 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "即刻",
-      "name": "即刻 • 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "指南",
@@ -1199,17 +1141,10 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://sidhub.cc"
+          "https://sidhub.cc",
+          "https://seedhub.fun"
         ]
       }
-    },
-    {
-      "key": "Xunlei8",
-      "name": "Xunlei8|磁",
-      "type": 3,
-      "api": "csp_XunleiSpider",
-      "changeable": 1,
-      "timeout": 60
     },
     {
       "key": "迅雷吧",
@@ -1222,42 +1157,20 @@
       "ext": "https://xunlei8.me"
     },
     {
-      "key": "八零",
-      "name": "八零 • 4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://www.80yy3.com"
-        ]
-      }
-    },
-    {
       "key": "花卷",
       "name": "花卷 • 4K",
       "type": 3,
       "api": "csp_PanHjAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": [
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huajuanpan.com"
         ]
-      },
-      "jar": "./jar/aowu.jar"
-    },
-    {
-      "key": "爱盼",
-      "name": "爱盼 • 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      }
     },
     {
       "key": "移动",
@@ -1366,15 +1279,6 @@
       }
     },
     {
-      "key": "ZPan四盘",
-      "name": "聚合聚盘搜┃四盘",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "美剧迷",
       "name": "美剧迷 • 磁力",
       "type": 3,
@@ -1382,23 +1286,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "阿里合集",
-      "name": "阿里｜合集",
-      "type": 3,
-      "api": "csp_Ali",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "share": "https://gitee.com/dmjuntop/four-d/raw/master/js/alishare.txt"
-      },
-      "style": {
-        "type": "list"
-      }
     },
     {
       "key": "xbpq_蓝光影院",
@@ -1550,6 +1437,23 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+    },
+    {
+      "key": "阿里合集",
+      "name": "阿里｜合集",
+      "type": 3,
+      "api": "csp_Ali",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "share": "https://gitee.com/dmjuntop/four-d/raw/master/js/alishare.txt"
+      },
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "bfzy_暴风",
@@ -2057,23 +1961,23 @@
       "name": "体育 • 88看球",
       "type": 3,
       "api": "csp_BbkqLiveAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/aowu.jar"
+      "filterable": 1
     },
     {
       "key": "飞球体育",
-      "name": "飞球 • 体育",
+      "name": "体育 • 飞球",
       "type": 3,
       "api": "csp_FeiqLiveAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      },
-      "jar": "./jar/aowu.jar"
+      }
     },
     {
       "key": "小学课堂",
@@ -2153,34 +2057,25 @@
       "filterable": 1
     },
     {
-      "key": "世界听书",
-      "name": "听书 • 世界",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/aowu.jar"
-    },
-    {
       "key": "蜻蜓FM",
       "name": "广播 • 蜻蜓FM",
       "type": 3,
       "api": "csp_QTfmAmns",
+      "jar": "./jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/aowu.jar"
+      "filterable": 1
     },
     {
-      "key": "戏曲多多",
-      "name": "戏曲 • 多多",
+      "key": "哔哩戏曲",
+      "name": "🅱️分享戏曲",
       "type": 3,
-      "api": "csp_AppV7Amns",
+      "api": "https://wget.la/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "jar": "./jar/aowu.jar"
+      "order_num": 142,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享戏曲.json"
     },
     {
       "key": "急救教学",
@@ -2220,15 +2115,40 @@
       }
     },
     {
-      "key": "哔哩戏曲",
-      "name": "🅱️分享戏曲",
+      "key": "AppV7 | 咸鱼",
+      "name": "💥咸鱼┃秒播💥",
       "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享戏曲.json"
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Xy",
+        "proxyImg": false
+      },
+      "timeout": 120,
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "AppV7 | 追剧达人",
+      "name": "💥追剧┃秒播💥",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "AppV7Zjdr",
+        "proxyImg": false
+      },
+      "timeout": 120,
+      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+    },
+    {
+      "key": "Xunlei8",
+      "name": "Xunlei8|磁",
+      "type": 3,
+      "api": "csp_XunleiSpider",
+      "changeable": 1,
+      "timeout": 60
     }
   ],
   "parses": [

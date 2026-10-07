@@ -1,4 +1,4 @@
-// 此多仓接口由 auto_engine 自动化引擎测活与重构生成 [云端保活版]
+// 此多仓接口由 auto_engine 本地家庭宽带巡检引擎实时测速生成 [家庭测速版]
 {
   "storeHouse": [
     {
@@ -52,6 +52,14 @@
     {
       "sourceName": "💜Kstore精选多仓🍭",
       "sourceUrl": "https://12586.kstore.space/123.json"
+    },
+    {
+      "sourceName": "🚀TVAPP_源 [195ms]",
+      "sourceUrl": "http://xhztv.top/dc/"
+    },
+    {
+      "sourceName": "🚀TVAPP_源 [269ms]",
+      "sourceUrl": "http://xhztv.top/DC.txt"
     }
   ],
   "urls": [
@@ -106,6 +114,14 @@
     {
       "name": "💜Kstore精选多仓🍭",
       "url": "https://12586.kstore.space/123.json"
+    },
+    {
+      "name": "🚀TVAPP_源 [195ms]",
+      "url": "http://xhztv.top/dc/"
+    },
+    {
+      "name": "🚀TVAPP_源 [269ms]",
+      "url": "http://xhztv.top/DC.txt"
     }
   ]
 }
