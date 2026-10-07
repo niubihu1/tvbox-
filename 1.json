@@ -811,6 +811,86 @@
       }
     },
     {
+      "key": "可可影视",
+      "name": "可可 | 影视1",
+      "type": 3,
+      "api": "./py/可可影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "FreeOK",
+      "name": "FreeOK | 影视",
+      "type": 3,
+      "api": "./py/FreeOK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "新影视",
+      "name": "New | 影视",
+      "type": 3,
+      "api": "./py/新影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆花影视",
+      "name": "豆花 | 影视",
+      "type": 3,
+      "api": "./py/豆花电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VIP兔",
+      "name": "VIP兔 | 影视",
+      "type": 3,
+      "api": "./py/VIP兔.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "腾讯视频",
+      "name": "📺️腾讯 | 官方",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/腾讯.js"
+    },
+    {
+      "key": "爱奇艺视频",
+      "name": "📺️爱奇艺 | 官方",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "📺️优酷 | 官方",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "📺️芒果 | 官方",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/芒果.js"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "📺️B站 | 官方",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/B站.js"
+    },
+    {
       "key": "番社动漫",
       "name": "番社 | 动漫",
       "type": 3,
