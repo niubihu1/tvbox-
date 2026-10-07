@@ -52,14 +52,6 @@
     {
       "sourceName": "💜Kstore精选多仓🍭",
       "sourceUrl": "https://12586.kstore.space/123.json"
-    },
-    {
-      "sourceName": "🚀TVAPP_源 [在线]",
-      "sourceUrl": "http://xhztv.top/dc/"
-    },
-    {
-      "sourceName": "🚀TVAPP_源 [在线]",
-      "sourceUrl": "http://xhztv.top/DC.txt"
     }
   ],
   "urls": [
@@ -114,14 +106,6 @@
     {
       "name": "💜Kstore精选多仓🍭",
       "url": "https://12586.kstore.space/123.json"
-    },
-    {
-      "name": "🚀TVAPP_源 [在线]",
-      "url": "http://xhztv.top/dc/"
-    },
-    {
-      "name": "🚀TVAPP_源 [在线]",
-      "url": "http://xhztv.top/DC.txt"
     }
   ]
 }
