@@ -1,6 +1,6 @@
 {
   "name": "🐯牛虎 ┃ 豆瓣热播",
-  "spider": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar;md5;346c1413a1eaa32d7044ba07733983c3",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/Yoursmile.jar;md5;346c1413a1eaa32d7044ba07733983c3",
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
   "flags": [
     "youku",
@@ -90,7 +90,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Fz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Xy",
@@ -101,7 +101,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xy",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Zjdr",
@@ -112,7 +112,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Xyz",
@@ -123,7 +123,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Xnm",
@@ -134,7 +134,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xnm",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Mtq",
@@ -145,7 +145,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Llq",
@@ -156,7 +156,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Llq",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Xsz",
@@ -167,7 +167,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xsz",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Xhr",
@@ -178,7 +178,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xhr",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7Dsx",
@@ -189,7 +189,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Dsx",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "Guazi",
@@ -200,7 +200,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Guazi",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "csp_Jianpian",
@@ -304,7 +304,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py"
     },
     {
       "key": "csp_Ying",
@@ -425,7 +425,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "1905",
@@ -445,7 +445,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "马猴影视",
@@ -462,7 +462,7 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "忍者影视",
@@ -516,7 +516,7 @@
         "init": "initV120",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "茉莉",
@@ -530,7 +530,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "一起影视",
@@ -540,7 +540,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "蓝鸟",
@@ -556,7 +556,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "魔方",
@@ -570,21 +570,21 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "drpy_js_秋霞影院",
       "name": "秋霞|js",
       "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://wget.la/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
     },
     {
       "key": "视觉",
@@ -633,7 +633,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "华谊",
@@ -846,7 +846,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "布布",
@@ -864,14 +864,14 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "世界听书",
       "name": "听书 • 世界",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -888,7 +888,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "AppV7 | 咸鱼",
@@ -902,7 +902,7 @@
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
     },
     {
       "key": "muou",
@@ -1375,7 +1375,31 @@
       "name": "🎡永乐｜蓝光影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://wget.la/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
+    },
+    {
+      "key": "drpy_js_布雷蓝光",
+      "name": " 🎑布雷蓝光[DRPY]",
+      "type": 3,
+      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/布雷蓝光.js"
+    },
+    {
+      "key": "drpy_js_蓝光影院",
+      "name": " 🎑蓝光影院[DRPY]",
+      "type": 3,
+      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/蓝光影院.js"
+    },
+    {
+      "key": "csp_xb_lgyy",
+      "name": " 💠蓝光影院(R)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
     {
       "key": "xbpq_蓝光影院",
@@ -1503,38 +1527,14 @@
       "key": "葫芦",
       "name": "🌓王林丨蓝光影视",
       "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
       "ext": {
-        "host": "https://wget.la/raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
         "key": "8R33VQSxzmCaHpEX",
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
-    },
-    {
-      "key": "drpy_js_布雷蓝光",
-      "name": " 🎑布雷蓝光[DRPY]",
-      "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/布雷蓝光.js"
-    },
-    {
-      "key": "drpy_js_蓝光影院",
-      "name": " 🎑蓝光影院[DRPY]",
-      "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/蓝光影院.js"
-    },
-    {
-      "key": "csp_xb_lgyy",
-      "name": " 💠蓝光影院(R)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
     {
       "key": "bfzy_暴风",
@@ -1928,43 +1928,12 @@
       "changeable": 1
     },
     {
-      "key": "csp_xml_光速",
-      "name": "❤光速资源",
+      "key": "光速资源",
+      "name": "光速资源(切)",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动漫电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "韩剧",
-        "台湾剧",
-        "日剧",
-        "海外剧",
-        "泰剧",
-        "体育赛事",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+      "quickSearch": 1
     },
     {
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
@@ -2024,12 +1993,43 @@
       "quickSearch": 1
     },
     {
-      "key": "光速资源",
-      "name": "光速资源(切)",
+      "key": "csp_xml_光速",
+      "name": "❤光速资源",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "体育赛事",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
     },
     {
       "key": "88看球",
@@ -2063,7 +2063,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/小学课堂.json",
+        "json": "https://gh-proxy.com/https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/小学课堂.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -2080,7 +2080,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/初中课堂.json",
+        "json": "https://gh-proxy.com/https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/初中课堂.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -2097,7 +2097,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/高中课堂.json",
+        "json": "https://gh-proxy.com/https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/高中课堂.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -2114,7 +2114,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/少儿教育.json",
+        "json": "https://gh-proxy.com/https://git.yylx.win/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/少儿教育.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -2140,7 +2140,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLTS.json",
+        "json": "https://gh-proxy.com/https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLTS.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -2206,12 +2206,12 @@
       "key": "哔哩戏曲",
       "name": "🅱️分享戏曲",
       "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 142,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享戏曲.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/我的哔哩.js?type=url&params= https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享戏曲.json"
     }
   ],
   "parses": [
@@ -2369,7 +2369,7 @@
     {
       "name": "🐯牛虎 ┃ 官方综合",
       "type": 0,
-      "url": "https://wget.la/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
