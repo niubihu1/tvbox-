@@ -53,12 +53,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀TVAPP_源 [195ms]",
-      "sourceUrl": "http://xhztv.top/dc/"
+      "sourceName": "🚀TVAPP_源 [33ms]",
+      "sourceUrl": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "sourceName": "🚀TVAPP_源 [269ms]",
+      "sourceName": "🚀TVAPP_源 [331ms]",
       "sourceUrl": "http://xhztv.top/DC.txt"
+    },
+    {
+      "sourceName": "🚀TVAPP_源 [334ms]",
+      "sourceUrl": "http://xhztv.top/dc/"
     }
   ],
   "urls": [
@@ -115,12 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀TVAPP_源 [195ms]",
-      "url": "http://xhztv.top/dc/"
+      "name": "🚀TVAPP_源 [33ms]",
+      "url": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "name": "🚀TVAPP_源 [269ms]",
+      "name": "🚀TVAPP_源 [331ms]",
       "url": "http://xhztv.top/DC.txt"
+    },
+    {
+      "name": "🚀TVAPP_源 [334ms]",
+      "url": "http://xhztv.top/dc/"
     }
   ]
 }
