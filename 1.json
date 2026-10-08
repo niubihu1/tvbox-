@@ -1,5 +1,5 @@
 {
-  "name": "🐯牛虎 ┃ 豆瓣热播",
+  "name": "🐯牛虎 ┃ 官方旗舰",
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy0928.jar;md5;4a1fb2890297fdbd1ee05f5ceed4a1a8",
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
   "flags": [
@@ -39,16 +39,13 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🐯牛虎 ┃ 豆瓣热播",
+      "key": "360",
+      "name": "🐯牛虎 ┃ 官方推荐",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "homePage": "热门电影,热播剧集,热门动漫,热播综艺,电影筛选,电视筛选,电影榜单,电视剧榜单"
-      }
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "CZ",
@@ -1612,6 +1609,14 @@
       "quickSearch": 1
     },
     {
+      "key": "无尽资源",
+      "name": "无尽资源(切)",
+      "type": 1,
+      "api": "https://wujinzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "火狐",
       "name": "🦊火狐采集",
       "type": 1,
@@ -1644,14 +1649,6 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "无尽资源",
-      "name": "无尽资源(切)",
-      "type": 1,
-      "api": "https://wujinzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "高清资源网",
