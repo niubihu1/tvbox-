@@ -1,6 +1,6 @@
 {
   "name": "🐯牛虎 ┃ 豆瓣热播",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy0928.jar;md5;af014fd37ff81bf816d53bfeac25e009",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy0928.jar;md5;4a1fb2890297fdbd1ee05f5ceed4a1a8",
   "wallpaper": "https://bingw.jasonzeng.dev/?index=random",
   "flags": [
     "youku",
@@ -443,6 +443,17 @@
       "filterable": 1
     },
     {
+      "key": "Anime1",
+      "name": "🐾日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar"
+    },
+    {
       "key": "王子",
       "name": "王子 | APP",
       "type": 3,
@@ -463,6 +474,16 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "Gugu",
+      "name": "🐤┆咕咕┆动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
     },
     {
       "key": "马猴影视",
@@ -859,28 +880,6 @@
       "timeout": 120,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
       "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 小黄人",
-      "name": "💥黄人┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xhr",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "drpy_js_酷云77",
-      "name": " 🎑酷云77[DRPY]",
-      "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/酷云77.js"
     },
     {
       "key": "muou",
@@ -1281,19 +1280,6 @@
       }
     },
     {
-      "key": "夸克网盘",
-      "name": "夸克 | 网盘",
-      "type": 3,
-      "api": "csp_PanQuark",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "美剧迷",
       "name": "美剧迷 | 磁力",
       "type": 3,
@@ -1356,6 +1342,13 @@
       "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/蓝光影院.js"
     },
     {
+      "key": "永乐影视",
+      "name": "🎡永乐｜蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
+    },
+    {
       "key": "葫芦",
       "name": "🌓王林丨蓝光影视",
       "type": 3,
@@ -1367,23 +1360,6 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
-    },
-    {
-      "key": "永乐影视",
-      "name": "🎡永乐｜蓝光影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/XBPQ/永乐影视.json"
-    },
-    {
-      "key": "New6v",
-      "name": "New6V | 磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
     },
     {
       "key": "卡卡",
@@ -1431,30 +1407,6 @@
         ]
       },
       "timeout": 60
-    },
-    {
-      "key": "ik4k影院",
-      "name": "💝分享ik4k",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ik4k影院.py"
-    },
-    {
-      "key": "新4K",
-      "name": "💝分享奇迹",
-      "type": 1,
-      "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
-    },
-    {
-      "key": "CO4K",
-      "name": "💝分享咖啡",
-      "type": 4,
-      "api": "csp_SportsKafei"
-    },
-    {
-      "key": "4k-av",
-      "name": "4k-av",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"
     },
     {
       "key": "bfzy_暴风",
@@ -1892,6 +1844,14 @@
       "quickSearch": 1
     },
     {
+      "key": "无尽资源2",
+      "name": "无尽资源2(切)",
+      "type": 1,
+      "api": "https://wuzy9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "火狐",
       "name": "🦊火狐采集",
       "type": 1,
@@ -1924,14 +1884,6 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "无尽资源2",
-      "name": "无尽资源2(切)",
-      "type": 1,
-      "api": "https://wuzy9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "88看球",
@@ -2068,6 +2020,18 @@
       "filterable": 1
     },
     {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key": "童趣",
       "name": "童趣 | 儿童",
       "type": 3,
@@ -2095,18 +2059,6 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
-      }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
       }
     }
   ],
@@ -2204,10 +2156,53 @@
   ],
   "lives": [
     {
-      "name": "🐯牛虎直播 ┃ 央卫高清",
+      "name": "🐯牛虎 ┃ 官方综合",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
-      "playerType": 1
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "feiyang.allinone",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/tv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "feiyang.bililive",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/bililive.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "feiyang.huyayqk",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "feiyang.douyuyqk",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "feiyang.yylunbo",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "rules": [
