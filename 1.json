@@ -61,38 +61,155 @@
       "ext": "https://cz01.vip"
     },
     {
-      "key": "wogg",
-      "name": "👽玩偶哥哥 ┃ 4K原画",
+      "key": "WoGGGuard",
+      "name": "👽玩偶哥哥 ┃ 4K弹幕",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_WoGGGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": {
-        "site": [
-          "https://www.wogg.link",
-          "https://www.wogg.live",
-          "https://woggpan.888484.xyz",
-          "https://wogg.xxooo.cf"
-        ]
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
     {
-      "key": "ConfigCenter",
-      "name": "🅿网盘配置中心 ┃ 扫码绑定",
+      "key": "MyDriveGuard",
+      "name": "🗂我的云盘 ┃ 扫码状态",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_MyDriveGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "changeable": 0,
+      "indexs": 0,
       "searchable": 0,
+      "style": {
+        "type": "oval"
+      },
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "SeedhubGuard",
+      "name": "💡聚剧 ┃ 四盘4K",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5"
+    },
+    {
+      "key": "LibvioGuard",
+      "name": "🌟立播 ┃ 4K秒播",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "siteUrl": "https://www.libvio.pw/"
+      }
+    },
+    {
+      "key": "YpanSoGuard",
+      "name": "🐌盘她 ┃ 夸克4K",
+      "type": 3,
+      "api": "csp_YpanSoGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "BpanSoGuard",
+      "name": "🐞盘他 ┃ 阿里4K",
+      "type": 3,
+      "api": "csp_BpanSoGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "KkSsGuard",
+      "name": "🌶️抠抠 ┃ 搜搜4K",
+      "type": 3,
+      "api": "csp_KkSsGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "UuSsGuard",
+      "name": "🌈优汐 ┃ 搜搜4K",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "ZPanGuard",
+      "name": "🎈盘搜 ┃ 四盘4K",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://107.173.211.148/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "JPanGuard",
+      "name": "🦋易搜 ┃ 四盘4K",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "https://so.252035.xyz/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "AppV7Fz",
       "name": "嗷呜①线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Fz",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -102,8 +219,8 @@
       "name": "嗷呜②线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Xy",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -113,8 +230,8 @@
       "name": "嗷呜③线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Zjdr",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -124,8 +241,8 @@
       "name": "嗷呜④线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Xyz",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -135,8 +252,8 @@
       "name": "嗷呜⑤线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Xnm",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -146,8 +263,8 @@
       "name": "嗷呜⑥线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Mtq",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -157,8 +274,8 @@
       "name": "嗷呜⑦线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Llq",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -168,8 +285,8 @@
       "name": "嗷呜⑧线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Xsz",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -179,8 +296,8 @@
       "name": "嗷呜⑨线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Xhr",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -190,8 +307,8 @@
       "name": "嗷呜⑩线 ┃ 秒播",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "AppV7Dsx",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -201,8 +318,8 @@
       "name": "嗷呜瓜子 ┃ 秒播",
       "type": 3,
       "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1,
       "ext": "Guazi",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
@@ -472,14 +589,15 @@
       "name": "💥师兄┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Dsx",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "华谊",
@@ -627,126 +745,135 @@
       "name": "💥粉猪┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Fz",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 咸鱼",
       "name": "💥咸鱼┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Xy",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 追剧达人",
       "name": "💥追剧┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Zjdr",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 小柚子",
       "name": "💥柚子┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Xyz",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 小柠檬",
       "name": "💥柠檬┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Xnm",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 蒙太奇",
       "name": "💥太奇┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Mtq",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 零零七影视",
       "name": "💥零七┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Llq",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 小柿子",
       "name": "💥柿子┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Xsz",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "AppV7 | 小黄人",
       "name": "💥黄人┃秒播💥",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": {
         "config": "AppV7Xhr",
         "proxyImg": false
       },
       "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
+      "quickSearch": 0
     },
     {
       "key": "drpy_js_酷云77",
@@ -777,8 +904,8 @@
       "type": 3,
       "api": "csp_PantaAmns",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": {
         "site": [
