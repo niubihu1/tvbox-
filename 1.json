@@ -739,18 +739,6 @@
       }
     },
     {
-      "key": "应该可以",
-      "name": "💝分享4|K",
-      "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
-    },
-    {
-      "key": "影",
-      "name": "影",
-      "type": 3,
-      "api": "https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py"
-    },
-    {
       "key": "蚂蚁",
       "name": "🐜1080P┃蚂蚁",
       "type": 3,
@@ -769,6 +757,53 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
+    },
+    {
+      "key": "应该可以",
+      "name": "💝分享4|K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "csp_XYQHiker_age动漫",
+      "name": "☄️｜AGE｜动漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
+      "jar": "https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar"
+    },
+    {
+      "key": "方舟动漫",
+      "name": "🌸｜方舟丨动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.cyfz.top",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d"
+      }
+    },
+    {
+      "key": "曼波动漫",
+      "name": "🌸｜曼波｜动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.omofun1.top",
+        "dataKey": "66dc309cbeeca454",
+        "dataIv": "66dc309cbeeca454"
+      }
+    },
+    {
+      "key": "影",
+      "name": "影",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py"
     },
     {
       "key": "樱之空动漫",
@@ -840,41 +875,6 @@
         "搜索url": "http://www.ting38.com/search.php?searchword={wd}",
         "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html",
         "分类": "新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"
-      }
-    },
-    {
-      "key": "csp_XYQHiker_age动漫",
-      "name": "☄️｜AGE｜动漫",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar"
-    },
-    {
-      "key": "方舟动漫",
-      "name": "🌸｜方舟丨动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
-      }
-    },
-    {
-      "key": "曼波动漫",
-      "name": "🌸｜曼波｜动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.omofun1.top",
-        "dataKey": "66dc309cbeeca454",
-        "dataIv": "66dc309cbeeca454"
       }
     },
     {
@@ -1139,6 +1139,17 @@
           "https://seedhub.fun"
         ]
       }
+    },
+    {
+      "key": "PanSou",
+      "name": "☁云搜5",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
     },
     {
       "key": "Zhaozy",
@@ -1585,22 +1596,6 @@
       "quickSearch": 1
     },
     {
-      "key": "无尽资源2",
-      "name": "无尽资源2(切)",
-      "type": 1,
-      "api": "https://wuzy9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "无尽资源",
-      "name": "无尽资源(切)",
-      "type": 1,
-      "api": "https://wujinzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "火狐",
       "name": "🦊火狐采集",
       "type": 1,
@@ -1633,6 +1628,22 @@
         "日本动漫",
         "欧美动漫"
       ]
+    },
+    {
+      "key": "无尽资源2",
+      "name": "无尽资源2(切)",
+      "type": 1,
+      "api": "https://wuzy9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "无尽资源",
+      "name": "无尽资源(切)",
+      "type": 1,
+      "api": "https://wujinzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "高清资源网",
@@ -1857,19 +1868,6 @@
       }
     },
     {
-      "key": "童趣",
-      "name": "童趣 | 儿童",
-      "type": 3,
-      "api": "csp_TongQu",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
-    },
-    {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩｜戏曲",
       "type": 3,
@@ -1884,6 +1882,19 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
+      }
+    },
+    {
+      "key": "童趣",
+      "name": "童趣 | 儿童",
+      "type": 3,
+      "api": "csp_TongQu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
       }
     }
   ],
