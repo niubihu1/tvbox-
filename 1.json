@@ -44,7 +44,11 @@
       "name": "🐯牛虎 ┃ 豆瓣热播",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "homePage": "热门电影,热播剧集,热门动漫,热播综艺,电影筛选,电视筛选,电影榜单,电视剧榜单"
+      }
     },
     {
       "key": "CZ",
@@ -1900,14 +1904,14 @@
   ],
   "parses": [
     {
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
     },
     {
       "name": "虾米",
