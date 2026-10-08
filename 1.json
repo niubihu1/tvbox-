@@ -190,8 +190,8 @@
       "key": "drpy_js_低端影视",
       "name": " 🎑低端影视[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/ddys.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/ddys.js"
     },
     {
       "key": "独播影视",
@@ -207,8 +207,7 @@
       "name": "💝分享农民",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.com/https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
-      "ext": "https://gh-proxy.com/https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
     {
       "key": "爱看",
@@ -454,23 +453,19 @@
       "key": "drpy_js_新视觉影视",
       "name": " 🎑新视觉影视[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/新视觉影视.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/新视觉影视.js"
     },
     {
-      "key": "AppV7 | 大师兄",
-      "name": "💥师兄┃秒播💥",
+      "key": "大师兄",
+      "name": "💂大师兄┃影视",
       "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "csp_XBPQ",
       "ext": {
-        "config": "AppV7Dsx",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
+        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
     },
     {
       "key": "华谊",
@@ -614,15 +609,14 @@
       "key": "drpy_js_在线之家Ⅱ",
       "name": " 🎑在线之家Ⅱ[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/在线之家Ⅱ.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/在线之家Ⅱ.js"
     },
     {
       "key": "电影先生1",
       "name": "❤️|电影┃先生",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -639,8 +633,8 @@
       "key": "drpy_js_小宝影院",
       "name": " 🎑小宝影院 🚪[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/小宝影院.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/小宝影院.js"
     },
     {
       "key": "瓜子体育",
@@ -655,145 +649,11 @@
       }
     },
     {
-      "key": "AppV7 | 粉猪追剧",
-      "name": "💥粉猪┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Fz",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 咸鱼",
-      "name": "💥咸鱼┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xy",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 追剧达人",
-      "name": "💥追剧┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Zjdr",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 小柚子",
-      "name": "💥柚子┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xyz",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 小柠檬",
-      "name": "💥柠檬┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xnm",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 蒙太奇",
-      "name": "💥太奇┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Mtq",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 零零七影视",
-      "name": "💥零七┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Llq",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 小柿子",
-      "name": "💥柿子┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xsz",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar",
-      "quickSearch": 1
-    },
-    {
-      "key": "AppV7 | 小黄人",
-      "name": "💥黄人┃秒播💥",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xhr",
-        "proxyImg": false
-      },
-      "timeout": 120,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/aowu.jar"
-    },
-    {
       "key": "drpy_js_酷云77",
       "name": " 🎑酷云77[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/酷云77.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/酷云77.js"
     },
     {
       "key": "🌸樱花动漫",
@@ -806,19 +666,8 @@
       "key": "drpy_js_秋霞",
       "name": " 🎑秋霞影院[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/秋霞.js"
-    },
-    {
-      "key": "大师兄",
-      "name": "💂大师兄┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/秋霞.js"
     },
     {
       "key": "骚火",
@@ -846,8 +695,8 @@
       "key": "drpy_js_骚火电影",
       "name": " 🎑骚火电影[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/骚火电影.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/骚火电影.js"
     },
     {
       "key": "养生堂",
@@ -921,13 +770,6 @@
       "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
     },
     {
-      "key": "drpy_js_1080P",
-      "name": " 🎑1080P[DRPY]",
-      "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/1080P.js"
-    },
-    {
       "key": "樱之空动漫",
       "name": "💝分享樱空",
       "type": 3,
@@ -938,14 +780,157 @@
       "category": "综合"
     },
     {
+      "key": "xbpq_喵次元",
+      "name": "💖喵喵动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "简介": "分享者提醒您请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p>",
+        "分类url": "https://www.catwcy.com/show/{cateId}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "日本动漫$1#动漫电影$2#欧美动漫$25#4K专区$26",
+        "搜索url": "/search.html?wd={wd}"
+      }
+    },
+    {
+      "key": "58动漫网",
+      "name": "💖之家动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "分享者提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+        "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
+        "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
+        "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
+      }
+    },
+    {
+      "key": "动漫大全",
+      "name": "💖大全动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "分享者特别提醒您：请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+        "线路数组": "<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
+        "线路标题": "</i>&nbsp;&&</a>+集",
+        "分类url": "https://dingdingdm.com/list/{cateId}-{catePg}.html",
+        "分类": "动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
+      }
+    },
+    {
+      "key": "58动漫",
+      "name": "💖吾吧动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "分享者特别提醒您：请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+        "线路数组": "data-toggle=\"tab&&</a>",
+        "线路标题": ">&&<",
+        "搜索url": "http://www.ting38.com/search.php?searchword={wd}",
+        "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html",
+        "分类": "新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"
+      }
+    },
+    {
+      "key": "csp_XYQHiker_age动漫",
+      "name": "☄️｜AGE｜动漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
+      "jar": "https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar"
+    },
+    {
+      "key": "方舟动漫",
+      "name": "🌸｜方舟丨动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.cyfz.top",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d"
+      }
+    },
+    {
+      "key": "曼波动漫",
+      "name": "🌸｜曼波｜动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.omofun1.top",
+        "dataKey": "66dc309cbeeca454",
+        "dataIv": "66dc309cbeeca454"
+      }
+    },
+    {
+      "key": "动漫堂",
+      "name": "漫堂",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/08343ea7d5d8d12da1c16f9ccf03040d.js",
+      "ext": {
+        "host": "http://110.42.67.221:6802",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "去看吧",
+      "name": "🌾去看动漫",
+      "type": 3,
+      "api": "https://www.yingm.cc/dm/js/drpy.min.js",
+      "ext": "https://www.yingm.cc/dm/js/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"
+    },
+    {
+      "key": "kk动漫",
+      "name": "KKK┃动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://cn.agekkkk.com/",
+        "线路标题": "动漫",
+        "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
+        "简介": "style=\"display: none;\">&&</span>",
+        "分类url": "https://cn.agekkkk.com/type/{cateId}-{catePg}.html",
+        "分类": "日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3"
+      }
+    },
+    {
       "key": "py_ MiFunP动漫",
       "name": "💖分享MiFunP",
       "type": 3,
-      "api": "https://gh-proxy.com/https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "drpy_js_AGE动漫",
+      "name": " 🎑AGE动漫[DRPY]",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/AGE动漫.js"
     },
     {
       "key": "WoGGGuard",
@@ -1272,8 +1257,8 @@
       "key": "drpy_js_虎牙直播",
       "name": " 🎑虎牙直播[DRPY]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/heroaku/TVboxo/main/JS/虎牙直播.js"
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/虎牙直播.js"
     },
     {
       "key": "淘片资源",
@@ -1892,7 +1877,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
