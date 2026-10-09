@@ -53,16 +53,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀全网精选源 [293ms]",
+      "sourceName": "🚀全网精选源 [304ms]",
       "sourceUrl": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "sourceName": "🚀游魂多仓（备） [34ms]",
+      "sourceName": "🚀游魂多仓（备） [120ms]",
       "sourceUrl": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "sourceName": "🚀全网精选源 [47ms]",
-      "sourceUrl": "https://12586.kstore.space/123.txt"
+      "sourceName": "🚀全网精选源 [184ms]",
+      "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
     }
   ],
   "urls": [
@@ -119,16 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀全网精选源 [293ms]",
+      "name": "🚀全网精选源 [304ms]",
       "url": "http://z.qiqiv.cn/123.txt"
     },
     {
-      "name": "🚀游魂多仓（备） [34ms]",
+      "name": "🚀游魂多仓（备） [120ms]",
       "url": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "name": "🚀全网精选源 [47ms]",
-      "url": "https://12586.kstore.space/123.txt"
+      "name": "🚀全网精选源 [184ms]",
+      "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
     }
   ]
 }

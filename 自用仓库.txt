@@ -2,92 +2,92 @@
 {
     "urls": [
         {
-            "name": "🐯牛虎 ┃ 豆瓣热播 [429ms]",
+            "name": "🐯牛虎 ┃ 豆瓣热播 [397ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
         },
         {
-            "name": "🐼肥猫线路 ┃ 官方主力 [826ms]",
+            "name": "🐼肥猫线路 ┃ 官方主力 [833ms]",
             "url": "http://xn--z7x900a.net/tv"
         },
         {
-            "name": "🍚饭太硬线 ┃ 旗舰片单 [327ms]",
+            "name": "🍚饭太硬线 ┃ 旗舰片单 [319ms]",
             "url": "http://www.xn--sss604efuw.cc/tv"
         },
         {
-            "name": "🐟摸鱼接口 ┃ 4K极速 [525ms]",
+            "name": "🐟摸鱼接口 ┃ 4K极速 [518ms]",
             "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top"
         },
         {
-            "name": "📺EasyTV ┃ 熵侦精选 [838ms]",
+            "name": "📺EasyTV ┃ 熵侦精选 [810ms]",
             "url": "https://easyzz.dpdns.org/easytv.jpg"
         },
         {
-            "name": "🍃南风接口 ┃ 官方精选 [1008ms]",
+            "name": "🍃南风接口 ┃ 官方精选 [945ms]",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
         },
         {
-            "name": "🍵荷城茶秀 ┃ 道长经典 [1285ms]",
+            "name": "🍵荷城茶秀 ┃ 道长经典 [1663ms]",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
         },
         {
-            "name": "⚡俊宇线路 ┃ 蓝光秒播 [105ms]",
+            "name": "⚡俊宇线路 ┃ 蓝光秒播 [214ms]",
             "url": "http://home.jundie.top:81/top98.json"
         },
         {
-            "name": "🚀王二小线 ┃ 综合推荐 [294ms]",
+            "name": "🚀王二小线 ┃ 综合推荐 [657ms]",
             "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
         },
         {
-            "name": "🌟潇洒线路 ┃ 优质备用 [330ms]",
+            "name": "🌟潇洒线路 ┃ 优质备用 [328ms]",
             "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
         },
         {
-            "name": "👿心魔线路 ┃ 极速专线 [440ms]",
+            "name": "👿心魔线路 ┃ 极速专线 [116ms]",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
         {
-            "name": "📦小盒子线 ┃ 精品多线 [619ms]",
+            "name": "📦小盒子线 ┃ 精品多线 [601ms]",
             "url": "http://xhztv.top/dc/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json"
         },
         {
-            "name": "🐼肥猫线路 ┃ 备用镜像 [347ms]",
+            "name": "🐼肥猫线路 ┃ 备用镜像 [318ms]",
             "url": "http://xn--z7x900a.live/"
         },
         {
-            "name": "🍚饭太硬线 ┃ 备用镜像 [487ms]",
+            "name": "🍚饭太硬线 ┃ 备用镜像 [340ms]",
             "url": "http://www.xn--sss604efuw.net/tv"
         },
         {
-            "name": "🚀周J线路 ┃ 备用维护 [692ms]",
+            "name": "🚀周J线路 ┃ 备用维护 [610ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box"
         },
         {
-            "name": "☁️高天流云 ┃ 极速专线 [95ms]",
+            "name": "☁️高天流云 ┃ 极速专线 [162ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
         },
         {
-            "name": "👑刘备线路 ┃ 经典整合 [408ms]",
+            "name": "👑刘备线路 ┃ 经典整合 [737ms]",
             "url": "https://raw.liucn.cc/box/m.json"
         },
         {
-            "name": "🐴小马线路 ┃ 综合备用 [136ms]",
+            "name": "🐴小马线路 ┃ 综合备用 [134ms]",
             "url": "http://szyyds.cn/tv/x.json"
         },
         {
-            "name": "📛挺好线路 ┃ 优质备用 [273ms]",
+            "name": "📛挺好线路 ┃ 优质备用 [252ms]",
             "url": "https://ztha.top/TVBox/thdjk.json"
         },
         {
-            "name": "🚀fish2018_tvbox_源 [124ms]",
+            "name": "🚀fish2018_tvbox_源 [54ms]",
             "url": "https://www.iyouhun.com/tv/0"
         },
         {
-            "name": "🚀™夜猫子源 [202ms]",
+            "name": "🚀™夜猫子源 [205ms]",
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
         },
         {
-            "name": "🚀™菜妮丝源 [315ms]",
-            "url": "https://tv.xn--yhqu5zs87a.top/"
+            "name": "🚀东篱线路 [612ms]",
+            "url": "https://chigua.eu.org"
         }
     ]
 }
