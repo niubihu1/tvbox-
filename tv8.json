@@ -53,16 +53,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀TVAPP_源 [在线]",
+      "sourceName": "🚀TVAPP_源 [39ms]",
+      "sourceUrl": "https://www.iyouhun.com/tv/yh"
+    },
+    {
+      "sourceName": "🚀TVAPP_源 [609ms]",
       "sourceUrl": "http://xhztv.top/DC.txt"
     },
     {
-      "sourceName": "🚀TVAPP_源 [在线]",
+      "sourceName": "🚀TVAPP_源 [703ms]",
       "sourceUrl": "http://xhztv.top/dc/"
-    },
-    {
-      "sourceName": "🚀TVAPP_源 [在线]",
-      "sourceUrl": "https://www.iyouhun.com/tv/yh"
     }
   ],
   "urls": [
@@ -119,16 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀TVAPP_源 [在线]",
+      "name": "🚀TVAPP_源 [39ms]",
+      "url": "https://www.iyouhun.com/tv/yh"
+    },
+    {
+      "name": "🚀TVAPP_源 [609ms]",
       "url": "http://xhztv.top/DC.txt"
     },
     {
-      "name": "🚀TVAPP_源 [在线]",
+      "name": "🚀TVAPP_源 [703ms]",
       "url": "http://xhztv.top/dc/"
-    },
-    {
-      "name": "🚀TVAPP_源 [在线]",
-      "url": "https://www.iyouhun.com/tv/yh"
     }
   ]
 }

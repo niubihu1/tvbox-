@@ -832,6 +832,51 @@
       "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/秋霞.js"
     },
     {
+      "key": "预告",
+      "name": "新片 | 预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0
+    },
+    {
+      "key": "骚火电影",
+      "name": "💘骚骚┃直连💘",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/hackyjso/TVbox/raw/main/drpy_js/libs/drpy2.min.js",
+      "ext": "https://gitee.com/hackyjso/TVbox/raw/main/drpy_js/js/saohuo.js"
+    },
+    {
+      "key": "骚火",
+      "name": "💢骚火",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+    {
+      "key": "drpy_js_骚火电影",
+      "name": " 🎑骚火电影[DRPY]",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/骚火电影.js"
+    },
+    {
       "key": "番社动漫",
       "name": "番社 | 动漫",
       "type": 3,
@@ -857,13 +902,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "预告",
-      "name": "新片 | 预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
     },
     {
       "key": "养生堂",
@@ -932,44 +970,6 @@
         "type": "list",
         "ratio": 1.433
       }
-    },
-    {
-      "key": "骚火电影",
-      "name": "💘骚骚┃直连💘",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/hackyjso/TVbox/raw/main/drpy_js/libs/drpy2.min.js",
-      "ext": "https://gitee.com/hackyjso/TVbox/raw/main/drpy_js/js/saohuo.js"
-    },
-    {
-      "key": "骚火",
-      "name": "💢骚火",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-    {
-      "key": "drpy_js_骚火电影",
-      "name": " 🎑骚火电影[DRPY]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/heroaku/drpy/master/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/骚火电影.js"
     },
     {
       "key": "半日99",
@@ -1874,6 +1874,16 @@
       "filterable": 1
     },
     {
+      "key": "push_agent",
+      "name": "▶┃推送┃磁力",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
       "key": "童趣",
       "name": "童趣 | 儿童",
       "type": 3,
@@ -1902,16 +1912,6 @@
         "type": "rect",
         "ratio": 1.618
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "▶┃推送┃磁力",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ],
   "lives": [
