@@ -12,6 +12,19 @@
       "searchable": 0
     },
     {
+      "key": "配置中心",
+      "name": "🐯牛虎 ┃ 配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
       "key": "CZ",
       "name": "🏭┆厂长┆影视",
       "type": 3,
@@ -861,19 +874,6 @@
       }
     },
     {
-      "key": "配置中心",
-      "name": "🐯牛虎 ┃ 配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
-    },
-    {
       "key": "本地",
       "name": "本地视频 | 10.8",
       "type": 3,
@@ -933,8 +933,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
           "https://666.666291.xyz",
+          "https://123.666291.xyz",
           "https://www.muou.site",
           "https://www.muou.asia"
         ]
@@ -970,8 +970,8 @@
         "site": [
           "http://tvpanpan.site",
           "http://www.tvpanpan.site",
-          "https://www.fmcf.fun",
-          "https://www.mmpanpan.site"
+          "https://www.mmpanpan.site",
+          "https://www.fmcf.fun"
         ]
       },
       "timeout": 60
@@ -1023,8 +1023,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:16969",
-          "http://xhban.xyz"
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
         ]
       },
       "timeout": 60
@@ -1040,8 +1040,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.huanjuanwp.shop",
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60
@@ -1084,8 +1084,8 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://mihdr.top",
           "https://zhizhenpan.fun",
+          "https://mihdr.top",
           "https://zhizhenpan.com"
         ]
       }
@@ -1610,6 +1610,14 @@
       "quickSearch": 0
     },
     {
+      "key": "光速资源",
+      "name": "光速资源(切)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "日诚影院",
       "name": "日诚影院(聚)",
       "type": 1,
@@ -1625,14 +1633,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "光速资源",
-      "name": "光速资源(切)",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "无尽资源2",
