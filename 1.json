@@ -658,13 +658,6 @@
       "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/秋霞.js"
     },
     {
-      "key": "预告",
-      "name": "新片 | 预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
-    },
-    {
       "key": "番社动漫",
       "name": "番社 | 动漫",
       "type": 3,
@@ -936,8 +929,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
           "https://666.666291.xyz",
+          "https://123.666291.xyz",
           "https://www.muou.asia",
           "https://www.muou.site"
         ]
@@ -972,8 +965,8 @@
       "ext": {
         "site": [
           "http://tvpanpan.site",
-          "https://www.fmcf.fun",
           "http://www.tvpanpan.site",
+          "https://www.fmcf.fun",
           "https://www.mmpanpan.site"
         ]
       },
