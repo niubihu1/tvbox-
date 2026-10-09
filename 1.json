@@ -1,7 +1,7 @@
 {
   "spider": "https://img2.tofaka.com/autoupload/f/l7b72/20261008/34LT/0X0/easy10.08.png;md5;b5c71cca5b4e242af6feb755e9cac308",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "https://raw.giteeusercontent.com/easy999/test1/raw/main/logo.gif",
+  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/logo.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
@@ -930,9 +930,9 @@
       "ext": {
         "site": [
           "https://666.666291.xyz",
-          "https://www.muou.site",
           "https://123.666291.xyz",
-          "https://www.muou.asia"
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       },
       "timeout": 60
@@ -964,8 +964,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://tvpanpan.site",
           "http://www.tvpanpan.site",
+          "http://tvpanpan.site",
           "https://www.fmcf.fun",
           "https://www.mmpanpan.site"
         ]
@@ -1080,8 +1080,8 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://zhizhenpan.fun",
           "https://mihdr.top",
+          "https://zhizhenpan.fun",
           "https://zhizhenpan.com"
         ]
       }
