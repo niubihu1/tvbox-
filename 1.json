@@ -1632,6 +1632,23 @@
       "quickSearch": 0
     },
     {
+      "key": "日诚影院",
+      "name": "日诚影院(聚)",
+      "type": 1,
+      "api": "http://tv.rcz168.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "vod_蜂巢",
+      "name": "雷蒙影视 | ️🚀蜂巢",
+      "type": 1,
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "光速资源",
       "name": "光速资源(切)",
       "type": 1,
@@ -1690,23 +1707,6 @@
         "日韩动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "日诚影院",
-      "name": "日诚影院(聚)",
-      "type": 1,
-      "api": "http://tv.rcz168.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "vod_蜂巢",
-      "name": "雷蒙影视 | ️🚀蜂巢",
-      "type": 1,
-      "api": "https://api.fczy888.me/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "88看球",
