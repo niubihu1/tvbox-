@@ -916,8 +916,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:12521",
-          "http://xsayang.fun"
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
         ]
       },
       "timeout": 60
@@ -933,8 +933,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
           "https://123.666291.xyz",
+          "https://666.666291.xyz",
           "https://www.muou.site",
           "https://www.muou.asia"
         ]
@@ -1084,8 +1084,8 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://zhizhenpan.fun",
           "https://mihdr.top",
+          "https://zhizhenpan.fun",
           "https://zhizhenpan.com"
         ]
       }
@@ -1610,14 +1610,6 @@
       "quickSearch": 0
     },
     {
-      "key": "光速资源",
-      "name": "光速资源(切)",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "日诚影院",
       "name": "日诚影院(聚)",
       "type": 1,
@@ -1633,6 +1625,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "光速资源",
+      "name": "光速资源(切)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "无尽资源2",
@@ -1880,14 +1880,6 @@
       "playerType": 2
     },
     {
-      "name": "Easy秒播 ┃ 极速专线",
-      "type": 0,
-      "url": "http://45.192.97.170:5211/922816",
-      "timeout": 10,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "name": "feiyang.allinone",
       "type": 0,
       "url": "http://127.0.0.1:35457/tv.m3u",
@@ -2015,9 +2007,9 @@
       }
     },
     {
-      "name": "AB",
+      "name": "XY",
       "type": 0,
-      "url": "http://jx.abplayer.top/?url="
+      "url": "https://jx.xyflv.cc/?url="
     }
   ],
   "rules": [
@@ -2078,8 +2070,7 @@
       "name": "饭团点击",
       "hosts": [
         "dadagui",
-        "freeok",
-        "dadagui"
+        "freeok"
       ],
       "script": [
         "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
@@ -2091,7 +2082,7 @@
         "www.maolvys.com"
       ],
       "script": [
-        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+        "document.getElementsByClassName('swal-button--confirm')[0].click()"
       ]
     }
   ],

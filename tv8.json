@@ -53,16 +53,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀全网精选源 [304ms]",
-      "sourceUrl": "http://z.qiqiv.cn/123.txt"
-    },
-    {
       "sourceName": "🚀游魂多仓（备） [120ms]",
       "sourceUrl": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "sourceName": "🚀全网精选源 [184ms]",
-      "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+      "sourceName": "🚀盒多仓接口 [215ms]",
+      "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"
+    },
+    {
+      "sourceName": "🚀点播-临时多仓接口 [236ms]",
+      "sourceUrl": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
     }
   ],
   "urls": [
@@ -119,16 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀全网精选源 [304ms]",
-      "url": "http://z.qiqiv.cn/123.txt"
-    },
-    {
       "name": "🚀游魂多仓（备） [120ms]",
       "url": "https://www.iyouhun.com/tv/yh"
     },
     {
-      "name": "🚀全网精选源 [184ms]",
-      "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+      "name": "🚀盒多仓接口 [215ms]",
+      "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"
+    },
+    {
+      "name": "🚀点播-临时多仓接口 [236ms]",
+      "url": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
     }
   ]
 }

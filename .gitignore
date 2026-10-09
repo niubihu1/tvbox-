@@ -20,5 +20,7 @@ auto_engine/
 开发记忆日志/
 *.bat
 *.log
+*.bak
+*.tmp
 
 
