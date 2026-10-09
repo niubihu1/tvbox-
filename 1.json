@@ -132,6 +132,16 @@
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
     },
     {
+      "api": "https://newtv.ggff.net/jubaba?token=fhJadO1R",
+      "key": "呜剧",
+      "name": "嗷呜剧(坏了)",
+      "type": 4,
+      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Guazi",
       "name": "嗷呜瓜子 ┃ 秒播",
       "type": 3,
@@ -851,12 +861,6 @@
       }
     },
     {
-      "key": "三六零",
-      "name": "三六零 | 视频",
-      "type": 3,
-      "api": "csp_SP360"
-    },
-    {
       "key": "配置中心",
       "name": "🐯牛虎 ┃ 配置中心",
       "type": 3,
@@ -929,10 +933,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
           "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://123.666291.xyz",
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       },
       "timeout": 60
@@ -1036,8 +1040,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.huanjuanwp.shop",
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60
