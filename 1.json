@@ -746,6 +746,19 @@
       "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/骚火电影.js"
     },
     {
+      "key": "养生堂",
+      "name": "养生 | 知识",
+      "type": 3,
+      "api": "csp_YST",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
+    {
       "key": "半日99",
       "name": "半日 | APP",
       "type": 3,
@@ -757,19 +770,6 @@
         "package": "com.yf.lelian",
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
-      "key": "养生堂",
-      "name": "养生 | 知识",
-      "type": 3,
-      "api": "csp_YST",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
       }
     },
     {
@@ -916,8 +916,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
+          "http://38.76.197.172:12521",
+          "http://xsayang.fun"
         ]
       },
       "timeout": 60
@@ -935,8 +935,8 @@
         "site": [
           "https://666.666291.xyz",
           "https://123.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       },
       "timeout": 60
@@ -969,8 +969,8 @@
       "ext": {
         "site": [
           "http://tvpanpan.site",
-          "http://www.tvpanpan.site",
           "https://www.mmpanpan.site",
+          "http://www.tvpanpan.site",
           "https://www.fmcf.fun"
         ]
       },
@@ -1023,8 +1023,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xhban.xyz",
-          "http://38.76.197.172:16969"
+          "http://38.76.197.172:16969",
+          "http://xhban.xyz"
         ]
       },
       "timeout": 60
