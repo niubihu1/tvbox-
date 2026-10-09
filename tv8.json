@@ -53,16 +53,16 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀TVAPP_源 [39ms]",
+      "sourceName": "🚀全网精选源 [317ms]",
+      "sourceUrl": "http://z.qiqiv.cn/123.txt"
+    },
+    {
+      "sourceName": "🚀全网精选源 [48ms]",
+      "sourceUrl": "https://12586.kstore.space/123.txt"
+    },
+    {
+      "sourceName": "🚀游魂多仓（备） [132ms]",
       "sourceUrl": "https://www.iyouhun.com/tv/yh"
-    },
-    {
-      "sourceName": "🚀TVAPP_源 [609ms]",
-      "sourceUrl": "http://xhztv.top/DC.txt"
-    },
-    {
-      "sourceName": "🚀TVAPP_源 [703ms]",
-      "sourceUrl": "http://xhztv.top/dc/"
     }
   ],
   "urls": [
@@ -119,16 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀TVAPP_源 [39ms]",
+      "name": "🚀全网精选源 [317ms]",
+      "url": "http://z.qiqiv.cn/123.txt"
+    },
+    {
+      "name": "🚀全网精选源 [48ms]",
+      "url": "https://12586.kstore.space/123.txt"
+    },
+    {
+      "name": "🚀游魂多仓（备） [132ms]",
       "url": "https://www.iyouhun.com/tv/yh"
-    },
-    {
-      "name": "🚀TVAPP_源 [609ms]",
-      "url": "http://xhztv.top/DC.txt"
-    },
-    {
-      "name": "🚀TVAPP_源 [703ms]",
-      "url": "http://xhztv.top/dc/"
     }
   ]
 }
