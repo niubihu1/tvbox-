@@ -2,91 +2,91 @@
 {
     "urls": [
         {
-            "name": "🐯牛虎 ┃ 豆瓣热播 [403ms]",
+            "name": "🐯牛虎 ┃ 豆瓣热播 [360ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
         },
         {
-            "name": "🐼肥猫线路 ┃ 官方主力 [888ms]",
+            "name": "🐼肥猫线路 ┃ 官方主力 [607ms]",
             "url": "http://xn--z7x900a.net/tv"
         },
         {
-            "name": "🍚饭太硬线 ┃ 旗舰片单 [290ms]",
+            "name": "🍚饭太硬线 ┃ 旗舰片单 [366ms]",
             "url": "http://www.xn--sss604efuw.cc/tv"
         },
         {
-            "name": "🐟摸鱼接口 ┃ 4K极速 [3575ms]",
+            "name": "🐟摸鱼接口 ┃ 4K极速 [516ms]",
             "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top"
         },
         {
-            "name": "📺EasyTV ┃ 熵侦精选 [364ms]",
+            "name": "📺EasyTV ┃ 熵侦精选 [734ms]",
             "url": "https://easyzz.dpdns.org/easytv.jpg"
         },
         {
-            "name": "🍃南风接口 ┃ 官方精选 [1502ms]",
+            "name": "🍃南风接口 ┃ 官方精选 [1021ms]",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
         },
         {
-            "name": "🍵荷城茶秀 ┃ 道长经典 [1254ms]",
+            "name": "🍵荷城茶秀 ┃ 道长经典 [1233ms]",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
         },
         {
-            "name": "⚡俊宇线路 ┃ 蓝光秒播 [208ms]",
+            "name": "⚡俊宇线路 ┃ 蓝光秒播 [116ms]",
             "url": "http://home.jundie.top:81/top98.json"
         },
         {
-            "name": "🚀王二小线 ┃ 综合推荐 [394ms]",
+            "name": "🚀王二小线 ┃ 综合推荐 [303ms]",
             "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
         },
         {
-            "name": "🌟潇洒线路 ┃ 优质备用 [67ms]",
+            "name": "🌟潇洒线路 ┃ 优质备用 [614ms]",
             "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
         },
         {
-            "name": "👿心魔线路 ┃ 极速专线 [399ms]",
+            "name": "👿心魔线路 ┃ 极速专线 [418ms]",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
         {
-            "name": "📦小盒子线 ┃ 精品多线 [453ms]",
+            "name": "📦小盒子线 ┃ 精品多线 [622ms]",
             "url": "http://xhztv.top/dc/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json"
         },
         {
-            "name": "🐼肥猫线路 ┃ 备用镜像 [319ms]",
+            "name": "🐼肥猫线路 ┃ 备用镜像 [341ms]",
             "url": "http://xn--z7x900a.live/"
         },
         {
-            "name": "🍚饭太硬线 ┃ 备用镜像 [311ms]",
+            "name": "🍚饭太硬线 ┃ 备用镜像 [279ms]",
             "url": "http://www.xn--sss604efuw.net/tv"
         },
         {
-            "name": "🚀周J线路 ┃ 备用维护 [388ms]",
+            "name": "🚀周J线路 ┃ 备用维护 [432ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box"
         },
         {
-            "name": "☁️高天流云 ┃ 极速专线 [3ms]",
+            "name": "☁️高天流云 ┃ 极速专线 [81ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
         },
         {
-            "name": "👑刘备线路 ┃ 经典整合 [614ms]",
+            "name": "👑刘备线路 ┃ 经典整合 [857ms]",
             "url": "https://raw.liucn.cc/box/m.json"
         },
         {
-            "name": "🐴小马线路 ┃ 综合备用 [1989ms]",
+            "name": "🐴小马线路 ┃ 综合备用 [74ms]",
             "url": "http://szyyds.cn/tv/x.json"
         },
         {
-            "name": "📛挺好线路 ┃ 优质备用 [1454ms]",
+            "name": "📛挺好线路 ┃ 优质备用 [215ms]",
             "url": "https://ztha.top/TVBox/thdjk.json"
         },
         {
-            "name": "🚀fish2018_tvbox_源 [224ms]",
+            "name": "🚀fish2018_tvbox_源 [31ms]",
             "url": "https://www.iyouhun.com/tv/0"
         },
         {
-            "name": "🚀™夜猫子源 [341ms]",
+            "name": "🚀™夜猫子源 [219ms]",
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
         },
         {
-            "name": "🚀菜妮丝线 [413ms]",
+            "name": "🚀菜妮丝线 [300ms]",
             "url": "https://tv.xn--yhqu5zs87a.top"
         }
     ]
