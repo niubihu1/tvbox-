@@ -2,6 +2,7 @@
 {
     "urls": [
         {
+<<<<<<< Updated upstream
             "name": "🐯牛虎 ┃ 豆瓣热播 [在线]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
         },
@@ -59,6 +60,65 @@
         },
         {
             "name": "🚀周J线路 ┃ 备用维护 [在线]",
+=======
+            "name": "🐯牛虎 ┃ 豆瓣热播 [651ms]",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
+        },
+        {
+            "name": "🐼肥猫线路 ┃ 官方主力 [566ms]",
+            "url": "http://xn--z7x900a.net/tv"
+        },
+        {
+            "name": "🍚饭太硬线 ┃ 旗舰片单 [498ms]",
+            "url": "http://www.xn--sss604efuw.cc/tv"
+        },
+        {
+            "name": "🐟摸鱼接口 ┃ 4K极速 [799ms]",
+            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top"
+        },
+        {
+            "name": "📺EasyTV ┃ 熵侦精选 [1296ms]",
+            "url": "https://easyzz.dpdns.org/easytv.jpg"
+        },
+        {
+            "name": "🍃南风接口 ┃ 官方精选 [2013ms]",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
+        },
+        {
+            "name": "🍵荷城茶秀 ┃ 道长经典 [1274ms]",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
+        },
+        {
+            "name": "⚡俊宇线路 ┃ 蓝光秒播 [890ms]",
+            "url": "http://home.jundie.top:81/top98.json"
+        },
+        {
+            "name": "🚀王二小线 ┃ 综合推荐 [321ms]",
+            "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
+        },
+        {
+            "name": "🌟潇洒线路 ┃ 优质备用 [300ms]",
+            "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
+        },
+        {
+            "name": "👿心魔线路 ┃ 极速专线 [112ms]",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+        },
+        {
+            "name": "📦小盒子线 ┃ 精品多线 [646ms]",
+            "url": "http://xhztv.top/dc/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json"
+        },
+        {
+            "name": "🐼肥猫线路 ┃ 备用镜像 [326ms]",
+            "url": "http://xn--z7x900a.live/"
+        },
+        {
+            "name": "🍚饭太硬线 ┃ 备用镜像 [350ms]",
+            "url": "http://www.xn--sss604efuw.net/tv"
+        },
+        {
+            "name": "🚀周J线路 ┃ 备用维护 [620ms]",
+>>>>>>> Stashed changes
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box"
         },
         {
@@ -66,6 +126,7 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
         },
         {
+<<<<<<< Updated upstream
             "name": "👑刘备线路 ┃ 经典整合 [在线]",
             "url": "https://raw.liucn.cc/box/m.json"
         },
@@ -88,6 +149,30 @@
         {
             "name": "🚀菜妮丝线 [在线]",
             "url": "https://tv.xn--yhqu5zs87a.top"
+=======
+            "name": "👑刘备线路 ┃ 经典整合 [366ms]",
+            "url": "https://raw.liucn.cc/box/m.json"
+        },
+        {
+            "name": "🐴小马线路 ┃ 综合备用 [1043ms]",
+            "url": "http://szyyds.cn/tv/x.json"
+        },
+        {
+            "name": "📛挺好线路 ┃ 优质备用 [203ms]",
+            "url": "https://ztha.top/TVBox/thdjk.json"
+        },
+        {
+            "name": "🚀fish2018_tvbox_源 [38ms]",
+            "url": "https://www.iyouhun.com/tv/0"
+        },
+        {
+            "name": "🚀™夜猫子源 [203ms]",
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
+        },
+        {
+            "name": "🚀™菜妮丝源 [317ms]",
+            "url": "https://tv.xn--yhqu5zs87a.top/"
+>>>>>>> Stashed changes
         }
     ]
 }

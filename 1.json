@@ -746,19 +746,6 @@
       "ext": "https://gh-proxy.com/https://github.com/heroaku/TVboxo/main/JS/骚火电影.js"
     },
     {
-      "key": "养生堂",
-      "name": "养生 | 知识",
-      "type": 3,
-      "api": "csp_YST",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.618
-      }
-    },
-    {
       "key": "半日99",
       "name": "半日 | APP",
       "type": 3,
@@ -770,6 +757,19 @@
         "package": "com.yf.lelian",
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "养生堂",
+      "name": "养生 | 知识",
+      "type": 3,
+      "api": "csp_YST",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
       }
     },
     {
@@ -969,9 +969,15 @@
       "ext": {
         "site": [
           "https://www.fmcf.fun",
+<<<<<<< Updated upstream
           "https://www.mmpanpan.site",
           "http://tvpanpan.site",
           "http://www.tvpanpan.site"
+=======
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site",
+          "https://www.mmpanpan.site"
+>>>>>>> Stashed changes
         ]
       },
       "timeout": 60
