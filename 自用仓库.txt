@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "name": "🐯牛虎 ┃ 豆瓣热播 [360ms]",
+            "name": "🐯牛虎 ┃ 豆瓣热播 [733ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
         },
         {
@@ -10,7 +10,7 @@
             "url": "http://xn--z7x900a.net/tv"
         },
         {
-            "name": "🍚饭太硬线 ┃ 旗舰片单 [366ms]",
+            "name": "🍚饭太硬线 ┃ 旗舰片单 [374ms]",
             "url": "http://www.xn--sss604efuw.cc/tv"
         },
         {
@@ -26,7 +26,7 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
         },
         {
-            "name": "🍵荷城茶秀 ┃ 道长经典 [1233ms]",
+            "name": "🍵荷城茶秀 ┃ 道长经典 [1275ms]",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
         },
         {
@@ -50,15 +50,15 @@
             "url": "http://xhztv.top/dc/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json"
         },
         {
-            "name": "🐼肥猫线路 ┃ 备用镜像 [341ms]",
+            "name": "🐼肥猫线路 ┃ 备用镜像 [382ms]",
             "url": "http://xn--z7x900a.live/"
         },
         {
-            "name": "🍚饭太硬线 ┃ 备用镜像 [279ms]",
+            "name": "🍚饭太硬线 ┃ 备用镜像 [349ms]",
             "url": "http://www.xn--sss604efuw.net/tv"
         },
         {
-            "name": "🚀周J线路 ┃ 备用维护 [432ms]",
+            "name": "🚀周J线路 ┃ 备用维护 [767ms]",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/config/main/box"
         },
         {
