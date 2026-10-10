@@ -727,6 +727,16 @@
       }
     },
     {
+      "key": "csp_秋霞电影",
+      "name": "👑秋霞电影👑",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%A7%8B%E9%9C%9E%E7%94%B5%E5%BD%B1.json"
+    },
+    {
       "key": "耐看",
       "name": "👑耐看点播👑",
       "type": 3,
@@ -736,16 +746,6 @@
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
         "分类url": "https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html"
       }
-    },
-    {
-      "key": "csp_秋霞电影",
-      "name": "👑秋霞电影👑",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%A7%8B%E9%9C%9E%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "番社动漫",
@@ -796,16 +796,6 @@
       }
     },
     {
-      "key": "Manbo",
-      "name": "🕺┆曼波┆动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
-    },
-    {
       "key": "csp_影業",
       "name": "酒吧┃影视",
       "type": 3,
@@ -822,6 +812,16 @@
         "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
+    },
+    {
+      "key": "Manbo",
+      "name": "🕺┆曼波┆动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
     },
     {
       "key": "csp_TSaowuAmns",
@@ -852,6 +852,21 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/"
+    },
+    {
+      "key": "半日99",
+      "name": "半日秒播",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
     },
     {
       "key": "趣盘",
@@ -934,16 +949,6 @@
       "timeout": 60
     },
     {
-      "key": "蚂蚁",
-      "name": "🐜1080P┃蚂蚁",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "旺旺影视",
       "name": "旺旺 • 影视",
       "type": 3,
@@ -990,6 +995,16 @@
       }
     },
     {
+      "key": "蚂蚁",
+      "name": "🐜1080P┃蚂蚁",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "name": "🐱番薯┃动漫",
       "key": "DMfans",
       "type": 3,
@@ -998,21 +1013,6 @@
       "quickSearch": 0,
       "changeable": 1,
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
-      "key": "半日99",
-      "name": "半日秒播",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
     },
     {
       "key": "本地",
@@ -1038,6 +1038,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "https://www.wogg.live",
           "https://woggpan.888484.xyz",
           "https://wogg.link"
         ]
@@ -1055,8 +1056,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:12521",
-          "http://xsayang.fun"
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
         ]
       },
       "timeout": 60
@@ -1074,8 +1075,8 @@
         "site": [
           "https://123.666291.xyz",
           "https://666.666291.xyz",
-          "https://www.muou.asia",
-          "https://www.muou.site"
+          "https://www.muou.site",
+          "https://www.muou.asia"
         ]
       },
       "timeout": 60
@@ -1107,10 +1108,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://www.tvpanpan.site",
-          "http://tvpanpan.site",
           "https://www.fmcf.fun",
-          "https://www.mmpanpan.site"
+          "https://www.mmpanpan.site",
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site"
         ]
       },
       "timeout": 60
@@ -1143,7 +1144,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com"
+          "https://www.80yy3.com",
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
         ]
       },
       "timeout": 60
@@ -1159,8 +1163,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:16969",
-          "http://xhban.xyz"
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
         ]
       },
       "timeout": 60
@@ -1176,8 +1180,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.huanjuanwp.shop",
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60
@@ -1554,6 +1558,27 @@
       }
     },
     {
+      "key": "zy360",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "纪录片",
+        "动画片",
+        "欧美剧",
+        "香港剧"
+      ]
+    },
+    {
       "key": "快车资源",
       "name": "快车资源",
       "type": 1,
@@ -1635,14 +1660,6 @@
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "影图",
-      "name": "⛺┃影图┃2K",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "无尽资源",
       "name": "无尽资源(切)",
       "type": 1,
@@ -1657,27 +1674,6 @@
       "api": "http://xydm.baicai.buzz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "zy360",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "纪录片",
-        "动画片",
-        "欧美剧",
-        "香港剧"
-      ]
     },
     {
       "key": "蜗牛动漫",
@@ -1712,6 +1708,14 @@
         "日剧",
         "泰剧"
       ]
+    },
+    {
+      "key": "影图",
+      "name": "⛺┃影图┃2K",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "88看球",
