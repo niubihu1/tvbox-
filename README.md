@@ -75,7 +75,7 @@
 
 * **主流大仓测速合集（包含肥猫、饭太硬、摸鱼等主流一线大仓本地宽带实时测速与毫秒延迟标注）**：
   ```text
-  https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt
+  https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/自用仓库.txt
   ```
 
 ---
