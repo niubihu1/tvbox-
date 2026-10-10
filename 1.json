@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy1008.jar;md5;b5c71cca5b4e242af6feb755e9cac308",
+  "spider": "https://img2.tofaka.com/autoupload/f/l7b72/20261008/34LT/0X0/easy10.08.png;md5;b5c71cca5b4e242af6feb755e9cac308",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/logo.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -344,6 +344,13 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       }
+    },
+    {
+      "key": "韩圈",
+      "name": "韩圈｜APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
     },
     {
       "key": "csp_AppDrama_橘汁",
@@ -1000,16 +1007,6 @@
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
     },
     {
-      "name": "🐱牛来┃动漫",
-      "key": "DMox",
-      "type": 3,
-      "api": "csp_DMoxAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
-    },
-    {
       "key": "本地",
       "name": "本地视频 | 10.8",
       "type": 3,
@@ -1033,7 +1030,6 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://woggpan.888484.xyz",
           "https://wogg.link"
         ]
       },
@@ -1050,6 +1046,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "http://xsayang.fun",
           "http://38.76.197.172:12521"
         ]
       },
@@ -1066,8 +1063,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
-          "https://123.666291.xyz"
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       },
       "timeout": 60
@@ -1100,6 +1097,8 @@
       "ext": {
         "site": [
           "https://www.fmcf.fun",
+          "https://www.mmpanpan.site",
+          "http://tvpanpan.site",
           "http://www.tvpanpan.site"
         ]
       },
@@ -1116,8 +1115,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
+          "https://tv.214521.xyz",
+          "https://tv.yydsys.cc"
         ]
       },
       "timeout": 60
@@ -1133,10 +1132,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com",
-          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz",
           "https://ogkk.nxog.eu.org",
-          "https://woog.430520.xyz"
+          "https://woog.nxog.eu.org",
+          "https://www.80yy3.com"
         ]
       },
       "timeout": 60
@@ -1152,6 +1151,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "http://xhban.xyz",
           "http://38.76.197.172:16969"
         ]
       },
@@ -1168,6 +1168,7 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "https://www.hjzhencai.top",
           "https://www.huanjuanwp.shop"
         ]
       },
@@ -1362,6 +1363,50 @@
       "quickSearch": 1
     },
     {
+      "key": "49zy",
+      "name": "🦁┃四九┃资源",
+      "type": 1,
+      "api": "https://49zy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+    {
       "key": "csp_xml_飞速",
       "name": "❤飞速资源",
       "type": 1,
@@ -1399,6 +1444,44 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
+      ]
+    },
+    {
+      "key": "奇虎资源",
+      "name": "🐯┃奇虎┃采集",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "伦理片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "动画片",
+        "体育",
+        "短剧",
+        "网络电影"
       ]
     },
     {
@@ -1457,6 +1540,15 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "乐乐",
+      "name": "🎡️┃乐乐┃影视",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "天空资源",
@@ -1648,61 +1740,6 @@
       "api": "http://xydm.baicai.buzz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "蜗牛动漫",
-      "name": "蜗牛动漫(聚)",
-      "type": 1,
-      "api": "http://woniudm.woniu.cyou:20000/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "vod_光速",
-      "name": "雷蒙影视 | 🚀光速",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
-    {
-      "key": "mdzy",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "纪录片",
-        "动画片",
-        "欧美剧",
-        "香港剧"
-      ]
     },
     {
       "key": "88看球",
