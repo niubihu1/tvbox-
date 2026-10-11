@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🐯牛虎(22条精品线)🍭",
+      "sourceName": "🐯牛虎(20条精品线)🍭",
       "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -53,21 +53,21 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀点播-长期多仓接口 [134ms]",
-      "sourceUrl": "https://www.ls660.com/TV/tvbox.json"
+      "sourceName": "🚀niuber_tvbox_源 [在线]",
+      "sourceUrl": "https://raw.githubusercontent.com/niuber/niuber/refs/heads/main/niuber.json"
     },
     {
-      "sourceName": "🚀盒多仓接口 [166ms]",
-      "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"
+      "sourceName": "🚀小盒子多仓（备） [在线]",
+      "sourceUrl": "http://xhztv.top/DC.txt"
     },
     {
-      "sourceName": "🚀点播-临时多仓接口 [212ms]",
-      "sourceUrl": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+      "sourceName": "🚀60. 多多应用多仓接口 [在线]",
+      "sourceUrl": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json"
     }
   ],
   "urls": [
     {
-      "name": "🐯牛虎(22条精品线)🍭",
+      "name": "🐯牛虎(20条精品线)🍭",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -119,16 +119,16 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀点播-长期多仓接口 [134ms]",
-      "url": "https://www.ls660.com/TV/tvbox.json"
+      "name": "🚀niuber_tvbox_源 [在线]",
+      "url": "https://raw.githubusercontent.com/niuber/niuber/refs/heads/main/niuber.json"
     },
     {
-      "name": "🚀盒多仓接口 [166ms]",
-      "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"
+      "name": "🚀小盒子多仓（备） [在线]",
+      "url": "http://xhztv.top/DC.txt"
     },
     {
-      "name": "🚀点播-临时多仓接口 [212ms]",
-      "url": "https://1812012130.cdn.123clouddisk.com/1812012130/30824909"
+      "name": "🚀60. 多多应用多仓接口 [在线]",
+      "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json"
     }
   ]
 }

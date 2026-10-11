@@ -796,16 +796,6 @@
       }
     },
     {
-      "key": "Manbo",
-      "name": "🕺┆曼波┆动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
-    },
-    {
       "key": "csp_影業",
       "name": "酒吧┃影视",
       "type": 3,
@@ -834,17 +824,14 @@
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
     },
     {
-      "key": "方舟动漫",
-      "name": "🌸┃方舟┃动漫",
+      "key": "Manbo",
+      "name": "🕺┆曼波┆动漫",
       "type": 3,
-      "searchable": 1,
       "api": "csp_AppGet",
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6",
-      "ext": {
-        "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
-      }
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
     },
     {
       "key": "半日99",
@@ -869,6 +856,19 @@
       "ext": "https://www.vip1949.com/"
     },
     {
+      "key": "方舟动漫",
+      "name": "🌸┃方舟┃动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6",
+      "ext": {
+        "url": "https://www.cyfz.top",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d"
+      }
+    },
+    {
       "key": "趣盘",
       "name": "趣盘 • 搜索",
       "type": 3,
@@ -877,6 +877,18 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60
+    },
+    {
+      "key": "养生堂",
+      "name": "健康 • 养生堂",
+      "type": 3,
+      "api": "csp_YST",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "七猫短剧",
@@ -925,18 +937,6 @@
         "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
       },
       "genre": "shortdrama"
-    },
-    {
-      "key": "养生堂",
-      "name": "健康 • 养生堂",
-      "type": 3,
-      "api": "csp_YST",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
     },
     {
       "key": "鬼鬼",
@@ -1038,8 +1038,9 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://wogg.link",
-          "https://woggpan.888484.xyz"
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.link"
         ]
       },
       "timeout": 60
@@ -1055,8 +1056,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:12521",
-          "http://xsayang.fun"
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
         ]
       },
       "timeout": 60
@@ -1072,10 +1073,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
           "https://123.666291.xyz",
-          "https://www.muou.asia",
-          "https://www.muou.site"
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
         ]
       },
       "timeout": 60
@@ -1107,10 +1108,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://tvpanpan.site",
-          "http://www.tvpanpan.site",
           "https://www.fmcf.fun",
-          "https://www.mmpanpan.site"
+          "https://www.mmpanpan.site",
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site"
         ]
       },
       "timeout": 60
@@ -1143,7 +1144,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com"
+          "https://www.80yy3.com",
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
         ]
       },
       "timeout": 60
@@ -1159,8 +1163,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:16969",
-          "http://xhban.xyz"
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
         ]
       },
       "timeout": 60
@@ -1176,8 +1180,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.huanjuanwp.shop",
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60
@@ -1505,12 +1509,42 @@
       "changeable": 1
     },
     {
-      "key": "光速资源",
-      "name": "光速资源(切)",
+      "key": "csp_xml_光速",
+      "name": "❤光速资源",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "体育赛事",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
     },
     {
       "key": "天空资源",
@@ -1599,6 +1633,14 @@
       }
     },
     {
+      "key": "光速资源",
+      "name": "光速资源(切)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "zy360",
       "name": "360资源",
       "type": 1,
@@ -1628,42 +1670,18 @@
       "quickSearch": 0
     },
     {
-      "key": "csp_xml_光速",
-      "name": "❤光速资源",
+      "key": "魔都动漫",
+      "name": "🌻魔都动漫🌻",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动漫电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "韩剧",
-        "台湾剧",
-        "日剧",
-        "海外剧",
-        "泰剧",
-        "体育赛事",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+      "quickSearch": 1
+    },
+    {
+      "key": "影探",
+      "name": "影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
       "key": "ruyi",
@@ -1685,20 +1703,6 @@
         "欧美剧",
         "香港剧"
       ]
-    },
-    {
-      "key": "魔都动漫",
-      "name": "🌻魔都动漫🌻",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "影探",
-      "name": "影探",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
       "key": "影图",
