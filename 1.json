@@ -1038,7 +1038,6 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.live",
           "https://woggpan.888484.xyz",
           "https://wogg.link"
         ]
@@ -1056,8 +1055,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
+          "http://38.76.197.172:12521",
+          "http://xsayang.fun"
         ]
       },
       "timeout": 60
@@ -1144,10 +1143,7 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com",
-          "https://woog.nxog.eu.org",
-          "https://ogkk.nxog.eu.org",
-          "https://woog.430520.xyz"
+          "https://www.80yy3.com"
         ]
       },
       "timeout": 60
@@ -1163,8 +1159,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xhban.xyz",
-          "http://38.76.197.172:16969"
+          "http://38.76.197.172:16969",
+          "http://xhban.xyz"
         ]
       },
       "timeout": 60
@@ -1180,8 +1176,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.hjzhencai.top",
-          "https://www.huanjuanwp.shop"
+          "https://www.huanjuanwp.shop",
+          "https://www.hjzhencai.top"
         ]
       },
       "timeout": 60
@@ -1703,6 +1699,14 @@
       "name": "影探",
       "type": 4,
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "影图",
+      "name": "⛺┃影图┃2K",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "无尽资源",
