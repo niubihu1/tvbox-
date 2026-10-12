@@ -814,6 +814,16 @@
       }
     },
     {
+      "key": "Manbo",
+      "name": "🕺┆曼波┆动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
+    },
+    {
       "key": "csp_TSaowuAmns",
       "name": "雷蒙影视 | 📖听听(SP)",
       "type": 3,
@@ -824,14 +834,24 @@
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
     },
     {
-      "key": "Manbo",
-      "name": "🕺┆曼波┆动漫",
+      "key": "方舟动漫",
+      "name": "🌸┃方舟┃动漫",
       "type": 3,
-      "api": "csp_AppGet",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
+      "api": "csp_AppGet",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6",
+      "ext": {
+        "url": "https://www.cyfz.top",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d"
+      }
+    },
+    {
+      "key": "枫叶影视",
+      "name": "枫叶 • 影视",
+      "type": 3,
+      "api": "csp_FengYe",
+      "ext": "https://www.vip1949.com/"
     },
     {
       "key": "半日99",
@@ -846,26 +866,6 @@
         "package": "com.yf.lelian",
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
-      "key": "枫叶影视",
-      "name": "枫叶 • 影视",
-      "type": 3,
-      "api": "csp_FengYe",
-      "ext": "https://www.vip1949.com/"
-    },
-    {
-      "key": "方舟动漫",
-      "name": "🌸┃方舟┃动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6",
-      "ext": {
-        "url": "https://www.cyfz.top",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d"
       }
     },
     {
@@ -1038,9 +1038,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.live",
-          "https://woggpan.888484.xyz",
-          "https://wogg.link"
+          "https://wogg.link",
+          "https://woggpan.888484.xyz"
         ]
       },
       "timeout": 60
@@ -1056,8 +1055,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
+          "http://38.76.197.172:12521",
+          "http://xsayang.fun"
         ]
       },
       "timeout": 60
@@ -1073,10 +1072,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
           "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://123.666291.xyz",
+          "https://www.muou.asia",
+          "https://www.muou.site"
         ]
       },
       "timeout": 60
@@ -1108,10 +1107,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.fmcf.fun",
-          "https://www.mmpanpan.site",
           "http://tvpanpan.site",
-          "http://www.tvpanpan.site"
+          "https://www.mmpanpan.site",
+          "http://www.tvpanpan.site",
+          "https://www.fmcf.fun"
         ]
       },
       "timeout": 60
@@ -1144,10 +1143,7 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com",
-          "https://woog.nxog.eu.org",
-          "https://ogkk.nxog.eu.org",
-          "https://woog.430520.xyz"
+          "https://www.80yy3.com"
         ]
       },
       "timeout": 60
@@ -1163,8 +1159,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xhban.xyz",
-          "http://38.76.197.172:16969"
+          "http://38.76.197.172:16969",
+          "http://xhban.xyz"
         ]
       },
       "timeout": 60
@@ -1180,8 +1176,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.hjzhencai.top",
-          "https://www.huanjuanwp.shop"
+          "https://www.huanjuanwp.shop",
+          "https://www.hjzhencai.top"
         ]
       },
       "timeout": 60
@@ -1678,12 +1674,6 @@
       "quickSearch": 1
     },
     {
-      "key": "影探",
-      "name": "影探",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
-    },
-    {
       "key": "ruyi",
       "name": "如意资源",
       "type": 1,
@@ -1703,6 +1693,12 @@
         "欧美剧",
         "香港剧"
       ]
+    },
+    {
+      "key": "影探",
+      "name": "影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
       "key": "影图",
