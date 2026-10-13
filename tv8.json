@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🐯牛虎(20条精品线)🍭",
+      "sourceName": "🐯牛虎(21条精品线)🍭",
       "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -53,12 +53,12 @@
       "sourceUrl": "https://12586.kstore.space/123.json"
     },
     {
-      "sourceName": "🚀小盒子多仓 [在线]",
-      "sourceUrl": "http://xhztv.top/dc/"
-    },
-    {
       "sourceName": "🚀小盒子多仓（备） [在线]",
       "sourceUrl": "http://xhztv.top/DC.txt"
+    },
+    {
+      "sourceName": "🚀拾光（多仓）：一 [在线]",
+      "sourceUrl": "http://xmbjm.fh4u.org/ck.txt"
     },
     {
       "sourceName": "🚀niuber_tvbox_源 [在线]",
@@ -67,7 +67,7 @@
   ],
   "urls": [
     {
-      "name": "🐯牛虎(20条精品线)🍭",
+      "name": "🐯牛虎(21条精品线)🍭",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt"
     },
     {
@@ -119,12 +119,12 @@
       "url": "https://12586.kstore.space/123.json"
     },
     {
-      "name": "🚀小盒子多仓 [在线]",
-      "url": "http://xhztv.top/dc/"
-    },
-    {
       "name": "🚀小盒子多仓（备） [在线]",
       "url": "http://xhztv.top/DC.txt"
+    },
+    {
+      "name": "🚀拾光（多仓）：一 [在线]",
+      "url": "http://xmbjm.fh4u.org/ck.txt"
     },
     {
       "name": "🚀niuber_tvbox_源 [在线]",
