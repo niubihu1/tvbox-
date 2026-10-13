@@ -748,6 +748,27 @@
       "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%A7%8B%E9%9C%9E%E7%94%B5%E5%BD%B1.json"
     },
     {
+      "key": "骚火",
+      "name": "💢骚火",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+    {
       "key": "番社动漫",
       "name": "番社 • 动漫",
       "type": 3,
@@ -775,45 +796,6 @@
       }
     },
     {
-      "key": "骚火",
-      "name": "💢骚火",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-    {
-      "key": "csp_影業",
-      "name": "酒吧┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "玖八",
-        "主页url": "http://www.98dyb.com/",
-        "简介": "【大千视界】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
-        "影片状态": "状态：&&</p>",
-        "副标题": "✨大千视界✨+text-right\">&&</span>",
-        "搜索url": "/search.php;post;searchword={wd}",
-        "线路数组": "<h3&&/h3>",
-        "线路标题": "玉玉专享✨+src=*>&&<",
-        "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
-        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-      }
-    },
-    {
       "key": "Manbo",
       "name": "🕺┆曼波┆动漫",
       "type": 3,
@@ -832,6 +814,24 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"
+    },
+    {
+      "key": "csp_影業",
+      "name": "酒吧┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "玖八",
+        "主页url": "http://www.98dyb.com/",
+        "简介": "【大千视界】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+        "影片状态": "状态：&&</p>",
+        "副标题": "✨大千视界✨+text-right\">&&</span>",
+        "搜索url": "/search.php;post;searchword={wd}",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "玉玉专享✨+src=*>&&<",
+        "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      }
     },
     {
       "key": "方舟动漫",
@@ -869,16 +869,6 @@
       }
     },
     {
-      "key": "趣盘",
-      "name": "趣盘 • 搜索",
-      "type": 3,
-      "api": "csp_QuPanSo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
       "key": "养生堂",
       "name": "健康 • 养生堂",
       "type": 3,
@@ -889,6 +879,26 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "趣盘",
+      "name": "趣盘 • 搜索",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "蚂蚁",
+      "name": "🐜1080P┃蚂蚁",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "七猫短剧",
@@ -995,16 +1005,6 @@
       }
     },
     {
-      "key": "蚂蚁",
-      "name": "🐜1080P┃蚂蚁",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "🐱番薯┃动漫",
       "key": "DMfans",
       "type": 3,
@@ -1038,8 +1038,9 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://wogg.link",
-          "https://woggpan.888484.xyz"
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.link"
         ]
       },
       "timeout": 60
@@ -1055,8 +1056,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:12521",
-          "http://xsayang.fun"
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
         ]
       },
       "timeout": 60
@@ -1072,10 +1073,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://666.666291.xyz",
           "https://123.666291.xyz",
-          "https://www.muou.asia",
-          "https://www.muou.site"
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
         ]
       },
       "timeout": 60
@@ -1107,10 +1108,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://tvpanpan.site",
+          "https://www.fmcf.fun",
           "https://www.mmpanpan.site",
-          "http://www.tvpanpan.site",
-          "https://www.fmcf.fun"
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site"
         ]
       },
       "timeout": 60
@@ -1143,7 +1144,10 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.80yy3.com"
+          "https://www.80yy3.com",
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
         ]
       },
       "timeout": 60
@@ -1159,8 +1163,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://38.76.197.172:16969",
-          "http://xhban.xyz"
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
         ]
       },
       "timeout": 60
@@ -1176,8 +1180,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.huanjuanwp.shop",
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60
@@ -1637,6 +1641,14 @@
       "quickSearch": 1
     },
     {
+      "key": "快车资源",
+      "name": "快车资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "zy360",
       "name": "360资源",
       "type": 1,
@@ -1656,14 +1668,6 @@
         "欧美剧",
         "香港剧"
       ]
-    },
-    {
-      "key": "快车资源",
-      "name": "快车资源",
-      "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
     },
     {
       "key": "魔都动漫",
