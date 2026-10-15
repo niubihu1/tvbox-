@@ -78,16 +78,16 @@
             "url": "https://ztha.top/TVBox/thdjk.json"
         },
         {
-            "name": "🚀菜妮丝线 [在线]",
-            "url": "https://tv.xn--yhqu5zs87a.top"
-        },
-        {
             "name": "🚀fish2018_tvbox_源 [在线]",
             "url": "https://www.iyouhun.com/tv/0"
         },
         {
-            "name": "🚀™菜妮丝源 [在线]",
-            "url": "https://tv.xn--yhqu5zs87a.top/"
+            "name": "🚀东篱线路 [在线]",
+            "url": "https://chigua.eu.org"
+        },
+        {
+            "name": "🚀南博兔① [在线]",
+            "url": "http://woniu.ccccocccc.cc/nbt.txt"
         }
     ]
 }
