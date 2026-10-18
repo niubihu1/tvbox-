@@ -86,8 +86,8 @@
             "url": "https://www.iyouhun.com/tv/0"
         },
         {
-            "name": "🚀™夜猫子源 [在线]",
-            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
+            "name": "🚀南博兔① [在线]",
+            "url": "http://woniu.ccccocccc.cc/nbt.txt"
         }
     ]
 }
